@@ -24,6 +24,17 @@ Official deployment instructions: https://docs.github.com/en/pages/getting-start
 
 ## Included study features
 
+The HSK 4 Grammar guide now has **Take a grammar exam**: select specific topics,
+choose one of 50 sets, and answer 1–150 questions (one per selected topic).
+The three formats are typed blanks, multiple-choice meaning questions, and chunk
+ordering. Exams are untimed, support save/resume, and reveal answers after submission.
+The bank has 7,500 distinct sentence strings, none copied from the guide. It uses
+150 constructions with 50 activity substitutions, so sentence structures repeat.
+It does **not yet fulfill** the requirement for 50 independently varied questions
+per topic. Full English sentence translations and linguistic editorial review
+also remain to be completed; feedback supplies activity glosses and pattern explanations.
+Validate with `node tools/validate-grammar-exams.cjs`.
+
 - HSK 3 / HSK 4 level selection.
 - 50 deterministic full-length practice forms per level.
 - Separately selectable listening, reading, and writing sections.
