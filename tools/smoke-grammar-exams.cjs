@@ -30,7 +30,8 @@ assert.equal(bank.length,20);assert(bank.every(q=>['gap','order'].includes(q.typ
 await page.locator('[data-action="finish"]').click();await page.locator('[data-action="confirm-finish"]').click();
 await page.locator('[data-view="grammar"]').click();await page.locator('[data-action="grammar-exam"]').click();
 await page.locator('#grammar-question-count').fill('3');await page.locator('[data-action="start-grammar-exam"]').click();
-assert.equal(await page.locator('[data-action="check"]').count(),0);assert.equal(await page.locator('.feedback').count(),0);
+assert.equal(await page.locator('[data-action="check"]').count(),1);assert.equal(await page.locator('.feedback').count(),0);
+await page.locator('[data-action="show-answer"]').click();assert((await page.locator('.feedback h3').innerText()).includes('Answer revealed'));
 await page.reload();await page.locator('[data-action="resume"]').first().click();
 assert((await page.locator('.question-meta').innerText()).includes('OF 3'));
 await page.locator('[data-action="finish"]').click();await page.locator('[data-action="confirm-finish"]').click();

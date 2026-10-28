@@ -24,10 +24,19 @@ Official deployment instructions: https://docs.github.com/en/pages/getting-start
 
 ## Included study features
 
+Flashcards includes an **Exam** button. Choose HSK 1, 2, 3, 4, or All;
+type Chinese characters for the English prompts, then submit and review answers.
+The bank contains 150 HSK 1 entries, 150 HSK 2 entries, 300 HSK 3 words and
+600 HSK 4 words. HSK 3 has two fixed 150-word parts; HSK 4 has four. All mode
+contains 1,200 study entries, retaining distinct source entries across levels.
+HSK 2 counts 因为……所以…… as one paired-expression entry. Source details and
+the normalization are documented in [VOCABULARY-SOURCES.md](VOCABULARY-SOURCES.md).
+Valid alternative translations can be self-assessed during answer review.
+
 The HSK 4 Grammar guide now has **Take a grammar exam**: select specific topics,
 choose one of 50 sets, and answer 1–150 questions (one per selected topic).
-The three formats are typed blanks, multiple-choice meaning questions, and chunk
-ordering. Exams are untimed, support save/resume, and reveal answers after submission.
+The two formats are typed blanks and chunk ordering. Exams are untimed,
+support save/resume, and reveal answers after submission.
 The bank has 7,500 distinct sentence strings, none copied from the guide. It uses
 150 constructions with 50 activity substitutions, so sentence structures repeat.
 It does **not yet fulfill** the requirement for 50 independently varied questions

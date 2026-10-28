@@ -7,3 +7,25 @@
 @media print{.sidebar,.topbar,.actions,.btn,.exam-side,#toast{display:none!important}.shell{display:block}main{padding:0}.card{border:1px solid #ccc;box-shadow:none;break-inside:avoid}body{background:white;color:black}.exam-layout{display:block}}
 
 .grammar-topic-picker{max-height:38vh;overflow:auto;margin:16px 0;padding:12px;border:1px solid var(--line);border-radius:12px}.grammar-topic-option{display:flex;align-items:baseline;gap:10px;padding:8px}.grammar-topic-option input{flex-shrink:0}.grammar-topic-option:focus-within{outline:2px solid var(--ink)}
+
+/* Exam spacing and bounded navigation, including full vocabulary exams. */
+.exam-layout{gap:24px;grid-template-columns:minmax(0,1fr) 248px}
+.exam-layout>div{min-width:0}
+.question-card{padding:0;overflow:hidden}
+.question-content{padding:28px 32px 32px;min-height:300px}
+.question-meta{align-items:center;margin:0 0 28px;padding-bottom:18px;border-bottom:1px solid var(--line)}
+.question-content>.label{display:block;margin:24px 0 8px}
+.question-content>#written-answer{display:block;width:100%;min-height:54px;padding:12px 16px}
+.question-content>.prompt{margin:20px 0 24px;line-height:1.9}
+.question-content>h2{margin:12px 0 28px;line-height:1.5;overflow-wrap:anywhere}
+.question-card .actions{justify-content:flex-start;margin:0;padding:20px 32px;gap:12px;background:var(--bg)}
+.question-card .actions>.btn:last-child{margin-left:auto}
+.exam-side .card{padding:22px}
+.exam-side .jump-grid{max-height:280px;overflow-y:auto;align-content:start;padding:4px;scrollbar-gutter:stable}
+.exam-side .stack{gap:12px}
+.feedback{overflow-wrap:anywhere}
+.modal>.field{margin:20px 0}
+.modal>.row.mt{margin-top:24px}
+@media(max-width:1150px){.exam-layout{grid-template-columns:minmax(0,1fr) 210px}.question-content{padding:24px}.question-card .actions{padding:18px 24px}}
+@media(max-width:850px){.exam-layout{grid-template-columns:1fr}.exam-side .jump-grid{max-height:180px}}
+@media(max-width:560px){.question-content{padding:20px;min-height:260px}.question-meta{gap:8px;margin-bottom:22px;flex-wrap:wrap}.question-card .actions{padding:16px 20px;display:grid;grid-template-columns:1fr 1fr;gap:10px}.question-card .actions>.btn:last-child{margin-left:0}.exam-side .card{padding:20px}.modal{padding:22px}.question-content>#written-answer{font-size:23px}}
