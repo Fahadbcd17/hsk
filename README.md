@@ -151,3 +151,31 @@ After a website update, increment the cache version in `sw.js`. Then **Check for
 ## Suggested study routine
 
 Start with a full paper to identify weaker sections. Read explanations for mistakes, retry them without looking at the answer, and use dictation or sentence building for recurring problems. Pair this site with your HSK 2.0 textbook and official sample papers, especially for authentic listening length and difficulty.
+
+## Book
+
+The **Book** section follows the supplied HSK Standard Course 4 A/B textbooks
+(HSK 2.0): 20 chapter cards, 619 listed vocabulary entries including supplemental
+terms, and all five dialogues/readings per chapter (100 passages). Chapters show
+new words first, mapped grammar with two original study examples per point, then
+passages in textbook order. Every passage links to its source PDF page.
+
+Vocabulary and grammar examples always show pinyin and English. Buttons at the
+top independently hide or show the vocabulary and grammar sections. Directly
+above the passages, pinyin and English toggles control only passage sentences.
+Vocabulary uses responsive columns. Each passage sentence has its own Chinese,
+pinyin, and full English sentence translations; the latter two are independently
+toggled. All 796 passage sentences have authored translations. Individual word
+meanings are available in the hover popups.
+Hover, focus, or tap any Chinese character in a passage to see the whole word’s pinyin, dictionary meaning, and part of speech,
+plus the selected character’s pinyin. Compound words such as 听说 highlight
+as one unit when either character is hovered or tapped. Escape or tapping outside closes the popup.
+Chapters 1–19 have a next-chapter button; chapter 20 returns to all chapters.
+
+The reader and annotations work offline after the app is cached. Source PDFs
+are opened separately and are not pre-cached. See [BOOK-SOURCES.md](BOOK-SOURCES.md)
+for source attribution, annotation methods, and rebuild instructions.
+
+Validate content with `node tools/validate-book.cjs`. With a local HTTP server
+and Python Playwright installed, run `python3 tools/smoke-book.py` for browser
+checks. Set `BOOK_CHROME` to your Chromium executable if needed.

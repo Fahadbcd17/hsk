@@ -1,0 +1,3186 @@
+{
+  "1.1.1.1": {
+    "text": "孙月：听说你男朋友李进跟你是一个学校的，是你同学吗？",
+    "en": "Sun Yue: I heard that your boyfriend Li Jin goes to the same school as you. Is he your classmate?"
+  },
+  "1.1.2.1": {
+    "text": "王静：是的，他学的是新闻，我学的是法律，我和他不是一个班。",
+    "en": "Wang Jing: Yes. He studies journalism and I study law, so we are not in the same class."
+  },
+  "1.1.3.1": {
+    "text": "孙月：那你们俩是怎么认识的？",
+    "en": "Sun Yue: How did the two of you meet?"
+  },
+  "1.1.4.1": {
+    "text": "王静：我们是在一次足球比赛中认识的。",
+    "en": "Wang Jing: We met during a soccer match."
+  },
+  "1.1.4.2": {
+    "text": "我们班跟他们班比赛，他一个人踢进两个球，我对他印象很深，后来就慢慢熟悉了。",
+    "en": "Our class was playing against his, and he scored two goals himself. He made a strong impression on me, and we gradually got to know each other afterward."
+  },
+  "1.1.5.1": {
+    "text": "孙月：你为什么喜欢他？",
+    "en": "Sun Yue: Why do you like him?"
+  },
+  "1.1.6.1": {
+    "text": "王静：他不仅足球踢得好，性格也不错。",
+    "en": "Wang Jing: He is not only good at soccer; he has a nice personality too."
+  },
+  "1.2.1.1": {
+    "text": "王静：李老师，我下个月5号就要结婚了。",
+    "en": "Wang Jing: Teacher Li, I am getting married on the fifth of next month."
+  },
+  "1.2.2.1": {
+    "text": "李老师：你是在开玩笑吧？",
+    "en": "Teacher Li: You must be joking!"
+  },
+  "1.2.2.2": {
+    "text": "你们不是才认识一个月？",
+    "en": "Haven't you only known each other for a month?"
+  },
+  "1.2.3.1": {
+    "text": "王静：虽然我们认识的时间不长，但我从来没这么快乐过。",
+    "en": "Wang Jing: Although we have not known each other long, I have never been this happy before."
+  },
+  "1.2.4.1": {
+    "text": "李老师：两个人在一起，最好能有共同的兴趣和爱好。",
+    "en": "Teacher Li: When two people are together, it is best if they share interests and hobbies."
+  },
+  "1.2.5.1": {
+    "text": "王静：我们有很多共同的爱好，经常一起打球、唱歌、做菜。",
+    "en": "Wang Jing: We have lots of hobbies in common and often play ball, sing, and cook together."
+  },
+  "1.2.6.1": {
+    "text": "李老师：看来你真的找到适合你的人了。",
+    "en": "Teacher Li: It seems that you really have found the right person for you."
+  },
+  "1.2.6.2": {
+    "text": "祝你们幸福！",
+    "en": "I wish you both happiness!"
+  },
+  "1.3.1.1": {
+    "text": "高老师：听说您跟妻子结婚快二十年了？",
+    "en": "Teacher Gao: I heard that you and your wife have been married for almost twenty years. Is that right?"
+  },
+  "1.3.2.1": {
+    "text": "李老师：到6月9号，我们就结婚二十年了。",
+    "en": "Teacher Li: On June 9, we will have been married for twenty years."
+  },
+  "1.3.2.2": {
+    "text": "这么多年，我们的生活一直挺幸福的。",
+    "en": "We have had a very happy life together all these years."
+  },
+  "1.3.3.1": {
+    "text": "高老师：我和丈夫刚结婚的时候，每天都觉得很新鲜，在一起有说不完的话。",
+    "en": "Teacher Gao: When my husband and I first married, every day felt new and exciting, and we never ran out of things to say to each other."
+  },
+  "1.3.3.2": {
+    "text": "但是现在……",
+    "en": "But now..."
+  },
+  "1.3.4.1": {
+    "text": "李老师：两个人共同生活，只有浪漫和新鲜感是不够的。",
+    "en": "Teacher Li: When two people share a life, romance and a sense of novelty alone are not enough."
+  },
+  "1.3.5.1": {
+    "text": "高老师：您说的对！",
+    "en": "Teacher Gao: You're right!"
+  },
+  "1.3.5.2": {
+    "text": "我现在每天看到的都是他的缺点。",
+    "en": "Now all I seem to notice every day are his faults."
+  },
+  "1.3.6.1": {
+    "text": "李老师：两个人在一起时间长了，就会有很多问题。",
+    "en": "Teacher Li: When two people have been together a long time, plenty of problems arise."
+  },
+  "1.3.6.2": {
+    "text": "只有接受了他的缺点，你们才能更好地一起生活。",
+    "en": "Only by accepting his shortcomings can you live together more happily."
+  },
+  "1.4.1.1": {
+    "text": "很多女孩子羡慕浪漫的爱情。",
+    "en": "Many young women long for romantic love."
+  },
+  "1.4.1.2": {
+    "text": "那什么是浪漫呢？",
+    "en": "But what exactly is romance?"
+  },
+  "1.4.1.3": {
+    "text": "年轻人说：浪漫是她想要月亮时，你不会给她星星；中年人说：浪漫是即使晚上加班到零点，到家时，自己家里也还亮着灯；老年人说：浪漫其实就像歌中唱的那样，“我能想到最浪漫的事，就是和你一起慢慢变老。”",
+    "en": "Young people say romance means not giving her stars when she wants the moon; middle-aged people say it means finding the lights still on at home even when you work overtime until midnight; older people say romance is just like the song: “The most romantic thing I can imagine is growing old slowly together with you.”"
+  },
+  "1.4.1.4": {
+    "text": "其实，让我们感动的，就是生活中简单的爱情。",
+    "en": "In fact, what touches us is the simple love in everyday life."
+  },
+  "1.4.1.5": {
+    "text": "有时候，简单就是最大的幸福。",
+    "en": "Sometimes simplicity is the greatest happiness of all."
+  },
+  "1.5.1.1": {
+    "text": "说到结婚，人们就会很自然地想起爱情。",
+    "en": "When people talk about marriage, they naturally think of love."
+  },
+  "1.5.1.2": {
+    "text": "爱情是结婚的重要原因，但两个人共同生活，不仅需要浪漫的爱情，更需要性格上互相吸引。",
+    "en": "Love is an important reason for marriage, but sharing a life requires more than romantic love: two people also need to be attracted to each other's personalities."
+  },
+  "1.5.2.1": {
+    "text": "我丈夫是个很幽默的人。",
+    "en": "My husband has a great sense of humor."
+  },
+  "1.5.2.2": {
+    "text": "即使是很普通的事情，从他嘴里说出来也会变得很有意思。",
+    "en": "Even the most ordinary things become interesting when he talks about them."
+  },
+  "1.5.2.3": {
+    "text": "在我难过的时候，他总是有办法让我高兴起来。",
+    "en": "Whenever I feel sad, he always finds a way to cheer me up."
+  },
+  "1.5.2.4": {
+    "text": "而且他的脾气也不错，结婚快十年了，我们俩几乎没因为什么事红过脸，很多人都特别羡慕我们。",
+    "en": "He is good-tempered too. We have been married for almost ten years and have hardly ever argued about anything, which makes many people particularly envious of us."
+  },
+  "2.1.1.1": {
+    "text": "小夏：来中国快一年了，你适应这儿的生活了吗？",
+    "en": "Xiao Xia: You have been in China for almost a year now. Have you adjusted to life here?"
+  },
+  "2.1.2.1": {
+    "text": "马克：开始有点儿不习惯，后来就慢慢适应了，最近我还交了一个中国朋友。",
+    "en": "Mark: I found it a little unfamiliar at first, but I gradually got used to it, and recently I even made a Chinese friend."
+  },
+  "2.1.3.1": {
+    "text": "小夏：那就好，快给我讲讲你新交的中国朋友。",
+    "en": "Xiao Xia: That's good. Tell me about your new Chinese friend."
+  },
+  "2.1.4.1": {
+    "text": "马克：我们是在图书馆认识的。",
+    "en": "Mark: We met at the library."
+  },
+  "2.1.4.2": {
+    "text": "平时我们常常一起看书、逛街、踢足球。",
+    "en": "We often read, go shopping, and play soccer together."
+  },
+  "2.1.4.3": {
+    "text": "有时候他还给我发一些幽默短信。",
+    "en": "Sometimes he sends me funny text messages too."
+  },
+  "2.1.5.1": {
+    "text": "小夏：你的这个朋友真不错！",
+    "en": "Xiao Xia: Your friend sounds really nice!"
+  },
+  "2.1.5.2": {
+    "text": "下次介绍我们认识认识，怎么样？",
+    "en": "How about introducing us next time?"
+  },
+  "2.1.6.1": {
+    "text": "马克：没问题！",
+    "en": "Mark: No problem!"
+  },
+  "2.1.6.2": {
+    "text": "我们下午要去踢足球，正好一起去吧。",
+    "en": "We're going to play soccer this afternoon, so why don't you come along?"
+  },
+  "2.2.1.1": {
+    "text": "小李：星期天同学聚会，你能来吗？",
+    "en": "Xiao Li: We are having a class reunion on Sunday. Can you come?"
+  },
+  "2.2.2.1": {
+    "text": "小林：能来。",
+    "en": "Xiao Lin: Yes, I can."
+  },
+  "2.2.2.2": {
+    "text": "班里同学你联系得怎么样了？",
+    "en": "How have you got on with contacting our classmates?"
+  },
+  "2.2.2.3": {
+    "text": "来多少人？",
+    "en": "How many people are coming?"
+  },
+  "2.2.3.1": {
+    "text": "小李：差不多一半儿吧，张远还专门从国外飞回来呢。",
+    "en": "Xiao Li: About half the class. Zhang Yuan is even flying back from abroad especially for it."
+  },
+  "2.2.4.1": {
+    "text": "小林：是吗？",
+    "en": "Xiao Lin: Really?"
+  },
+  "2.2.4.2": {
+    "text": "毕业都快十年了，真想大家啊！",
+    "en": "It has been almost ten years since we graduated. I really miss everyone!"
+  },
+  "2.2.4.3": {
+    "text": "对了，今天早上，我在地铁站遇到了王静，她毕业后就去上海工作了，她这次是来旅游的。",
+    "en": "By the way, I ran into Wang Jing at the subway station this morning. She went to work in Shanghai after graduation and is here on vacation this time."
+  },
+  "2.2.5.1": {
+    "text": "小李：那太好了！",
+    "en": "Xiao Li: That's great!"
+  },
+  "2.2.5.2": {
+    "text": "麻烦你跟她联系一下，请她一起来参加同学聚会。",
+    "en": "Please get in touch with her and invite her to the class reunion too."
+  },
+  "2.2.5.3": {
+    "text": "聚会就在学校门口那个饭店，六点半。",
+    "en": "It is at the restaurant by the school entrance at half past six."
+  },
+  "2.2.5.4": {
+    "text": "别迟到啊！",
+    "en": "Don't be late!"
+  },
+  "2.2.6.1": {
+    "text": "小林：放心吧。",
+    "en": "Xiao Lin: Don't worry."
+  },
+  "2.2.6.2": {
+    "text": "星期天六点半见！",
+    "en": "See you at half past six on Sunday!"
+  },
+  "2.3.1.1": {
+    "text": "孙月：这是什么时候的照片？",
+    "en": "Sun Yue: When was this photo taken?"
+  },
+  "2.3.1.2": {
+    "text": "你真年轻！",
+    "en": "You look so young!"
+  },
+  "2.3.2.1": {
+    "text": "王静：这是上大学时的照片。",
+    "en": "Wang Jing: It was taken when I was at university."
+  },
+  "2.3.2.2": {
+    "text": "一看到这张照片，我就想起过去那段快乐的日子，好像重新回到了校园。",
+    "en": "Whenever I see it, I remember those happy days, as if I were back on campus again."
+  },
+  "2.3.3.1": {
+    "text": "孙月：旁边这个人一定是你的好朋友吧？",
+    "en": "Sun Yue: The person beside you must be a good friend, right?"
+  },
+  "2.3.3.2": {
+    "text": "你们现在还联系吗？",
+    "en": "Are you still in touch?"
+  },
+  "2.3.4.1": {
+    "text": "王静：当然了，尽管已经毕业这么多年，我们还是经常联系的，每次都有说不完的话。",
+    "en": "Wang Jing: Of course. Although we graduated so many years ago, we still keep in touch regularly and always have endless things to talk about."
+  },
+  "2.3.5.1": {
+    "text": "孙月：真羡慕你！",
+    "en": "Sun Yue: I really envy you!"
+  },
+  "2.3.5.2": {
+    "text": "我上大学时最好的朋友去了南方工作，我们俩已经很久没联系了。",
+    "en": "My best friend from university went to work in the south, and we have not been in touch for a long time."
+  },
+  "2.3.5.3": {
+    "text": "我一会儿就给她打个电话。",
+    "en": "I'll give her a call in a little while."
+  },
+  "2.3.6.1": {
+    "text": "王静：对。",
+    "en": "Wang Jing: Yes, do."
+  },
+  "2.3.6.2": {
+    "text": "要知道，能有一个真正的朋友，有一段真正的友谊，是多么不容易！",
+    "en": "You know, finding a true friend and having a genuine friendship is no easy thing!"
+  },
+  "2.4.1.1": {
+    "text": "每个人都需要朋友，朋友可以丰富我们的生活。",
+    "en": "Everyone needs friends, because friends enrich our lives."
+  },
+  "2.4.1.2": {
+    "text": "离开朋友，我们的生活一定会非常无聊。",
+    "en": "Without them, our lives would certainly be very dull."
+  },
+  "2.4.1.3": {
+    "text": "那么，怎样才能交到更多的朋友呢？",
+    "en": "So how can we make more friends?"
+  },
+  "2.4.1.4": {
+    "text": "当然，要有好脾气。",
+    "en": "Having a good temper is important, of course."
+  },
+  "2.4.1.5": {
+    "text": "一个脾气不好的人虽然不一定让人讨厌，但是却很难跟人交朋友。",
+    "en": "A bad-tempered person may not necessarily be disliked, but will find it hard to make friends."
+  },
+  "2.4.1.6": {
+    "text": "因为没有人会喜欢跟一个总是容易生气的人在一起。",
+    "en": "That is because nobody enjoys being with someone who is always getting angry."
+  },
+  "2.4.1.7": {
+    "text": "我们还要经常跟周围的人交流。",
+    "en": "We should also communicate regularly with the people around us."
+  },
+  "2.4.1.8": {
+    "text": "交流能让人们互相了解，如果有共同的兴趣、爱好或者习惯，就更容易成为朋友了。",
+    "en": "Communication helps people understand each other, and sharing interests, hobbies, or habits makes it easier to become friends."
+  },
+  "2.5.1.1": {
+    "text": "人的一生可以什么也没有，但不能没有朋友，而且必须要有自己真正的朋友。",
+    "en": "A person can go through life without many things, but not without friends—and it is essential to have true friends of your own."
+  },
+  "2.5.1.2": {
+    "text": "什么是真正的朋友？",
+    "en": "What is a true friend?"
+  },
+  "2.5.1.3": {
+    "text": "不同的人会有不同的理解。",
+    "en": "Different people understand it differently."
+  },
+  "2.5.1.4": {
+    "text": "有些人觉得朋友就是能和自己一起快乐的人；有些人觉得朋友应该像镜子，能帮自己看到缺点。",
+    "en": "Some think a friend is someone who shares happy times with you; others think a friend should be like a mirror, helping you see your faults."
+  },
+  "2.5.1.5": {
+    "text": "而我的理解是：当你遇到困难的时候，真正的朋友会站出来，及时给你帮助；当你无聊或者难过的时候，真正的朋友会陪在你身边，想办法让你感到幸福。",
+    "en": "To me, a true friend steps forward to help you promptly when you are in trouble, and stays by your side when you are bored or sad, finding ways to make you happy."
+  },
+  "3.1.1.1": {
+    "text": "小夏：你上午的面试怎么样？",
+    "en": "Xiao Xia: How did your interview go this morning?"
+  },
+  "3.1.2.1": {
+    "text": "小雨：还可以，他们问的问题都挺容易的，就是我有点儿紧张。",
+    "en": "Xiao Yu: It went fairly well. Their questions were all quite easy; I was just a little nervous."
+  },
+  "3.1.3.1": {
+    "text": "小夏：面试的时候，一定要对自己有信心，要相信自己的能力。",
+    "en": "Xiao Xia: During an interview, you must have confidence in yourself and believe in your abilities."
+  },
+  "3.1.4.1": {
+    "text": "小雨：你说的对！",
+    "en": "Xiao Yu: You're right!"
+  },
+  "3.1.4.2": {
+    "text": "3月15号上午8点在学校体育馆还有一个招聘会，你去吗？",
+    "en": "There is another job fair at the school gym at eight in the morning on March 15. Are you going?"
+  },
+  "3.1.5.1": {
+    "text": "小夏：我还没决定呢。",
+    "en": "Xiao Xia: I haven't decided yet."
+  },
+  "3.1.6.1": {
+    "text": "小雨：听说这次招聘会提供的工作机会很多，我们一起去看看吧。",
+    "en": "Xiao Yu: I hear there will be lots of job opportunities at this fair. Let's go and have a look together."
+  },
+  "3.2.1.1": {
+    "text": "马经理：小林，这次招聘不是小李负责吗？",
+    "en": "Manager Ma: Xiao Lin, wasn't Xiao Li supposed to be responsible for this recruitment?"
+  },
+  "3.2.2.1": {
+    "text": "小林：本来是小李负责的，但是他突然生病住院了，所以就交给我来做了。",
+    "en": "Xiao Lin: He was originally, but he suddenly fell ill and was hospitalized, so it was handed over to me."
+  },
+  "3.2.3.1": {
+    "text": "马经理：哦，这次应聘的人多吗？",
+    "en": "Manager Ma: Oh, have there been many applicants this time?"
+  },
+  "3.2.4.1": {
+    "text": "小林：经理，这次来应聘的一共有15人。",
+    "en": "Xiao Lin: Manager, fifteen people applied this time."
+  },
+  "3.2.4.2": {
+    "text": "经过笔试和面试，有两个不错。",
+    "en": "After the written tests and interviews, two of them seem quite promising."
+  },
+  "3.2.4.3": {
+    "text": "这是他们的材料，您看看。",
+    "en": "Here are their documents. Please take a look."
+  },
+  "3.2.5.1": {
+    "text": "马经理：这两个人的能力都比较符合我们的要求。",
+    "en": "Manager Ma: Both applicants' abilities meet our requirements fairly well."
+  },
+  "3.2.5.2": {
+    "text": "你通知他们下周一上午九点来我办公室吧。",
+    "en": "Ask them to come to my office at nine next Monday morning."
+  },
+  "3.2.6.1": {
+    "text": "小林：好的，那我马上跟他们联系。",
+    "en": "Xiao Lin: All right. I'll contact them right away."
+  },
+  "3.3.1.1": {
+    "text": "小林：王静，好久不见了！",
+    "en": "Xiao Lin: Wang Jing, long time no see!"
+  },
+  "3.3.1.2": {
+    "text": "大学毕业后就没联系了，你现在在哪儿工作呢？",
+    "en": "We have not been in touch since university. Where are you working now?"
+  },
+  "3.3.2.1": {
+    "text": "王静：我一毕业就去上海当律师了。",
+    "en": "Wang Jing: I went to Shanghai to become a lawyer as soon as I graduated."
+  },
+  "3.3.3.1": {
+    "text": "小林：你对现在的工作一定非常满意吧？",
+    "en": "Xiao Lin: You must be very happy with your job, right?"
+  },
+  "3.3.4.1": {
+    "text": "王静：我很喜欢现在的工作，因为我学的就是法律专业，而且同事们都很喜欢我。",
+    "en": "Wang Jing: I really like it because I majored in law, and my colleagues all like me too."
+  },
+  "3.3.4.2": {
+    "text": "另外，收入也不错。",
+    "en": "Besides, the income is quite good."
+  },
+  "3.3.5.1": {
+    "text": "小林：星期天咱们同学聚会，你能来参加吗？",
+    "en": "Xiao Lin: We are having a class reunion on Sunday. Can you come?"
+  },
+  "3.3.6.1": {
+    "text": "王静：能来。",
+    "en": "Wang Jing: Yes, I can."
+  },
+  "3.3.6.2": {
+    "text": "虽然这次来北京，时间安排得很紧张，但我一定借这次机会去跟大家见见面。",
+    "en": "Although my schedule in Beijing is very tight this time, I will make sure to take this opportunity to see everyone."
+  },
+  "3.4.1.1": {
+    "text": "面试的时候，经理对我印象不错，还通知我明天就可以上班了。",
+    "en": "I made a good impression on the manager during the interview, and was even told I could start work tomorrow."
+  },
+  "3.4.1.2": {
+    "text": "真没想到，找工作这么顺利。",
+    "en": "I never expected finding a job to go so smoothly."
+  },
+  "3.4.1.3": {
+    "text": "你想知道面试需要注意什么吗？",
+    "en": "Would you like to know what to pay attention to during an interview?"
+  },
+  "3.4.1.4": {
+    "text": "首先，要穿正式的衣服，这会给面试者留下一个好的印象，让他觉得你是一个认真的人。",
+    "en": "First, wear formal clothes. This gives the interviewer a good impression and makes you seem like someone who takes things seriously."
+  },
+  "3.4.1.5": {
+    "text": "其次，应聘时不要紧张。",
+    "en": "Second, do not be nervous when applying for a job."
+  },
+  "3.4.1.6": {
+    "text": "回答问题时，说得不要太快，声音也不要太小，要相信自己有能力做好。",
+    "en": "When answering questions, do not speak too quickly or too quietly, and believe that you are capable of doing well."
+  },
+  "3.4.1.7": {
+    "text": "当然，最重要的是回答问题要诚实。",
+    "en": "Of course, the most important thing is to answer honestly."
+  },
+  "3.5.1.1": {
+    "text": "第一印象就是在第一次见面时给别人留下的印象。",
+    "en": "A first impression is the impression you leave on someone when you meet for the first time."
+  },
+  "3.5.1.2": {
+    "text": "虽然第一印象不总是对的，但如果想改变却很困难。",
+    "en": "Although first impressions are not always accurate, they are very difficult to change."
+  },
+  "3.5.1.3": {
+    "text": "你给别人的第一印象会影响他们以后对你的感觉和判断。",
+    "en": "Your first impression affects how other people feel about you and judge you afterward."
+  },
+  "3.5.1.4": {
+    "text": "所以，给第一次见面的同事留下好的印象，以后的工作可能会更顺利；给第一次见面的顾客留下好的印象，你可能会卖出更多的东西。",
+    "en": "So making a good impression on colleagues when you first meet may help your work go more smoothly; making a good impression on customers may help you sell more products."
+  },
+  "3.5.1.5": {
+    "text": "但是，如果第一次见面给别人留下像不准时这样的坏印象，那么以后就很难让别人相信你。",
+    "en": "However, if your first meeting leaves a bad impression—for example, because you are late—it will be difficult to earn that person's trust later."
+  },
+  "3.5.1.6": {
+    "text": "所以不管是上课、上班，还是与别人约会，准时都非常重要。",
+    "en": "That is why being on time matters so much, whether you are going to class, going to work, or meeting someone."
+  },
+  "4.1.1.1": {
+    "text": "小林：听说你又换工作了？",
+    "en": "Xiao Lin: I hear you have changed jobs again?"
+  },
+  "4.1.1.2": {
+    "text": "今年已经换了三次工作了吧？",
+    "en": "Haven't you already changed jobs three times this year?"
+  },
+  "4.1.2.1": {
+    "text": "小李：别提了！",
+    "en": "Xiao Li: Don't remind me!"
+  },
+  "4.1.2.2": {
+    "text": "我以为新工作比以前的好，没想到还没有以前好呢。",
+    "en": "I thought the new job would be better than the old one, but it turns out to be even worse."
+  },
+  "4.1.3.1": {
+    "text": "小林：上次那份工作你只做了两个月就离开了，其实，完全适应一个新的工作需要一年时间，所以，经常换工作不一定好。",
+    "en": "Xiao Lin: You left your last job after only two months. It actually takes a year to adjust fully to a new job, so changing jobs frequently is not necessarily a good idea."
+  },
+  "4.1.4.1": {
+    "text": "小李：我也明白。",
+    "en": "Xiao Li: I understand that too."
+  },
+  "4.1.4.2": {
+    "text": "但是那份工作的收入太少了！",
+    "en": "But the pay in that job was far too low!"
+  },
+  "4.1.5.1": {
+    "text": "小林：你才到新公司，不要太急着赚钱，多学习才是最重要的。",
+    "en": "Xiao Lin: You have only just joined the new company. Don't be too eager to make money; learning more is what matters most."
+  },
+  "4.1.6.1": {
+    "text": "小李：好。",
+    "en": "Xiao Li: All right."
+  },
+  "4.1.6.2": {
+    "text": "我一定会努力把现在这份工作做好。",
+    "en": "I will certainly work hard to do my current job well."
+  },
+  "4.2.1.1": {
+    "text": "王经理：那份调查还要多长时间才能做完？",
+    "en": "Manager Wang: How much longer will it take to finish that survey?"
+  },
+  "4.2.2.1": {
+    "text": "小李：按原来的计划应该是两周，但是我们可以提前完成，周末保证做完。",
+    "en": "Xiao Li: The original plan allowed two weeks, but we can finish ahead of schedule. I guarantee it will be done by the weekend."
+  },
+  "4.2.3.1": {
+    "text": "王经理：虽然最近工作很忙，但你们也要注意身体啊。",
+    "en": "Manager Wang: Although work has been very busy lately, you must still take care of yourselves."
+  },
+  "4.2.4.1": {
+    "text": "小李：谢谢您！",
+    "en": "Xiao Li: Thank you!"
+  },
+  "4.2.4.2": {
+    "text": "现在有很多事情等着我做，真不知道该先做哪个好。",
+    "en": "There are so many things waiting for me to do that I really don't know which to tackle first."
+  },
+  "4.2.5.1": {
+    "text": "王经理：每天早上我都把当天计划要做的事情写在笔记本上，提醒自己安排好时间。",
+    "en": "Manager Wang: Every morning I write the day's planned tasks in a notebook to remind myself to organize my time well."
+  },
+  "4.2.5.2": {
+    "text": "你也可以试试这样做。",
+    "en": "You could try doing that too."
+  },
+  "4.2.6.1": {
+    "text": "小李：这个办法真不错！",
+    "en": "Xiao Li: That's a great idea!"
+  },
+  "4.2.6.2": {
+    "text": "这样我就不会手忙脚乱了。",
+    "en": "Then I won't end up rushing around in a panic."
+  },
+  "4.3.1.1": {
+    "text": "王经理：什么事让你这么高兴啊？",
+    "en": "Manager Wang: What has made you so happy?"
+  },
+  "4.3.2.1": {
+    "text": "马经理：我们和上次那个公司的生意终于谈成了。",
+    "en": "Manager Ma: We finally closed the deal with that company we discussed last time."
+  },
+  "4.3.3.1": {
+    "text": "王经理：太好了！",
+    "en": "Manager Wang: That's wonderful!"
+  },
+  "4.3.3.2": {
+    "text": "你工作那么努力，公司会越来越好的。",
+    "en": "You work so hard that the company is bound to keep improving."
+  },
+  "4.3.4.1": {
+    "text": "马经理：我原来以为做生意很简单，后来才发现其实并不容易，现在赚钱越来越难了。",
+    "en": "Manager Ma: I used to think doing business was simple, but later realized it isn't easy at all. Making money is getting harder and harder."
+  },
+  "4.3.5.1": {
+    "text": "王经理：慢慢来，万事开头难，重要的是要多积累经验。",
+    "en": "Manager Wang: Take it slowly. Everything is difficult at the beginning; the important thing is to keep gaining experience."
+  },
+  "4.3.6.1": {
+    "text": "马经理：我相信经过我们大家的努力，公司的生意会越做越大，一切都会好的。",
+    "en": "Manager Ma: I believe that, through everyone's hard work, the business will keep growing and everything will turn out well."
+  },
+  "4.4.1.1": {
+    "text": "我们今年的工作都已经按照计划完成了。",
+    "en": "We have completed all of this year's work according to plan."
+  },
+  "4.4.1.2": {
+    "text": "这一段时间，尽管工作很紧张，中间也遇到了很多困难，但是因为有大家的努力，我们成功地解决了问题，顺利地完成了工作，非常感谢大家对我的帮助！",
+    "en": "Although work was demanding and we encountered many difficulties along the way, everyone's efforts enabled us to solve the problems and finish successfully. Thank you all very much for your help!"
+  },
+  "4.4.1.3": {
+    "text": "另外，马经理让我告诉大家一个好消息，因为大家按时完成了工作，公司决定这个月给每人多发三千元奖金。",
+    "en": "Manager Ma also asked me to share some good news: because everyone finished on time, the company has decided to give each person an extra 3,000 yuan bonus this month."
+  },
+  "4.4.1.4": {
+    "text": "感谢大家这三个多月的努力工作，希望明年能有更大的成绩！",
+    "en": "Thank you for your hard work over these past three months and more. I hope we can achieve even more next year!"
+  },
+  "4.5.1.1": {
+    "text": "年轻人刚开始工作的时候，不要太着急赚钱，不要眼睛里只有工资和奖金。",
+    "en": "When young people first start working, they should not be too eager to make money or focus only on salaries and bonuses."
+  },
+  "4.5.1.2": {
+    "text": "在工作的前几年，重要的是丰富自己的工作经验，学习与同事交流的方法，积累专业知识，这些比收入重要多了。",
+    "en": "During the first few years, gaining work experience, learning to communicate with colleagues, and building professional knowledge are much more important than income."
+  },
+  "4.5.1.3": {
+    "text": "但是很多时候，我们不得不去做一些自己不愿意做甚至是非常不喜欢的工作。",
+    "en": "However, we often have to do work that we are unwilling to do, or even strongly dislike."
+  },
+  "4.5.1.4": {
+    "text": "这时，我们最需要的就是对工作的责任心。",
+    "en": "At such times, what we need most is a sense of responsibility toward our work."
+  },
+  "4.5.1.5": {
+    "text": "一个人即使能力再高，经验再丰富，如果对工作没有责任心，也很难把工作做好。",
+    "en": "No matter how capable or experienced someone is, it is hard to do a job well without that sense of responsibility."
+  },
+  "5.1.1.1": {
+    "text": "售货员：小姐，您好！",
+    "en": "Sales assistant: Hello, miss!"
+  },
+  "5.1.1.2": {
+    "text": "您想买什么家具？",
+    "en": "What sort of furniture are you looking for?"
+  },
+  "5.1.1.3": {
+    "text": "需要我为您介绍一下吗？",
+    "en": "Would you like me to show you around?"
+  },
+  "5.1.2.1": {
+    "text": "王静：谢谢，我想买沙发。",
+    "en": "Wang Jing: Thank you. I'd like to buy a sofa."
+  },
+  "5.1.3.1": {
+    "text": "售货员：您看这个沙发怎么样？",
+    "en": "Sales assistant: What do you think of this sofa?"
+  },
+  "5.1.3.2": {
+    "text": "现在正在打折，比平时便宜了一千块。",
+    "en": "It is on sale now, at a thousand yuan less than the usual price."
+  },
+  "5.1.4.1": {
+    "text": "王静：价格还可以，就是不知道质量有没有保证。",
+    "en": "Wang Jing: The price is reasonable, but I'm not sure whether the quality is guaranteed."
+  },
+  "5.1.5.1": {
+    "text": "售货员：您放心，质量肯定不“打折”，这种沙发是今年最流行的。",
+    "en": "Sales assistant: Don't worry. The price is discounted, but the quality certainly isn't. This is this year's most popular style."
+  },
+  "5.1.5.2": {
+    "text": "有很多种颜色可以选择，您可以看一下。",
+    "en": "There are many colors to choose from. Please take a look."
+  },
+  "5.1.6.1": {
+    "text": "王静：这个蓝色的看上去不错，就要这个吧。",
+    "en": "Wang Jing: This blue one looks nice. I'll take it."
+  },
+  "5.2.1.1": {
+    "text": "王静：咱家的冰箱太旧了，商场正好打折，我们顺便也买一台吧。",
+    "en": "Wang Jing: Our fridge is so old. Since the department store is having a sale, let's buy one while we're here."
+  },
+  "5.2.2.1": {
+    "text": "李进：今天买的东西太多了。",
+    "en": "Li Jin: We have already bought far too much today."
+  },
+  "5.2.2.2": {
+    "text": "再说，这个月家里已经花了五千多了。",
+    "en": "Besides, our household has already spent over five thousand yuan this month."
+  },
+  "5.2.3.1": {
+    "text": "王静：这么多？",
+    "en": "Wang Jing: That much?"
+  },
+  "5.2.3.2": {
+    "text": "你不会是记错了吧？",
+    "en": "Are you sure you haven't remembered it incorrectly?"
+  },
+  "5.2.4.1": {
+    "text": "李进：没错。",
+    "en": "Li Jin: I'm sure."
+  },
+  "5.2.4.2": {
+    "text": "上个星期光买沙发就花了两千多。",
+    "en": "The sofa alone cost more than two thousand yuan last week."
+  },
+  "5.2.5.1": {
+    "text": "王静：但是咱家的冰箱实在太旧了，制冷效果也不太好了，还是买个新的吧。",
+    "en": "Wang Jing: But our fridge really is too old, and it doesn't cool very well anymore. Let's get a new one."
+  },
+  "5.2.6.1": {
+    "text": "李进：那好吧，我带的现金不够，用你的信用卡吧。",
+    "en": "Li Jin: All right, then. I haven't brought enough cash, so let's use your credit card."
+  },
+  "5.3.1.1": {
+    "text": "李进：李老师邀请咱们去他家做客，给他带点儿什么礼物好呢？",
+    "en": "Li Jin: Teacher Li has invited us to his home. What would be a good present to bring him?"
+  },
+  "5.3.2.1": {
+    "text": "王静：他很喜欢葡萄酒，我们就给他买两瓶葡萄酒吧。",
+    "en": "Wang Jing: He really likes wine, so let's buy him two bottles."
+  },
+  "5.3.3.1": {
+    "text": "李进：可是这里有这么多种，你知道哪种好吗？",
+    "en": "Li Jin: But there are so many kinds here. Do you know which is good?"
+  },
+  "5.3.4.1": {
+    "text": "王静：我觉得这种不错，你看它酒瓶做得都这么艺术。",
+    "en": "Wang Jing: I think this one looks good. Look how artistically the bottle is designed."
+  },
+  "5.3.4.2": {
+    "text": "而且电视上经常有它的广告，我想味道应该不错。",
+    "en": "It is advertised on television a lot too, so I think it should taste good."
+  },
+  "5.3.5.1": {
+    "text": "李进：广告只会介绍优点，却不会说它的缺点。",
+    "en": "Li Jin: Advertisements only mention a product's good points, never its shortcomings."
+  },
+  "5.3.5.2": {
+    "text": "实际上，很多东西并不像广告上说的那么好，所以不能完全相信广告。",
+    "en": "In fact, many things are not as good as the advertisements claim, so you cannot believe them completely."
+  },
+  "5.3.6.1": {
+    "text": "王静：你说的也对。",
+    "en": "Wang Jing: You have a point."
+  },
+  "5.4.1.1": {
+    "text": "买衣服只考虑价格当然不好，但是只考虑买好看的也不一定对。",
+    "en": "It is certainly unwise to consider only price when buying clothes, but choosing only what looks attractive is not necessarily right either."
+  },
+  "5.4.1.2": {
+    "text": "我买衣服的标准是“只买对的，不买贵的”。",
+    "en": "My rule for buying clothes is, “Buy what is right for you, not what is expensive.”"
+  },
+  "5.4.1.3": {
+    "text": "第一，自己穿着舒服；第二，衣服的质量要好，而且又不能太贵。",
+    "en": "First, they must feel comfortable; second, they must be good quality without being too expensive."
+  },
+  "5.4.1.4": {
+    "text": "对我来说，衣服的样子流行不流行并不是很重要。",
+    "en": "Whether the style is fashionable is not very important to me."
+  },
+  "5.4.1.5": {
+    "text": "很多年龄大的人喜欢在打折的时候买便宜的衣服，但对那些衣服是不是适合自己却考虑得不多。",
+    "en": "Many older people like to buy inexpensive clothes during sales without giving much thought to whether those clothes suit them."
+  },
+  "5.4.1.6": {
+    "text": "这点是我理解不了的，因为如果不适合自己，即使花钱很少，也是一种浪费。",
+    "en": "I cannot understand that, because something that does not suit you is a waste of money even if it costs very little."
+  },
+  "5.5.1.1": {
+    "text": "现在网上购物变得越来越流行了，年轻人尤其喜欢在网上买东西。",
+    "en": "Online shopping is becoming increasingly popular, and young people especially enjoy buying things online."
+  },
+  "5.5.1.2": {
+    "text": "在网上几乎什么都可以买到，你可以上网买书、买衣服、买包，还可以买家具、买手机。",
+    "en": "You can buy almost anything online: books, clothes, bags, furniture, and even mobile phones."
+  },
+  "5.5.1.3": {
+    "text": "网上购物能够受到人们的喜爱，原因主要有两个：首先，网上的东西很多，而且比去商店买便宜，这是吸引人们购买的主要原因。",
+    "en": "There are two main reasons people like online shopping. First, there is a wide selection, and prices are lower than in shops; this is the main attraction for customers."
+  },
+  "5.5.1.4": {
+    "text": "其次，人们可以在任何时间上网购买自己喜欢的东西，卖家可以把你买的东西寄到你办公室或者家里，非常方便。",
+    "en": "Second, people can shop for what they like at any time, and sellers can deliver their purchases to their office or home, which is very convenient."
+  },
+  "6.1.1.1": {
+    "text": "张远：昨天晚上我给你打电话一直没人接，你干什么呢？",
+    "en": "Zhang Yuan: I kept calling you last night, but nobody answered. What were you doing?"
+  },
+  "6.1.2.1": {
+    "text": "李进：昨天妻子让我陪她去超市买果汁。",
+    "en": "Li Jin: My wife asked me to go to the supermarket with her to buy juice yesterday."
+  },
+  "6.1.2.2": {
+    "text": "我把手机忘在家里了。",
+    "en": "I left my phone at home."
+  },
+  "6.1.3.1": {
+    "text": "张远：买这么点儿东西也用不了那么长时间啊！",
+    "en": "Zhang Yuan: Buying just a little thing like that shouldn't take so long!"
+  },
+  "6.1.4.1": {
+    "text": "李进：我们先去逛了会儿商场。",
+    "en": "Li Jin: We browsed around the department store first."
+  },
+  "6.1.4.2": {
+    "text": "一进门，售货员就热情地为我们介绍这、介绍那，她买了一条裤子、一件衬衫、两双袜子，然后我们就高高兴兴地回家了。",
+    "en": "As soon as we walked in, a sales assistant enthusiastically showed us all sorts of things. My wife bought trousers, a shirt, and two pairs of socks, and then we went home happily."
+  },
+  "6.1.5.1": {
+    "text": "张远：买东西时我只看自己想买的，而且喜欢自己看、自己选，不希望被别人打扰。",
+    "en": "Zhang Yuan: When I shop, I only look for what I want to buy. I like browsing and choosing for myself without being disturbed."
+  },
+  "6.1.6.1": {
+    "text": "李进：是啊！",
+    "en": "Li Jin: Exactly!"
+  },
+  "6.1.6.2": {
+    "text": "回家以后，我才发现，竟然忘了去商场的超市买果汁！",
+    "en": "Only after we got home did I realize that we had actually forgotten to go to the store's supermarket to buy juice!"
+  },
+  "6.2.1.1": {
+    "text": "王静：西红柿新鲜吗？",
+    "en": "Wang Jing: Are the tomatoes fresh?"
+  },
+  "6.2.1.2": {
+    "text": "怎么卖？",
+    "en": "How much are they?"
+  },
+  "6.2.2.1": {
+    "text": "售货员：七块钱一斤，您放心，保证百分之百新鲜。",
+    "en": "Sales assistant: Seven yuan per jin, or half a kilogram. Don't worry; I guarantee they're completely fresh."
+  },
+  "6.2.3.1": {
+    "text": "王静：怎么这么贵啊！",
+    "en": "Wang Jing: Why are they so expensive?"
+  },
+  "6.2.3.2": {
+    "text": "我记得昨天才三块五一斤，今天的价格是昨天的两倍。",
+    "en": "I remember they were only three yuan fifty per jin yesterday. Today's price is twice yesterday's."
+  },
+  "6.2.4.1": {
+    "text": "售货员：您问的这种是“绿色”的。",
+    "en": "Sales assistant: The variety you're asking about is environmentally grown."
+  },
+  "6.2.4.2": {
+    "text": "一分钱一分货。",
+    "en": "You get what you pay for."
+  },
+  "6.2.4.3": {
+    "text": "每天吃一两个这种新鲜的西红柿，对皮肤有好处。",
+    "en": "Eating one or two of these fresh tomatoes every day is good for your skin."
+  },
+  "6.2.5.1": {
+    "text": "王静：好，那我先买几个尝尝。",
+    "en": "Wang Jing: All right. I'll buy a few to try first."
+  },
+  "6.2.6.1": {
+    "text": "售货员：好的，给您西红柿，一共两斤，十四块。",
+    "en": "Sales assistant: Here are your tomatoes: two jin altogether, for fourteen yuan."
+  },
+  "6.3.1.1": {
+    "text": "售货员：先生，我们店的行李箱都在这里，请问您要什么样的？",
+    "en": "Sales assistant: Sir, all our suitcases are here. What kind would you like?"
+  },
+  "6.3.2.1": {
+    "text": "李进：我想买一个轻一点儿的。",
+    "en": "Li Jin: I'd like a lighter one."
+  },
+  "6.3.3.1": {
+    "text": "售货员：您看看这个，不管从价格方面看，还是从质量上看，都是值得考虑的。",
+    "en": "Sales assistant: Take a look at this one. It is worth considering in terms of both price and quality."
+  },
+  "6.3.4.1": {
+    "text": "李进：质量是不错。",
+    "en": "Li Jin: The quality is certainly good."
+  },
+  "6.3.4.2": {
+    "text": "请问这个多少钱？",
+    "en": "How much is it, please?"
+  },
+  "6.3.5.1": {
+    "text": "售货员：现在我们商场正好有打折活动，打完折是999。",
+    "en": "Sales assistant: Our department store is having a sale at the moment, so it is 999 yuan after the discount."
+  },
+  "6.3.5.2": {
+    "text": "另外，一年内我们都负责免费修理。",
+    "en": "We also provide free repairs for a year."
+  },
+  "6.3.6.1": {
+    "text": "李进：你们的服务不错，价格也可以，就买这个吧。",
+    "en": "Li Jin: Your service is good and the price is reasonable. I'll take this one."
+  },
+  "6.4.1.1": {
+    "text": "顾客朋友们，为了感谢大家的支持，我们书店今天举行“购书送好礼”活动，购书满100元送一个笔记本，满200元送一本词典。",
+    "en": "Dear customers, to thank you for your support, our bookstore is offering gifts with purchases today: spend 100 yuan on books and receive a notebook, or spend 200 yuan and receive a dictionary."
+  },
+  "6.4.1.2": {
+    "text": "另外，一些图书还有打折活动，其中，小说7.5折，地图8折，留学考试用书6折。",
+    "en": "Some books are also discounted: novels are 25% off, maps are 20% off, and study-abroad exam books are 40% off."
+  },
+  "6.4.1.3": {
+    "text": "如果购书满300元可免费办会员卡，以后购书可打8折。",
+    "en": "Spend 300 yuan on books and receive a free membership card, giving you 20% off future book purchases."
+  },
+  "6.4.1.4": {
+    "text": "今天过生日的朋友和所有的小朋友还可以获得一份小礼物。",
+    "en": "Customers celebrating their birthday today, as well as all children, can also receive a small gift."
+  },
+  "6.4.1.5": {
+    "text": "欢迎大家选购！",
+    "en": "Come and browse our selection!"
+  },
+  "6.5.1.1": {
+    "text": "人们常说“一分钱一分货”，意思是东西的质量和价格有很大的关系，也可以说“便宜没好货，好货不便宜”，一般情况下，你花的钱越多，买的东西也就越好。",
+    "en": "People often say, “You get what you pay for,” meaning that quality and price are closely related. Another saying is, “Cheap things aren't good, and good things aren't cheap.” Generally, the more you pay, the better the product."
+  },
+  "6.5.1.2": {
+    "text": "其实也不一定都是这样的。",
+    "en": "In fact, that is not always true."
+  },
+  "6.5.1.3": {
+    "text": "有的时候，质量很好的东西也会很便宜。",
+    "en": "Sometimes high-quality products can be very inexpensive."
+  },
+  "6.5.1.4": {
+    "text": "例如，春天来了，冬天的衣服就会打折，质量很好，还很便宜，花很少的钱就可以买到。",
+    "en": "For example, when spring arrives, winter clothes go on sale, so you can buy good-quality clothes very cheaply."
+  },
+  "6.5.1.5": {
+    "text": "一到节日，商场也会举办各种各样的活动，降低价格，这个时候我们也可以买到又便宜又好的东西。",
+    "en": "During holidays, department stores also hold all kinds of promotions and lower their prices, giving us another chance to buy good products at low prices."
+  },
+  "7.1.1.1": {
+    "text": "小李：你的鼻子怎么流血了？",
+    "en": "Xiao Li: Why is your nose bleeding?"
+  },
+  "7.1.1.2": {
+    "text": "快用纸擦擦。",
+    "en": "Quick, wipe it with a tissue."
+  },
+  "7.1.2.1": {
+    "text": "小林：我还不习惯北方的气候，估计是天气太干。",
+    "en": "Xiao Lin: I still haven't adjusted to the northern climate. I think the weather is too dry."
+  },
+  "7.1.2.2": {
+    "text": "今天天气不是很冷，你怎么穿这么多？",
+    "en": "It isn't very cold today, so why are you wearing so many layers?"
+  },
+  "7.1.3.1": {
+    "text": "小李：就是因为昨天穿得太少，我都感冒了。",
+    "en": "Xiao Li: I caught a cold because I wore too little yesterday."
+  },
+  "7.1.4.1": {
+    "text": "小林：最近感冒的人特别多。",
+    "en": "Xiao Lin: Lots of people have colds lately."
+  },
+  "7.1.4.2": {
+    "text": "你去看医生了吗？",
+    "en": "Have you seen a doctor?"
+  },
+  "7.1.5.1": {
+    "text": "小李：没有，我只是咳嗽，有点儿头疼，不严重，多喝点儿水就好了。",
+    "en": "Xiao Li: No. I just have a cough and a slight headache. It isn't serious; drinking more water should help."
+  },
+  "7.1.6.1": {
+    "text": "小林：春天天气时冷时热，特别容易感冒。",
+    "en": "Xiao Lin: Spring weather keeps changing between cold and warm, so it is especially easy to catch a cold."
+  },
+  "7.1.6.2": {
+    "text": "这时候一定要多注意保暖，另外，最好经常打开窗户换换空气。",
+    "en": "You must make sure to keep warm at this time of year, and it is also best to open the windows regularly for fresh air."
+  },
+  "7.2.1.1": {
+    "text": "小夏：你咳嗽好点儿了吗？",
+    "en": "Xiao Xia: Is your cough any better?"
+  },
+  "7.2.1.2": {
+    "text": "医生怎么说的？",
+    "en": "What did the doctor say?"
+  },
+  "7.2.2.1": {
+    "text": "小雨：还是老样子，他让我以后不要再抽烟了。",
+    "en": "Xiao Yu: It's still the same. He told me to stop smoking from now on."
+  },
+  "7.2.3.1": {
+    "text": "小夏：抽烟对身体一点儿好处也没有。",
+    "en": "Xiao Xia: Smoking does your health no good at all."
+  },
+  "7.2.4.1": {
+    "text": "小雨：我也知道，可是我觉得抽烟这个动作看上去很帅。",
+    "en": "Xiao Yu: I know, but I think smoking looks cool."
+  },
+  "7.2.5.1": {
+    "text": "小夏：等你身体出现问题了，后悔就来不及了。",
+    "en": "Xiao Xia: Once you develop health problems, it will be too late for regrets."
+  },
+  "7.2.6.1": {
+    "text": "小雨：其实家人也一直反对我抽烟，我自己却觉得没什么。",
+    "en": "Xiao Yu: Actually, my family has always opposed my smoking too, but I never thought it was a big deal."
+  },
+  "7.2.6.2": {
+    "text": "但最近总是咳嗽，所以我有些担心了。",
+    "en": "However, I have been coughing constantly lately, so I'm getting a little worried."
+  },
+  "7.2.7.1": {
+    "text": "小夏：抽烟不仅对自己没好处，还会影响周围人的身体健康。",
+    "en": "Xiao Xia: Smoking is not only bad for you; it also affects the health of the people around you."
+  },
+  "7.2.7.2": {
+    "text": "为了你和你的家人，别再抽了。",
+    "en": "For your own sake and your family's, stop smoking."
+  },
+  "7.3.1.1": {
+    "text": "小李：我最近眼睛总是跳，大夫说是因为我长时间看电脑，眼睛太累。",
+    "en": "Xiao Li: My eyelid keeps twitching lately. The doctor says my eyes are overtired because I spend so long looking at the computer."
+  },
+  "7.3.2.1": {
+    "text": "小林：长时间坐在电脑前面工作，眼睛很容易累。",
+    "en": "Xiao Lin: Working at a computer for a long time easily tires your eyes."
+  },
+  "7.3.2.2": {
+    "text": "最好是每过一小时就休息休息，然后再开始工作。",
+    "en": "It is best to take a break every hour before starting work again."
+  },
+  "7.3.3.1": {
+    "text": "小李：医生也这么说，他还告诉我要多向远处看看，尤其是多看看绿色的植物。",
+    "en": "Xiao Li: The doctor said the same thing. He also told me to look into the distance more often, especially at green plants."
+  },
+  "7.3.4.1": {
+    "text": "小林：长时间对着电脑不仅对眼睛不好，身体也会不舒服。",
+    "en": "Xiao Lin: Spending a long time at a computer is not only bad for your eyes; it can make your body uncomfortable too."
+  },
+  "7.3.4.2": {
+    "text": "研究发现，如果人一天静坐超过6小时，就会影响身体健康。",
+    "en": "Research has found that sitting still for more than six hours a day affects your health."
+  },
+  "7.3.5.1": {
+    "text": "小李：是啊！",
+    "en": "Xiao Li: That's right!"
+  },
+  "7.3.5.2": {
+    "text": "像咱们这些久坐办公室的人要注意，有时间应该多站起来活动活动。",
+    "en": "Office workers like us, who sit for long periods, need to be careful and get up and move around whenever we can."
+  },
+  "7.3.6.1": {
+    "text": "小林：好，咱们午饭后就去附近的公园散散步吧。",
+    "en": "Xiao Lin: All right. Let's take a walk in the nearby park after lunch."
+  },
+  "7.4.1.1": {
+    "text": "每个人都希望自己健康，那么什么才是健康呢？",
+    "en": "Everyone hopes to be healthy, but what does being healthy really mean?"
+  },
+  "7.4.1.2": {
+    "text": "过去，人们认为健康就是指身体不生病。",
+    "en": "In the past, people thought it simply meant not being physically ill."
+  },
+  "7.4.1.3": {
+    "text": "但是，现在人们认识到，健康还指精神上的健康。",
+    "en": "Now, however, people recognize that health includes mental well-being too."
+  },
+  "7.4.1.4": {
+    "text": "只有身体和精神都健康，才算是真正的健康。",
+    "en": "Only when both body and mind are healthy can someone be considered truly healthy."
+  },
+  "7.4.1.5": {
+    "text": "有一位教授用数字来说明健康有多么重要：要是健康是1，其他都是1后面的0；如果没有1，不管有多少0也没用。",
+    "en": "A professor once used numbers to explain how important health is: if health is the digit 1 and everything else is a zero after it, then without the 1, all those zeros are worthless."
+  },
+  "7.4.1.6": {
+    "text": "所以我们平时一定要注意锻炼，别等健康出问题了才后悔。",
+    "en": "That is why we must exercise regularly rather than waiting until health problems arise and regretting it."
+  },
+  "7.5.1.1": {
+    "text": "我听一位医生说过一段话：“最好的医生是自己，最好的药是时间，最好的运动是散步。”",
+    "en": "I once heard a doctor say, “The best doctor is yourself, the best medicine is time, and the best exercise is walking.”"
+  },
+  "7.5.1.2": {
+    "text": "前两条我理解得不深，最后一条我完全同意。",
+    "en": "I do not fully understand the first two points, but I completely agree with the last one."
+  },
+  "7.5.1.3": {
+    "text": "散步是生活中最简单的锻炼方法，既可以活动身体，又可以减肥，而且不会像跑步那样辛苦。",
+    "en": "Walking is the simplest form of everyday exercise: it gets you moving, can help you lose weight, and is not as strenuous as running."
+  },
+  "7.5.1.4": {
+    "text": "晚饭后，一家人一起出去散散步，是一件很幸福的事情。",
+    "en": "Going for a walk together as a family after dinner is a very happy experience."
+  },
+  "7.5.1.5": {
+    "text": "肚子吃饱了需要活动，家人忙了一天需要交流，夫妻说说一天的工作能加深感情，听孩子谈谈学校里有意思的事，一天的烦恼就都跑掉了。",
+    "en": "After eating, we need some movement, and after a busy day, family members need to talk. Couples can grow closer by discussing their work, and listening to children share interesting school stories makes the day's worries disappear."
+  },
+  "8.1.1.1": {
+    "text": "李老师：这种巧克力味道不错，你在哪儿买的？",
+    "en": "Teacher Li: This chocolate tastes good. Where did you buy it?"
+  },
+  "8.1.2.1": {
+    "text": "高老师：不是我买的，是我女儿给我从国外带回来的礼物。",
+    "en": "Teacher Gao: I didn't buy it. My daughter brought it back from abroad as a gift for me."
+  },
+  "8.1.3.1": {
+    "text": "李老师：很多人出国后常常会买外国的巧克力，回来送给亲戚朋友。",
+    "en": "Teacher Li: Many people buy foreign chocolate when they travel overseas and bring it home for relatives and friends."
+  },
+  "8.1.4.1": {
+    "text": "高老师：是啊，因为很多人都爱吃巧克力，尤其是女性。",
+    "en": "Teacher Gao: Yes, because lots of people love chocolate, especially women."
+  },
+  "8.1.5.1": {
+    "text": "李老师：这是为什么呢？",
+    "en": "Teacher Li: Why is that?"
+  },
+  "8.1.6.1": {
+    "text": "高老师：巧克力大多是甜的，而很多女性都喜欢吃甜的。",
+    "en": "Teacher Gao: Most chocolate is sweet, and many women like sweet foods."
+  },
+  "8.1.6.2": {
+    "text": "而且，听说伤心难过的时候吃块儿巧克力，还能使人的心情变得愉快。",
+    "en": "I have also heard that eating a piece of chocolate when you feel sad can cheer you up."
+  },
+  "8.2.1.1": {
+    "text": "小夏：这里的景色真美，空气也好。",
+    "en": "Xiao Xia: The scenery here is beautiful, and the air is fresh too."
+  },
+  "8.2.2.1": {
+    "text": "马克：怎么样，心情好些了吗？",
+    "en": "Mark: How are you feeling? Any better?"
+  },
+  "8.2.3.1": {
+    "text": "小夏：好多了，上次足球比赛后，好久都没这么放松了。",
+    "en": "Xiao Xia: Much better. I haven't felt this relaxed for a long time, ever since that last soccer match."
+  },
+  "8.2.4.1": {
+    "text": "马克：你不要有压力，好好儿准备下次比赛就好了。",
+    "en": "Mark: Don't put yourself under pressure. Just prepare well for the next match."
+  },
+  "8.2.5.1": {
+    "text": "小夏：这段时间我总是一个人坐在房间里回忆那次比赛。",
+    "en": "Xiao Xia: Lately I have been sitting alone in my room, going over that match in my mind."
+  },
+  "8.2.5.2": {
+    "text": "如果我们能再努力一点儿，就一定会多进一个球。",
+    "en": "If we had tried just a little harder, we would definitely have scored another goal."
+  },
+  "8.2.6.1": {
+    "text": "马克：事情已经发生了，过去的就让它成为过去吧。",
+    "en": "Mark: What's done is done. Let the past stay in the past."
+  },
+  "8.2.6.2": {
+    "text": "只要这次你好好儿准备，一定能把比赛踢好。",
+    "en": "As long as you prepare properly this time, you will certainly play well."
+  },
+  "8.3.1.1": {
+    "text": "马克：师傅，我去大使馆，你是不是走错了？",
+    "en": "Mark: Driver, I'm going to the embassy. Have you taken the wrong road?"
+  },
+  "8.3.2.1": {
+    "text": "师傅：现在是上班时间，前面有点儿堵车，我们走另外一条路，距离差不多。",
+    "en": "Driver: It is rush hour, and there is a traffic jam ahead, so we're taking another route. The distance is about the same."
+  },
+  "8.3.3.1": {
+    "text": "马克：那就好，堵车浪费时间，遇到堵车，心情也“堵”。",
+    "en": "Mark: That's good. Traffic jams waste time, and being stuck in one makes you feel emotionally stuck too."
+  },
+  "8.3.4.1": {
+    "text": "师傅：可不是！",
+    "en": "Driver: Exactly!"
+  },
+  "8.3.4.2": {
+    "text": "上班堵车怕迟到，下班堵车怕回家晚。",
+    "en": "On the way to work you worry about being late; on the way back you worry about getting home late."
+  },
+  "8.3.4.3": {
+    "text": "每天在马路上开车，要想不遇到堵车，还真难。",
+    "en": "When you drive on the roads every day, avoiding traffic jams is really difficult."
+  },
+  "8.3.5.1": {
+    "text": "马克：一遇到堵车，人们就容易变得没有耐心。",
+    "en": "Mark: People easily lose patience as soon as they get stuck in traffic."
+  },
+  "8.3.5.2": {
+    "text": "长期这样，还会影响脾气甚至性格。",
+    "en": "Over time, it can even affect their temper and personality."
+  },
+  "8.3.5.3": {
+    "text": "但是您的心情为什么这么好呢？",
+    "en": "But why are you in such a good mood?"
+  },
+  "8.3.6.1": {
+    "text": "师傅：我们改变不了堵车，但是可以试着改变自己的心情。",
+    "en": "Driver: We cannot change the traffic jam, but we can try to change our mood."
+  },
+  "8.3.6.2": {
+    "text": "堵车时正好可以休息一下，还可以听听自己喜欢的音乐。",
+    "en": "Being stuck is a chance to rest for a while and listen to music we enjoy."
+  },
+  "8.4.1.1": {
+    "text": "草绿了，那是生命的颜色；花开了，那是大自然的礼物。",
+    "en": "The grass turns green—the color of life; flowers bloom—nature's gift."
+  },
+  "8.4.1.2": {
+    "text": "生活中不缺少美，缺少的是发现美的眼睛。",
+    "en": "Life does not lack beauty; it lacks eyes that notice beauty."
+  },
+  "8.4.1.3": {
+    "text": "只要有心，生活中的美到处都是。",
+    "en": "If you pay attention, beauty is everywhere in everyday life."
+  },
+  "8.4.1.4": {
+    "text": "生活的态度要自己选择，因此，遇到烦恼时，你应该想一些办法让自己从不高兴的心情中走出来。",
+    "en": "Your attitude toward life is your own choice, so when you encounter worries, find ways to pull yourself out of an unhappy mood."
+  },
+  "8.4.1.5": {
+    "text": "窗外是什么样子，我们无法改变，但我们可以选择站在哪个窗户前。",
+    "en": "We cannot change the view outside, but we can choose which window to stand in front of."
+  },
+  "8.4.1.6": {
+    "text": "选择一个能够带给我们快乐的窗户，这样才能选对心情，选对生活的态度。",
+    "en": "Choose a window that brings you joy, and you will be choosing the right mood and attitude toward life."
+  },
+  "8.5.1.1": {
+    "text": "科学研究证明，女孩子对衣服颜色的选择往往与她们的性格有关。",
+    "en": "Scientific research has shown that young women's choice of clothing colors is often related to their personality."
+  },
+  "8.5.1.2": {
+    "text": "喜欢穿白色衣服的女孩子性格比较阳光，生活态度积极向上是她们的共同特点；而喜欢穿红色衣服的女孩子性格比较浪漫。",
+    "en": "Those who like wearing white tend to have sunny personalities and share a positive attitude toward life, while those who like wearing red tend to be more romantic."
+  },
+  "8.5.1.3": {
+    "text": "颜色也会影响人的心情，不同的颜色会给我们带来不同的感情变化。",
+    "en": "Colors can also affect people's moods, with different colors bringing different emotional changes."
+  },
+  "8.5.1.4": {
+    "text": "红色让人变得热情；黄色和白色让人心情愉快；黑色却容易让人感到伤心；人们在看到蓝色时会觉得很舒服，变得安静下来；绿色让我们的眼睛得到休息。",
+    "en": "Red makes people feel enthusiastic; yellow and white lift the mood; black can make people feel sad; blue feels comfortable and calming; and green gives our eyes a rest."
+  },
+  "9.1.1.1": {
+    "text": "王静：怎么又买了这么多饼干和巧克力？",
+    "en": "Wang Jing: Why have you bought so many cookies and chocolates again?"
+  },
+  "9.1.1.2": {
+    "text": "难道你不减肥了？",
+    "en": "Aren't you trying to lose weight anymore?"
+  },
+  "9.1.2.1": {
+    "text": "孙月：减了一个月都没瘦下来，我实在没有信心了。",
+    "en": "Sun Yue: I have been trying for a month without slimming down. I have really lost confidence."
+  },
+  "9.1.3.1": {
+    "text": "王静：如果你想减肥，就得少吃东西，而且要多运动。",
+    "en": "Wang Jing: If you want to lose weight, you must eat less and exercise more."
+  },
+  "9.1.4.1": {
+    "text": "孙月：我就是这么做的，但这一个月下来，我只轻了一公斤。",
+    "en": "Sun Yue: That's exactly what I've been doing, but after a whole month I've only lost one kilogram."
+  },
+  "9.1.5.1": {
+    "text": "王静：一个月太短了。",
+    "en": "Wang Jing: One month is too short."
+  },
+  "9.1.5.2": {
+    "text": "要想减肥成功，只有坚持，才会慢慢有效果。",
+    "en": "If you want to lose weight successfully, you have to keep at it; the results will come gradually."
+  },
+  "9.1.6.1": {
+    "text": "孙月：我本来已经打算放弃了，但是你刚才的话让我改变了主意。",
+    "en": "Sun Yue: I had already planned to give up, but what you just said has changed my mind."
+  },
+  "9.1.6.2": {
+    "text": "这些饼干和巧克力送给你了。",
+    "en": "You can have these cookies and chocolates."
+  },
+  "9.2.1.1": {
+    "text": "李进：你网球打得真好，还得过那么多国际大奖！",
+    "en": "Li Jin: You play tennis so well, and you have won so many major international prizes!"
+  },
+  "9.2.1.2": {
+    "text": "每次看你比赛，感觉你轻轻松松就赢了。",
+    "en": "Whenever I watch you compete, winning seems effortless for you."
+  },
+  "9.2.2.1": {
+    "text": "张远：哪里啊！",
+    "en": "Zhang Yuan: Not at all!"
+  },
+  "9.2.2.2": {
+    "text": "那是你没看到我辛苦练习的一面，没有人随随便便就能成功的。",
+    "en": "That's because you haven't seen the hard training behind it. Nobody succeeds without effort."
+  },
+  "9.2.3.1": {
+    "text": "李进：我从小也对网球感兴趣，但是到现在还是打得不怎么样。",
+    "en": "Li Jin: I have been interested in tennis since childhood too, but I still don't play very well."
+  },
+  "9.2.4.1": {
+    "text": "张远：你知道吗？",
+    "en": "Zhang Yuan: You know what?"
+  },
+  "9.2.4.2": {
+    "text": "不管春夏秋冬，我练球从来没有休息过一天。",
+    "en": "Through spring, summer, autumn, and winter, I have never taken a single day off practice."
+  },
+  "9.2.5.1": {
+    "text": "李进：真是不容易啊！",
+    "en": "Li Jin: That really isn't easy!"
+  },
+  "9.2.5.2": {
+    "text": "看来我只看到了你成功时获得的鲜花，却没注意到你成功前流下的汗水。",
+    "en": "It seems I only noticed the flowers celebrating your success, not the sweat you shed to achieve it."
+  },
+  "9.2.6.1": {
+    "text": "张远：任何成功都要通过努力才能得到。",
+    "en": "Zhang Yuan: Any success takes hard work."
+  },
+  "9.2.6.2": {
+    "text": "只要你坚持练习，我相信你也会越打越好的。",
+    "en": "As long as you keep practicing, I believe you will keep getting better too."
+  },
+  "9.3.1.1": {
+    "text": "小林：你还记得王红吗？",
+    "en": "Xiao Lin: Do you remember Wang Hong?"
+  },
+  "9.3.1.2": {
+    "text": "我在报纸上看到一篇关于她的新闻，她现在已经是一个有名的作家了。",
+    "en": "I read a newspaper article about her. She is a well-known writer now."
+  },
+  "9.3.2.1": {
+    "text": "小李：听说她毕业后放弃了律师的工作，开始专门写小说，没想到她竟然成功了。",
+    "en": "Xiao Li: I heard she gave up her job as a lawyer after graduation to write novels full-time. I never expected her to succeed!"
+  },
+  "9.3.3.1": {
+    "text": "小林：当时她的父母和亲戚都不支持她，可是她坚持自己的选择，现在终于向所有人证明了她的选择是正确的。",
+    "en": "Xiao Lin: Her parents and relatives did not support her at the time, but she stuck to her decision and has finally proved to everyone that it was the right one."
+  },
+  "9.3.4.1": {
+    "text": "小李：看来为了自己的理想，放弃一些东西也是值得的。",
+    "en": "Xiao Li: It seems that giving some things up to pursue your dream can be worthwhile."
+  },
+  "9.3.5.1": {
+    "text": "小林：一个人只有两只手，不可能得到所有想要的东西，所以有时候放弃是一种聪明的选择。",
+    "en": "Xiao Lin: A person only has two hands and cannot have everything they want, so sometimes letting go is a wise choice."
+  },
+  "9.3.6.1": {
+    "text": "小李：是啊，只有学会放弃，才能把自己的能力用到最该做的事情上，最后获得成功。",
+    "en": "Xiao Li: Yes. Only by learning to let go can you put your abilities into what matters most and eventually succeed."
+  },
+  "9.4.1.1": {
+    "text": "如果你想做什么事情，那就勇敢地去做，不要担心结果，不要考虑会不会失败。",
+    "en": "If there is something you want to do, be brave and do it. Don't worry about the outcome or dwell on whether you might fail."
+  },
+  "9.4.1.2": {
+    "text": "要是太看重结果，失败就会给人们带来很多烦恼。",
+    "en": "If you attach too much importance to the result, failure will cause you a great deal of distress."
+  },
+  "9.4.1.3": {
+    "text": "我们应该把注意力放在做事情的过程上，这样你会在做的过程中发现解决问题的快乐，这是其他任何东西都给不了的。",
+    "en": "We should focus on the process of doing things, because it lets us discover the joy of solving problems—a joy nothing else can give us."
+  },
+  "9.4.1.4": {
+    "text": "即使最后失败了也没有关系，因为至少你已经努力过，而且我们还可以从失败中总结出有用的经验，有了这些积累，成功自然离我们越来越近。",
+    "en": "Even if we fail in the end, that is all right: at least we tried. We can also learn useful lessons from failure, and as that experience accumulates, success naturally draws closer."
+  },
+  "9.5.1.1": {
+    "text": "每一个人都希望成功，可是很多时候，在成功之前会遇到很多困难。",
+    "en": "Everyone hopes to succeed, but often many difficulties must be faced before success comes."
+  },
+  "9.5.1.2": {
+    "text": "有些人遇到困难就放弃，而有些人遇到困难却想办法解决它。",
+    "en": "Some people give up when they encounter difficulties, while others look for ways to solve them."
+  },
+  "9.5.1.3": {
+    "text": "对困难的态度不同，结果也是不一样的。",
+    "en": "Different attitudes toward difficulties lead to different results."
+  },
+  "9.5.1.4": {
+    "text": "爱迪生就是在找了上千种材料后才找到了能点亮电灯的材料。",
+    "en": "Edison tried over a thousand materials before finding one that could light an electric bulb."
+  },
+  "9.5.1.5": {
+    "text": "取得成功的人往往都经历过许多失败，他们和普通人的区别就是他们都坚持了下来。",
+    "en": "Successful people have often experienced many failures; what sets them apart is that they kept going."
+  },
+  "9.5.1.6": {
+    "text": "所以就算只有1%的希望，我们也要做出100%的努力。",
+    "en": "So even if there is only a 1% chance, we should still give 100% effort."
+  },
+  "9.5.1.7": {
+    "text": "困难只是暂时的，“阳光总在风雨后”，只有我们勇敢地面对困难，才能有希望取得成功。",
+    "en": "Difficulties are only temporary. “Sunshine always follows the storm.” Only by facing difficulties bravely can we hope to succeed."
+  },
+  "10.1.1.1": {
+    "text": "孙月：礼拜天有空儿吗？",
+    "en": "Sun Yue: Are you free on Sunday?"
+  },
+  "10.1.1.2": {
+    "text": "陪我去逛街怎么样？",
+    "en": "How about coming shopping with me?"
+  },
+  "10.1.1.3": {
+    "text": "我想去给丈夫买个生日礼物。",
+    "en": "I want to buy my husband a birthday present."
+  },
+  "10.1.2.1": {
+    "text": "王静：我可能去不了，最近事情多。",
+    "en": "Wang Jing: I probably can't come. I have a lot going on lately."
+  },
+  "10.1.3.1": {
+    "text": "孙月：你最近是不是工作特别忙？",
+    "en": "Sun Yue: Have you been especially busy at work recently?"
+  },
+  "10.1.4.1": {
+    "text": "王静：我现在上有老，下有小。",
+    "en": "Wang Jing: I have both an elderly parent and a young child to look after now."
+  },
+  "10.1.4.2": {
+    "text": "除了工作以外，家里还有母亲和儿子需要照顾。",
+    "en": "Besides working, I have to care for my mother and son at home."
+  },
+  "10.1.5.1": {
+    "text": "孙月：真是辛苦啊！",
+    "en": "Sun Yue: That sounds exhausting!"
+  },
+  "10.1.5.2": {
+    "text": "你最近脸色不太好，是不是哪儿不舒服？",
+    "en": "You haven't looked very well lately. Are you feeling unwell?"
+  },
+  "10.1.5.3": {
+    "text": "要注意身体啊。",
+    "en": "Make sure you take care of yourself."
+  },
+  "10.1.6.1": {
+    "text": "王静：没事儿，谢谢！",
+    "en": "Wang Jing: I'm fine, thank you!"
+  },
+  "10.1.6.2": {
+    "text": "不过现在我很幸福，因为在母亲面前我可以做一个永远长不大的孩子；在孩子面前我又是个能照顾他的母亲，这让我有了努力的方向。",
+    "en": "But I'm very happy now: with my mother, I can remain a child who never grows up, while with my own child, I am a mother who can care for him. That gives my efforts a sense of direction."
+  },
+  "10.2.1.1": {
+    "text": "高老师：你看人家王老师，刚来这儿工作三年就当了教授，还有个好妻子，真让人羡慕！",
+    "en": "Teacher Gao: Just look at Teacher Wang. He became a professor after working here for only three years, and he has a lovely wife too. How enviable!"
+  },
+  "10.2.2.1": {
+    "text": "李老师：其实，你在别人眼中也是很幸福的，只是你自己没有发现。",
+    "en": "Teacher Li: Actually, other people see you as very fortunate too. You just haven't noticed it yourself."
+  },
+  "10.2.3.1": {
+    "text": "高老师：是吗？",
+    "en": "Teacher Gao: Really?"
+  },
+  "10.2.3.2": {
+    "text": "我哪能跟王老师比啊？",
+    "en": "How could I compare with Teacher Wang?"
+  },
+  "10.2.4.1": {
+    "text": "李老师：你有一个漂亮的女儿，还那么优秀，硕士毕业后就当了翻译。",
+    "en": "Teacher Li: You have a beautiful and very accomplished daughter who became a translator after finishing her master's degree."
+  },
+  "10.2.5.1": {
+    "text": "高老师：我女儿确实不错，记得她刚拿到第一个月工资时，就兴奋地拉着我和她爸俩去商场，给我们买礼物，那时我和她爸心里别提多美了！",
+    "en": "Teacher Gao: My daughter really is wonderful. When she got her first month's pay, she excitedly took her father and me to the department store to buy us presents. You can't imagine how happy we were!"
+  },
+  "10.2.6.1": {
+    "text": "李老师：所以说每个人有每个人的生活，不用羡慕别人。",
+    "en": "Teacher Li: So everyone has their own life; there is no need to envy others."
+  },
+  "10.2.6.2": {
+    "text": "你羡慕别人的时候，他们可能也正在羡慕你呢。",
+    "en": "While you are envying someone else, they may be envying you."
+  },
+  "10.3.1.1": {
+    "text": "小雨：时间过得真快，马上就要毕业了。",
+    "en": "Xiao Yu: Time goes so quickly. We will be graduating soon."
+  },
+  "10.3.1.2": {
+    "text": "毕业后你打算做什么？",
+    "en": "What are you planning to do afterward?"
+  },
+  "10.3.2.1": {
+    "text": "小夏：我还没想好呢，正想听听你的建议。",
+    "en": "Xiao Xia: I haven't decided yet, and I was hoping to hear your advice."
+  },
+  "10.3.2.2": {
+    "text": "你觉得在选择职业时，收入重要吗？",
+    "en": "Do you think income is important when choosing a career?"
+  },
+  "10.3.3.1": {
+    "text": "小雨：在我看来，赚钱多少不是最重要的，兴趣才是关键。",
+    "en": "Xiao Yu: In my view, how much you earn is not the most important thing. Your interest in the work is what matters."
+  },
+  "10.3.3.2": {
+    "text": "只有做自己喜欢的事，才会觉得幸福，将来也会有更好的发展。",
+    "en": "Only by doing something you enjoy will you feel happy and have better prospects in the future."
+  },
+  "10.3.4.1": {
+    "text": "小夏：我也这么想。",
+    "en": "Xiao Xia: I think so too."
+  },
+  "10.3.4.2": {
+    "text": "如果我带着热情去做自己喜欢的工作，就不会感到累。",
+    "en": "If I put enthusiasm into work I enjoy, I won't feel tired."
+  },
+  "10.3.4.3": {
+    "text": "不过，现在什么东西都那么贵，生活压力太大了，没有钱也不会过得幸福啊！",
+    "en": "But everything is so expensive now, and the cost of living is such a burden. Without money, it is hard to be happy too!"
+  },
+  "10.3.5.1": {
+    "text": "小雨：幸福其实很简单，它不是只要有钱就能买到的。",
+    "en": "Xiao Yu: Happiness is actually simple, and money alone cannot buy it."
+  },
+  "10.3.5.2": {
+    "text": "我觉得工作结束回家后，洗个热水澡，然后躺在床上看看书、听听音乐，困了睡睡觉，就很幸福。",
+    "en": "For me, coming home after work, taking a hot shower, lying in bed reading or listening to music, and sleeping when I feel tired is happiness enough."
+  },
+  "10.3.6.1": {
+    "text": "小夏：你说的也对。",
+    "en": "Xiao Xia: You have a point."
+  },
+  "10.3.6.2": {
+    "text": "如果能找到一份自己既感兴趣，收入又不错的工作，那就最好了。",
+    "en": "It would be ideal to find a job that interests me and also pays reasonably well."
+  },
+  "10.4.1.1": {
+    "text": "有的人希望穿得再好一些，房子再大一些，认为经济条件越好人就越幸福。",
+    "en": "Some people want nicer clothes and a bigger house, believing that better financial circumstances bring greater happiness."
+  },
+  "10.4.1.2": {
+    "text": "其实有很多富人过得并不愉快，而有些穷人却过得很快乐。",
+    "en": "In fact, many wealthy people are unhappy, while some poor people live very happily."
+  },
+  "10.4.1.3": {
+    "text": "有钱不一定幸福，因为很多东西都是不能用钱买到的，例如时间、感情、生活经历等。",
+    "en": "Money does not necessarily bring happiness, because many things cannot be bought, such as time, love, and life experience."
+  },
+  "10.4.1.4": {
+    "text": "但是，从另外一个方面看，如果没钱，也很难过得幸福。",
+    "en": "On the other hand, it is also hard to live happily without money."
+  },
+  "10.4.1.5": {
+    "text": "当你生病了，如果由于缺钱而不能及时去看医生，你的健康都很难得到保证，就更别说幸福了。",
+    "en": "If you become ill and cannot afford to see a doctor promptly, even your health is difficult to protect, let alone your happiness."
+  },
+  "10.5.1.1": {
+    "text": "什么是幸福？",
+    "en": "What is happiness?"
+  },
+  "10.5.1.2": {
+    "text": "有的人认为，工资高、能赚钱就是幸福；有的人认为，心情放松、身体健康才是幸福；也有人认为，能帮助别人就是一种幸福。",
+    "en": "Some people think happiness means a high salary and earning money; others think it means a relaxed mind and good health; still others feel happy when they can help people."
+  },
+  "10.5.1.3": {
+    "text": "还有人说，小时候幸福是一件东西，比如一块橡皮、一块糖，得到了就很幸福；长大后幸福是一种态度，生活的态度决定了我们幸福感的高低。",
+    "en": "Others say that, in childhood, happiness is a thing—an eraser or a piece of candy—that makes you happy when you get it. In adulthood, happiness is an attitude, and our attitude toward life determines how happy we feel."
+  },
+  "10.5.1.4": {
+    "text": "那怎样才算是真正的幸福？",
+    "en": "So what counts as true happiness?"
+  },
+  "10.5.1.5": {
+    "text": "其实，幸福并没有一个标准答案，每个人对幸福都有不同的理解。",
+    "en": "There is actually no single correct answer; everyone understands happiness differently."
+  },
+  "10.5.1.6": {
+    "text": "不管你认为幸福是什么，只要你用心去找，就一定能发现它。",
+    "en": "Whatever happiness means to you, if you look for it sincerely, you are sure to find it."
+  },
+  "11.1.1.1": {
+    "text": "大卫：你来中国才一年，汉语就说得这么流利，真厉害！",
+    "en": "David: You have only been in China a year, yet you already speak Chinese so fluently. That's impressive!"
+  },
+  "11.1.2.1": {
+    "text": "马克：谢谢！",
+    "en": "Mark: Thank you!"
+  },
+  "11.1.2.2": {
+    "text": "其实我的语法不太好，很多句子说得都不太准确。",
+    "en": "Actually, my grammar isn't very good, and a lot of my sentences aren't entirely accurate."
+  },
+  "11.1.3.1": {
+    "text": "大卫：但是我看你跟中国人交流没什么问题，你是怎么做到的？",
+    "en": "David: But you seem to have no trouble communicating with Chinese people. How did you manage that?"
+  },
+  "11.1.4.1": {
+    "text": "马克：平时多交一些中国朋友，经常和他们聊天儿，听说能力自然就能得到很大的提高。",
+    "en": "Mark: Make more Chinese friends and chat with them regularly, and your listening and speaking will naturally improve a great deal."
+  },
+  "11.1.4.2": {
+    "text": "另外，我建议你坚持看中文报纸，这样能学到很多新词语。",
+    "en": "I also suggest reading Chinese newspapers regularly; you can learn lots of new vocabulary that way."
+  },
+  "11.1.5.1": {
+    "text": "大卫：你太厉害了！",
+    "en": "David: You're amazing!"
+  },
+  "11.1.5.2": {
+    "text": "连中文报纸都看得懂。",
+    "en": "You can even understand Chinese newspapers."
+  },
+  "11.1.6.1": {
+    "text": "马克：刚开始肯定有困难，不过遇到不认识的词语，你可以查词典，然后写在本子上，有空儿就拿出来复习一下，慢慢地就会发现中文报纸也没那么难了。",
+    "en": "Mark: It is bound to be difficult at first, but when you encounter unfamiliar words, look them up in a dictionary, write them in a notebook, and review them whenever you have time. Gradually, you will find that Chinese newspapers aren't so difficult after all."
+  },
+  "11.2.1.1": {
+    "text": "小夏：考试结束了，你对自己的成绩满意吗？",
+    "en": "Xiao Xia: The exam is over. Are you satisfied with your result?"
+  },
+  "11.2.2.1": {
+    "text": "小雨：说真的，我不太满意。",
+    "en": "Xiao Yu: To be honest, not very."
+  },
+  "11.2.2.2": {
+    "text": "这次阅读考试的题太多了，我没做完。",
+    "en": "There were too many questions in the reading test this time, and I didn't finish."
+  },
+  "11.2.3.1": {
+    "text": "小夏：两个小时的时间应该来得及吧？",
+    "en": "Xiao Xia: Two hours should have been enough, shouldn't it?"
+  },
+  "11.2.4.1": {
+    "text": "小雨：这次主要是因为我先做了比较难、比较复杂的题，结果花了太多时间，后面简单的题我虽然会，可是时间来不及，最后只好放弃了。",
+    "en": "Xiao Yu: The main problem was that I did the harder, more complicated questions first and spent too much time on them. Although I knew how to answer the easy questions afterward, I ran out of time and had to leave them."
+  },
+  "11.2.5.1": {
+    "text": "小夏：其实我考得也不怎么样。",
+    "en": "Xiao Xia: Actually, I didn't do very well either."
+  },
+  "11.2.5.2": {
+    "text": "有几个填空题不会做，有几个选择题，实在想不出来该选哪个，就随便猜了一个答案，结果一个都没猜对。",
+    "en": "There were a few fill-in-the-blank questions I couldn't answer, and some multiple-choice ones where I couldn't work out which option to choose. I guessed, but not a single guess was right."
+  },
+  "11.2.6.1": {
+    "text": "小雨：看来要想考好，不但要认真复习，还得注意考试的方法，否则，会做的题也没时间做了。",
+    "en": "Xiao Yu: It seems that doing well requires not only careful revision but also the right exam strategy; otherwise, you won't have time even for questions you know how to answer."
+  },
+  "11.3.1.1": {
+    "text": "小林：你的客厅里怎么到处是书啊？",
+    "en": "Xiao Lin: Why are there books everywhere in your living room?"
+  },
+  "11.3.1.2": {
+    "text": "这些书你都喜欢看吗？",
+    "en": "Do you enjoy reading all of them?"
+  },
+  "11.3.2.1": {
+    "text": "小李：当然，我每天都要看书。",
+    "en": "Xiao Li: Of course. I read every day."
+  },
+  "11.3.2.2": {
+    "text": "无论是普通杂志，还是著名小说，只要打开它们，就会发现，世界上有那么多有意思的事情，有那么多不一样的生活。",
+    "en": "Whether it is an ordinary magazine or a famous novel, opening it reveals so many interesting things in the world and so many different ways of life."
+  },
+  "11.3.3.1": {
+    "text": "小林：想不到你工作那么忙，还能每天坚持阅读。",
+    "en": "Xiao Lin: I'm surprised that you manage to read every day even though you are so busy with work."
+  },
+  "11.3.4.1": {
+    "text": "小李：如果3分钟读一页书，半个小时就可以读10页。",
+    "en": "Xiao Li: If it takes three minutes to read a page, you can read ten pages in half an hour."
+  },
+  "11.3.4.2": {
+    "text": "每天花半个小时来读书，一个月就可以读300页，差不多就是一本书了。",
+    "en": "Spend half an hour reading every day, and you can finish three hundred pages in a month—about one book."
+  },
+  "11.3.5.1": {
+    "text": "小林：是啊，一个真正爱看书的人总能找出时间来阅读。",
+    "en": "Xiao Lin: Yes, someone who truly loves books can always find time to read."
+  },
+  "11.3.6.1": {
+    "text": "小李：坚持阅读，除了能增加知识外，还能帮助我减轻压力，人也会变得轻松起来。",
+    "en": "Xiao Li: Besides increasing my knowledge, regular reading helps reduce my stress and makes me feel more relaxed."
+  },
+  "11.4.1.1": {
+    "text": "根据调查，阅读能力好的人，不但容易找到工作，而且工资也比较高。",
+    "en": "According to surveys, people with good reading skills not only find jobs more easily but also tend to earn higher salaries."
+  },
+  "11.4.1.2": {
+    "text": "怎么才能有效提高自己的阅读能力呢？",
+    "en": "How can you improve your reading skills effectively?"
+  },
+  "11.4.1.3": {
+    "text": "做读书笔记就是其中一种好方法。",
+    "en": "Keeping reading notes is one good method."
+  },
+  "11.4.1.4": {
+    "text": "读书笔记有很多种，最简单的就是把自己喜欢或者觉得有用的词语和句子记下来。",
+    "en": "There are many kinds of reading notes. The simplest is to write down words and sentences that you like or find useful."
+  },
+  "11.4.1.5": {
+    "text": "另外，在看完一篇文章或一本书之后，还可以把它的主要内容和自己的想法写下来。",
+    "en": "After finishing an article or a book, you can also write down its main ideas and your own thoughts."
+  },
+  "11.4.1.6": {
+    "text": "然而，你不能完全相信书本上的内容，要有自己的看法和判断。",
+    "en": "However, you should not believe everything in books uncritically; you need your own opinions and judgment."
+  },
+  "11.4.1.7": {
+    "text": "坚持做读书笔记，对提高阅读能力有很大帮助。",
+    "en": "Keeping reading notes regularly is a great help in improving reading skills."
+  },
+  "11.5.1.1": {
+    "text": "“读书好，读好书，好读书”。",
+    "en": "“Reading is good; read good books; enjoy reading.”"
+  },
+  "11.5.1.2": {
+    "text": "虽然这句话只用了三个相同的汉字，但是不同的顺序却表示了不同的意思。",
+    "en": "Although this saying uses the same three Chinese characters, changing their order gives them different meanings."
+  },
+  "11.5.1.3": {
+    "text": "首先，“读书好”说的是读书有很多好处；其次，每个人的时间都是有限的，不可能把世界上每一本书都读完，所以要读好的书；最后，“好读书”就是要养成阅读的习惯，使读书真正成为自己的兴趣爱好。",
+    "en": "First, “reading is good” refers to the many benefits of reading. Second, everyone's time is limited, and nobody can read every book in the world, so we should choose good books. Finally, “enjoy reading” means developing a reading habit and making reading something we genuinely like to do."
+  },
+  "11.5.1.4": {
+    "text": "阅读有许多好处，它能丰富你的知识，让你找到解决问题的办法；同时，它还会丰富你的情感，使你的生活更精彩。",
+    "en": "Reading has many benefits: it broadens your knowledge and helps you find ways to solve problems; it also enriches your emotional life and makes life more rewarding."
+  },
+  "11.5.1.5": {
+    "text": "所以，让阅读成为你的习惯吧！",
+    "en": "So make reading a habit!"
+  },
+  "12.1.1.1": {
+    "text": "王经理：听说这次生意你到现在还没谈成。",
+    "en": "Manager Wang: I hear you still haven't closed this business deal."
+  },
+  "12.1.2.1": {
+    "text": "马经理：按我以前的经验，早应该谈成了，这次我也不知道哪儿出了问题。",
+    "en": "Manager Ma: Based on my previous experience, it should have been settled long ago. I don't know what has gone wrong this time."
+  },
+  "12.1.3.1": {
+    "text": "王经理：有句话叫“规定和经验是死的，人是活的”。",
+    "en": "Manager Wang: There is a saying: “Rules and experience are fixed, but people are adaptable.”"
+  },
+  "12.1.3.2": {
+    "text": "当“规定”和“经验”不能解决问题时，建议你改变一下自己的态度和想法。",
+    "en": "When rules and experience cannot solve a problem, I suggest changing your attitude and way of thinking."
+  },
+  "12.1.4.1": {
+    "text": "马经理：很多时候，我都习惯根据过去的经验做事，可惜，经验不是全部对的。",
+    "en": "Manager Ma: I often rely on past experience when doing things, but unfortunately, experience is not always right."
+  },
+  "12.1.5.1": {
+    "text": "王经理：遇到不能解决的问题时，我们应该试着走走以前从来没走过的路，也许这样就能找到解决问题的方法了。",
+    "en": "Manager Wang: When we encounter a problem we cannot solve, we should try a path we have never taken before. Perhaps that will lead us to a solution."
+  },
+  "12.1.6.1": {
+    "text": "马经理：好，我再跟同事商量商量，希望能及时发现问题，并且准确地找到解决问题的方法。",
+    "en": "Manager Ma: All right. I'll discuss it with my colleagues again. I hope we can identify the problem promptly and find the right way to solve it."
+  },
+  "12.2.1.1": {
+    "text": "女儿：妈，您看我刚买的裤子，洗完以后颜色怎么变得这么难看呢？",
+    "en": "Daughter: Mum, look at these trousers I just bought. Why does the color look so awful after washing them?"
+  },
+  "12.2.2.1": {
+    "text": "高老师：看来是掉颜色了，你洗的时候在水里加点儿盐就不会这样了。",
+    "en": "Teacher Gao: It looks as though the color has faded. Adding a little salt to the water when you wash them will prevent that."
+  },
+  "12.2.3.1": {
+    "text": "女儿：放盐？！",
+    "en": "Daughter: Salt?!"
+  },
+  "12.2.3.2": {
+    "text": "盐不是用来做饭的吗？",
+    "en": "Isn't salt for cooking?"
+  },
+  "12.2.3.3": {
+    "text": "难道它还能让衣服不掉颜色？",
+    "en": "Can it really keep clothes from fading too?"
+  },
+  "12.2.4.1": {
+    "text": "高老师：当然。",
+    "en": "Teacher Gao: Of course."
+  },
+  "12.2.4.2": {
+    "text": "有些衣服第一次洗的时候会掉颜色，其实，有很多方法可以解决这个问题。",
+    "en": "Some clothes lose color the first time they are washed, but there are many ways to solve this problem."
+  },
+  "12.2.4.3": {
+    "text": "在水里加点盐再洗是最简单的方法。",
+    "en": "The simplest is to add a little salt to the water before washing them."
+  },
+  "12.2.4.4": {
+    "text": "用盐水来洗新衣服，这样穿得再久、洗的次数再多，衣服也不容易掉颜色。",
+    "en": "Wash new clothes in salt water, and they will be less likely to fade even after you wear and wash them many times."
+  },
+  "12.2.5.1": {
+    "text": "女儿：我第一次听说盐有保护衣服颜色的作用，生活中还真有不少课本上无法学到的知识。",
+    "en": "Daughter: This is the first time I've heard that salt can protect the color of clothes. Everyday life really does teach us many things that textbooks cannot."
+  },
+  "12.2.6.1": {
+    "text": "高老师：实际上，很多问题的答案都可以从生活中找到。",
+    "en": "Teacher Gao: Actually, the answers to many problems can be found in everyday life."
+  },
+  "12.2.6.2": {
+    "text": "但这需要你用眼睛去发现，用心去总结。",
+    "en": "But you need to observe with your eyes and reflect carefully on what you discover."
+  },
+  "12.3.1.1": {
+    "text": "高老师：王教授，今天听完您的这节课，我终于明白为什么您的课那么受学生欢迎了。",
+    "en": "Teacher Gao: Professor Wang, after attending your class today, I finally understand why your lessons are so popular with students."
+  },
+  "12.3.2.1": {
+    "text": "王教授：谢谢！",
+    "en": "Professor Wang: Thank you!"
+  },
+  "12.3.2.2": {
+    "text": "您能详细谈谈对我的课的看法吗？",
+    "en": "Could you tell me more specifically what you thought of my lesson?"
+  },
+  "12.3.3.1": {
+    "text": "高老师：我发现您对学生特别了解，而且总是能用最简单的方法把复杂的问题解释清楚，让每个学生都能听懂，这一点真是值得我们好好儿学习。",
+    "en": "Teacher Gao: I noticed how well you understand your students and how you always explain complicated problems in the simplest way so that everyone can follow. That is something we should really learn from you."
+  },
+  "12.3.4.1": {
+    "text": "王教授：哪里哪里，这只是因为我对每个学生的能力水平比较了解。",
+    "en": "Professor Wang: You're too kind. It is simply because I know each student's abilities and level fairly well."
+  },
+  "12.3.5.1": {
+    "text": "高老师：那您认为对于老师来说，什么是最难做到的？",
+    "en": "Teacher Gao: Then what do you think is the hardest thing for a teacher to do?"
+  },
+  "12.3.6.1": {
+    "text": "王教授：世界上没有完全相同的叶子，同样地，世界上也没有完全一样的人。",
+    "en": "Professor Wang: Just as no two leaves in the world are exactly alike, no two people are exactly alike either."
+  },
+  "12.3.6.2": {
+    "text": "所以，在教育学生时，要根据学生的特点选择不同的方法，我想这应该是最不容易做到的。",
+    "en": "So when teaching, we need to choose different methods according to each student's characteristics. I think that is probably the hardest part."
+  },
+  "12.4.1.1": {
+    "text": "人人都会使用语言，但是怎么用语言把话说好却是一门艺术。",
+    "en": "Everyone can use language, but using it to express yourself well is an art."
+  },
+  "12.4.1.2": {
+    "text": "看一个人怎么说话，往往可以比较准确地判断出他是一个什么样的人。",
+    "en": "The way someone speaks often lets you judge quite accurately what kind of person they are."
+  },
+  "12.4.1.3": {
+    "text": "有的人心里怎么想，嘴上就怎么说，即使是别人的缺点，他也会直接说出来，这样的人虽然很诚实，但是可能会引起别人的误会；有的人虽然也看到了别人的缺点，但却不会直接指出来，而是通过别的方法来提醒，让他认识到自己的缺点，这样的人会让人觉得更友好。",
+    "en": "Some people say exactly what they think and point out others' faults directly. Although honest, they may cause misunderstandings. Others notice those faults too but do not point them out bluntly; instead, they help the person recognize them in another way. Such people seem friendlier."
+  },
+  "12.5.1.1": {
+    "text": "无论做什么事情，都要注意方法，学习尤其是这样。",
+    "en": "Whatever you do, choosing the right method matters, and this is especially true of studying."
+  },
+  "12.5.1.2": {
+    "text": "使用正确的方法，我们做起事来能“事半功倍”，也就是说，能节约时间，用较少的力气，取得更好的效果。",
+    "en": "Using the right method lets us achieve “twice the result with half the effort”—saving time and getting better results with less work."
+  },
+  "12.5.1.3": {
+    "text": "相反，如果方法不对，可能花五倍甚至十倍的时间都不能完成任务，结果变成了“事倍功半”。",
+    "en": "By contrast, the wrong method may leave a task unfinished even after five or ten times as long, producing “half the result with twice the effort.”"
+  },
+  "12.5.1.4": {
+    "text": "有一点需要提醒大家，别人的方法也许很有效，但是并不一定适合自己。",
+    "en": "One point worth remembering is that someone else's method may be very effective without necessarily being suitable for you."
+  },
+  "12.5.1.5": {
+    "text": "因此，我们应该在听取别人意见的同时，仔细考虑一下，再根据不同的情况选择不同的方法，这样才能达到最好的效果。",
+    "en": "Therefore, we should consider other people's advice carefully and then choose methods suited to the circumstances in order to achieve the best results."
+  },
+  "13.1.1.1": {
+    "text": "小雨：小夏，你爷爷京剧唱得真专业，我还以为他是京剧演员呢。",
+    "en": "Xiao Yu: Xiao Xia, your grandfather sings Beijing opera so professionally that I thought he was a Beijing opera performer."
+  },
+  "13.1.2.1": {
+    "text": "小夏：对啊，他本来就是京剧演员，年轻时在我们那儿很有名，深受观众们的喜爱。",
+    "en": "Xiao Xia: He is! When he was young, he was very famous where we live, and audiences loved him."
+  },
+  "13.1.3.1": {
+    "text": "小雨：你爷爷一定对京剧有着很深厚的感情。",
+    "en": "Xiao Yu: Your grandfather must have a deep affection for Beijing opera."
+  },
+  "13.1.4.1": {
+    "text": "小夏：是呀，他8岁就开始上台演出，到现在大概唱了60多年了，他对这门艺术的喜爱从来没有改变过。",
+    "en": "Xiao Xia: Yes. He began performing onstage at eight and has been singing for over sixty years now. His love of this art has never changed."
+  },
+  "13.1.5.1": {
+    "text": "小雨：这么说你喜欢听京剧也是受了你爷爷的影响？",
+    "en": "Xiao Yu: So your love of Beijing opera also comes from your grandfather's influence?"
+  },
+  "13.1.6.1": {
+    "text": "小夏：我小时候经常去看他的演出。",
+    "en": "Xiao Xia: I often went to see him perform when I was little."
+  },
+  "13.1.6.2": {
+    "text": "平时他还给我讲很多京剧里的历史故事，让我学到了很多知识。",
+    "en": "He also told me many historical stories from Beijing operas, which taught me a great deal."
+  },
+  "13.2.1.1": {
+    "text": "小雨：真没想到你一个来自美国的外国留学生，能把京剧唱得这么好。",
+    "en": "Xiao Yu: I never expected an international student from America to sing Beijing opera so well."
+  },
+  "13.2.2.1": {
+    "text": "马克：我常常跟着电视学唱京剧，然后一遍一遍地练习，偶尔跟中国人一起唱上几句。",
+    "en": "Mark: I often learn songs from television and practice them over and over. Occasionally, I sing a few lines together with Chinese people."
+  },
+  "13.2.3.1": {
+    "text": "小雨：难道你从来没有接受过京剧方面的专门教育吗？",
+    "en": "Xiao Yu: Have you really never had any formal training in Beijing opera?"
+  },
+  "13.2.4.1": {
+    "text": "马克：别吃惊，因为我以前学习过音乐，有一些音乐基础，又对京剧这种表演艺术非常感兴趣，所以能比较容易地学会它的唱法。",
+    "en": "Mark: Don't be surprised. I studied music before, so I have some musical grounding. Since I am also very interested in Beijing opera as a performing art, learning its singing style has been relatively easy."
+  },
+  "13.2.5.1": {
+    "text": "小雨：你真厉害！",
+    "en": "Xiao Yu: You're impressive!"
+  },
+  "13.2.5.2": {
+    "text": "竟然连很多中国人都听不懂的京剧也能学会。",
+    "en": "You have even managed to learn Beijing opera, which many Chinese people cannot understand."
+  },
+  "13.2.5.3": {
+    "text": "我还是比较喜欢听流行音乐。",
+    "en": "I still prefer listening to pop music."
+  },
+  "13.2.6.1": {
+    "text": "马克：那是你不了解京剧的唱法。",
+    "en": "Mark: That's because you don't understand Beijing opera's singing style."
+  },
+  "13.2.6.2": {
+    "text": "在音乐方面，京剧给了我很多新的想法。",
+    "en": "It has given me many new musical ideas."
+  },
+  "13.2.6.3": {
+    "text": "我还把京剧的一些特点增加到了自己的音乐中，达到了很好的效果。",
+    "en": "I have even incorporated some of its features into my own music, with excellent results."
+  },
+  "13.3.1.1": {
+    "text": "李老师：校长，因为外国留学生不了解中国文化，有时候会影响他们和中国人之间的正常交流，甚至还可能引起误会，带来麻烦，所以我们想申请举办一次中国传统文化节活动。",
+    "en": "Teacher Li: Principal, international students' unfamiliarity with Chinese culture sometimes affects their communication with Chinese people and can even cause misunderstandings and difficulties. We would therefore like permission to organize a traditional Chinese culture festival."
+  },
+  "13.3.2.1": {
+    "text": "校长：你们的想法很好，举办文化节活动，一方面能让各国学生更好地了解中国，另一方面也能为学生们提供互相交流和学习的机会。",
+    "en": "Principal: That is a good idea. A culture festival will help students from different countries understand China better while also giving them opportunities to communicate and learn from each other."
+  },
+  "13.3.3.1": {
+    "text": "李老师：谢谢您的支持！",
+    "en": "Teacher Li: Thank you for your support!"
+  },
+  "13.3.4.1": {
+    "text": "校长：上次的春游活动你们办得非常有趣，大家都玩儿得很开心，这次活动继续由你负责，相信也一定会很成功。",
+    "en": "Principal: The spring outing you organized last time was very interesting and everyone enjoyed it. You will remain in charge of this event, and I am sure it will be successful too."
+  },
+  "13.3.5.1": {
+    "text": "李老师：我们回去就开会讨论，星期五之前把详细的计划书发给您。",
+    "en": "Teacher Li: We will hold a meeting to discuss it when we get back and send you a detailed plan before Friday."
+  },
+  "13.3.6.1": {
+    "text": "校长：好的，准备过程中有什么问题，你们可以直接来找我。",
+    "en": "Principal: Good. If any problems arise during the preparations, come and see me directly."
+  },
+  "13.4.1.1": {
+    "text": "筷子在中国大约已经有3000多年的历史了。",
+    "en": "Chopsticks have been used in China for more than three thousand years."
+  },
+  "13.4.1.2": {
+    "text": "对外国人来说，使用筷子吃饭并不容易，所以，国外的一些中国餐厅在放筷子的纸袋上会提供使用筷子的详细说明。",
+    "en": "Eating with chopsticks is not easy for many foreigners, so some Chinese restaurants overseas print detailed instructions on the paper sleeves that hold them."
+  },
+  "13.4.1.3": {
+    "text": "不过，如果你认为每个中国人都会正确使用筷子，那就错了。",
+    "en": "However, if you think every Chinese person can use chopsticks correctly, you are mistaken."
+  },
+  "13.4.1.4": {
+    "text": "有人在互联网上专门进行过调查，结果发现每六个中国人中就有一个使用筷子的方法是错误的。",
+    "en": "An online survey found that one in every six Chinese people uses chopsticks incorrectly."
+  },
+  "13.4.1.5": {
+    "text": "如果你想正确使用筷子，那就好好练习吧。",
+    "en": "If you want to use chopsticks correctly, practice diligently."
+  },
+  "13.5.1.1": {
+    "text": "茶在中国有几千年的历史，是中国最常见的饮料。",
+    "en": "Tea has a history of several thousand years in China and is the country's most common beverage."
+  },
+  "13.5.1.2": {
+    "text": "最早的时候，茶只是被当作一种药，而不是饮料。",
+    "en": "At first, tea was used only as a medicine, rather than a drink."
+  },
+  "13.5.1.3": {
+    "text": "后来，随着人们对茶的认识的加深，慢慢开始把它当作解渴的饮料，这才慢慢有了中国的茶文化。",
+    "en": "Later, as people's understanding of tea grew, they gradually began drinking it to quench their thirst, and Chinese tea culture slowly developed."
+  },
+  "13.5.1.4": {
+    "text": "在中国，喝茶是一种十分普遍的生活习惯。",
+    "en": "Drinking tea is a very widespread everyday habit in China."
+  },
+  "13.5.1.5": {
+    "text": "对很多中国人来说，喝茶已成为他们生活中不可缺少的一部分。",
+    "en": "For many Chinese people, it has become an indispensable part of life."
+  },
+  "13.5.1.6": {
+    "text": "但是有的饮料虽然名字叫“茶”，却并不是真正的茶。",
+    "en": "However, some drinks are called “tea” even though they are not actually tea."
+  },
+  "13.5.1.7": {
+    "text": "比如广东省的人爱喝的“凉茶”，它的味道稍微有点儿苦，其实是一种用中药做成的饮料。",
+    "en": "For example, the slightly bitter “cooling tea” enjoyed in Guangdong is actually a drink made from Chinese medicinal herbs."
+  },
+  "14.1.1.1": {
+    "text": "王静：这是明天你出差要带的毛巾、牙膏和牙刷，把它们放到箱子里吧。",
+    "en": "Wang Jing: Here are the towel, toothpaste, and toothbrush you need for tomorrow's business trip. Put them in your suitcase."
+  },
+  "14.1.2.1": {
+    "text": "李进：不用拿这些，宾馆都会免费提供的。",
+    "en": "Li Jin: There's no need to take those. The hotel provides them free of charge."
+  },
+  "14.1.2.2": {
+    "text": "再说，箱子已经够重的了！",
+    "en": "Besides, the suitcase is heavy enough already!"
+  },
+  "14.1.3.1": {
+    "text": "王静：我当然知道宾馆里有。",
+    "en": "Wang Jing: Of course I know the hotel has them."
+  },
+  "14.1.3.2": {
+    "text": "你不是一直说要保护环境吗？",
+    "en": "Haven't you always said we should protect the environment?"
+  },
+  "14.1.3.3": {
+    "text": "现在就从身边的小事做起吧。",
+    "en": "Start now with little things in your own life."
+  },
+  "14.1.4.1": {
+    "text": "李进：行，没问题。",
+    "en": "Li Jin: All right, no problem."
+  },
+  "14.1.4.2": {
+    "text": "我明天上午10点的飞机，你能开车把我送到机场吗？",
+    "en": "My flight is at ten tomorrow morning. Can you drive me to the airport?"
+  },
+  "14.1.5.1": {
+    "text": "王静：那个时间路上堵车多严重啊！",
+    "en": "Wang Jing: The traffic is terrible at that time!"
+  },
+  "14.1.5.2": {
+    "text": "你还是坐地铁去机场吧。",
+    "en": "You'd better take the subway to the airport."
+  },
+  "14.1.5.3": {
+    "text": "这样不仅省油钱，而且还不会污染空气。",
+    "en": "That will save money on fuel and avoid polluting the air too."
+  },
+  "14.1.6.1": {
+    "text": "李进：好，那就听你的。",
+    "en": "Li Jin: All right. I'll do as you suggest."
+  },
+  "14.2.1.1": {
+    "text": "经理：小王，卫生间怎么那么脏啊？",
+    "en": "Manager: Xiao Wang, why is the restroom so dirty?"
+  },
+  "14.2.1.2": {
+    "text": "这会给客人留下不好的印象，快去打扫一下。",
+    "en": "It will leave customers with a bad impression. Go and clean it right away."
+  },
+  "14.2.2.1": {
+    "text": "服务员：经理，实在抱歉。",
+    "en": "Server: I'm very sorry, Manager."
+  },
+  "14.2.2.2": {
+    "text": "今天店里太忙了，我还没来得及打扫。",
+    "en": "We have been so busy today that I haven't had time to clean it yet."
+  },
+  "14.2.3.1": {
+    "text": "经理：那张桌子下面还有一些空饮料瓶子和纸盒子。",
+    "en": "Manager: There are also some empty drink bottles and cardboard boxes under that table."
+  },
+  "14.2.4.1": {
+    "text": "服务员：好的，我马上就去把它们扔掉。",
+    "en": "Server: All right. I'll go and throw them away immediately."
+  },
+  "14.2.5.1": {
+    "text": "经理：以后你一定得注意这个问题，不管客人多多，生意多忙，我们都要保证餐厅干净卫生。",
+    "en": "Manager: You must pay attention to this from now on. No matter how many customers we have or how busy business gets, we must keep the restaurant clean and hygienic."
+  },
+  "14.2.6.1": {
+    "text": "服务员：经理您放心，我一定以最快的速度完成。",
+    "en": "Server: Don't worry, Manager. I'll finish as quickly as possible."
+  },
+  "14.2.6.2": {
+    "text": "不过咱们真的应该再多招聘几个服务员了。",
+    "en": "But we really ought to hire a few more servers."
+  },
+  "14.3.1.1": {
+    "text": "孙月：早上听新闻说明天有一个叫“地球一小时”的活动，你对这个活动了解吗？",
+    "en": "Sun Yue: I heard on the news this morning that there is an event called “Earth Hour” tomorrow. Do you know about it?"
+  },
+  "14.3.2.1": {
+    "text": "王静：这个活动年年都有，最早是从2007年开始的。",
+    "en": "Wang Jing: It takes place every year and first began in 2007."
+  },
+  "14.3.2.2": {
+    "text": "明天晚上很多人都会关灯一小时，支持这个活动。",
+    "en": "Tomorrow evening, many people will turn off their lights for an hour to support it."
+  },
+  "14.3.2.3": {
+    "text": "你没看到门口的通知吗？",
+    "en": "Didn't you see the notice by the entrance?"
+  },
+  "14.3.2.4": {
+    "text": "我们公司也参加。",
+    "en": "Our company is taking part too."
+  },
+  "14.3.3.1": {
+    "text": "孙月：真的吗？",
+    "en": "Sun Yue: Really?"
+  },
+  "14.3.3.2": {
+    "text": "太好了！",
+    "en": "That's wonderful!"
+  },
+  "14.3.3.3": {
+    "text": "既然明天晚上公司会关灯停电，那么我们肯定不用加班了。",
+    "en": "Since the company will turn off its lights and power tomorrow evening, we definitely won't have to work overtime."
+  },
+  "14.3.4.1": {
+    "text": "王静：看你得意的样子！",
+    "en": "Wang Jing: Look how pleased you are!"
+  },
+  "14.3.4.2": {
+    "text": "还以为你高兴是为了支持环保，原来是因为不用加班啊！",
+    "en": "I thought you were happy about supporting the environment, but it turns out you're happy about not working overtime!"
+  },
+  "14.3.5.1": {
+    "text": "孙月：环境保护我当然也支持了！",
+    "en": "Sun Yue: Of course I support environmental protection too!"
+  },
+  "14.3.5.2": {
+    "text": "对了，为什么会有这么一个活动啊？",
+    "en": "By the way, why was this event created?"
+  },
+  "14.3.6.1": {
+    "text": "王静：其实目的挺简单的，就是提醒人们节约用电，希望引起人们对气候变暖问题的关注。",
+    "en": "Wang Jing: The aim is actually quite simple: to remind people to conserve electricity and draw attention to global warming."
+  },
+  "14.4.1.1": {
+    "text": "塑料袋给人们的生活带来方便，受到人们的普遍欢迎，可是，它的大量使用也带来了严重的环境污染问题。",
+    "en": "Plastic bags make everyday life convenient and are widely welcomed, but using them in large quantities has also caused serious environmental pollution."
+  },
+  "14.4.1.2": {
+    "text": "于是，一些国家规定，超市、商场不能为顾客提供免费塑料袋，并且鼓励大家购买可以多次使用的购物袋。",
+    "en": "Some countries have therefore prohibited supermarkets and department stores from providing free plastic bags and encourage people to buy reusable shopping bags instead."
+  },
+  "14.4.1.3": {
+    "text": "我们每个人都有责任保护环境，因此，请大家节约使用塑料袋，或者购物时自备购物袋，甚至拒绝使用塑料袋。",
+    "en": "Everyone has a responsibility to protect the environment, so please use fewer plastic bags, bring your own shopping bag, or even stop using plastic bags altogether."
+  },
+  "14.4.1.4": {
+    "text": "虽然这是一件很小的事，但这样做可以减少塑料袋的使用数量，对环境保护有很大的作用。",
+    "en": "Although it is a small action, it reduces the number of plastic bags used and contributes greatly to environmental protection."
+  },
+  "14.5.1.1": {
+    "text": "保护地球环境，并不是一件离我们很远、很难做到的事情。",
+    "en": "Protecting the Earth's environment is neither something remote from our lives nor something very hard to do."
+  },
+  "14.5.1.2": {
+    "text": "实际上，我们只需注意一下身边的小事就可以。",
+    "en": "We simply need to pay attention to small things around us."
+  },
+  "14.5.1.3": {
+    "text": "例如，夏天把空调的温度开得高一些，出门时记得关空调和电脑，这样可以节约用电；少开车，多骑车或者乘坐地铁和公共汽车，这样能降低空气污染；还有养成把垃圾丢进垃圾桶的习惯什么的。",
+    "en": "For example, set the air-conditioning temperature a little higher in summer, and turn off the air conditioner and computer when going out to conserve electricity. Drive less and cycle or take public transport more often to reduce air pollution. Develop habits such as putting litter in a bin."
+  },
+  "14.5.1.4": {
+    "text": "这些是我们每个人都能够做到的小事，但却有实实在在的效果。",
+    "en": "These are small things that each of us can do, but their effects are real."
+  },
+  "14.5.1.5": {
+    "text": "地球是我们共同的家，只有大家共同努力，减少污染、保护环境，才能使我们的家变得更美丽。",
+    "en": "Earth is our shared home. Only by working together to reduce pollution and protect the environment can we make that home more beautiful."
+  },
+  "15.1.1.1": {
+    "text": "王静：那个一边弹钢琴一边唱歌的男孩子是谁？",
+    "en": "Wang Jing: Who is that boy playing the piano and singing at the same time?"
+  },
+  "15.1.1.2": {
+    "text": "表演得真棒！",
+    "en": "His performance is wonderful!"
+  },
+  "15.1.2.1": {
+    "text": "李老师：是我孙子。",
+    "en": "Teacher Li: He's my grandson."
+  },
+  "15.1.2.2": {
+    "text": "去年寒假前的新年晚会他也表演过一次。",
+    "en": "He also performed at the New Year celebration before last year's winter vacation."
+  },
+  "15.1.3.1": {
+    "text": "王静：我想起来了，这孩子又聪明又可爱，你们教育得真好！",
+    "en": "Wang Jing: I remember now. He's such a clever, lovely child. You have brought him up very well!"
+  },
+  "15.1.4.1": {
+    "text": "李老师：是他父母教育得好。",
+    "en": "Teacher Li: His parents deserve the credit."
+  },
+  "15.1.4.2": {
+    "text": "父母是孩子最重要的老师。",
+    "en": "Parents are a child's most important teachers."
+  },
+  "15.1.4.3": {
+    "text": "他父母不仅教他知识，而且还花了很长时间帮助他养成了非常好的习惯，现在他每天都自己练习弹钢琴。",
+    "en": "They not only teach him things but have also spent a long time helping him develop excellent habits. Now he practices the piano on his own every day."
+  },
+  "15.1.5.1": {
+    "text": "王静：让孩子养成一个好习惯实在太重要了，看来我得向他父母好好儿学习。",
+    "en": "Wang Jing: Helping children form good habits is so important. It seems I should learn from his parents."
+  },
+  "15.1.6.1": {
+    "text": "李老师：对。",
+    "en": "Teacher Li: Exactly."
+  },
+  "15.1.6.2": {
+    "text": "如果希望有一个优秀的孩子，你就要先成为一位优秀的父亲或者母亲。",
+    "en": "If you want an outstanding child, you must first become an outstanding father or mother."
+  },
+  "15.2.1.1": {
+    "text": "王静：看你脸色不太好，是不是昨晚没休息好？",
+    "en": "Wang Jing: You don't look very well. Didn't you sleep well last night?"
+  },
+  "15.2.2.1": {
+    "text": "孙月：别提了。",
+    "en": "Sun Yue: Don't ask."
+  },
+  "15.2.2.2": {
+    "text": "我女儿昨晚做作业又做到11点。",
+    "en": "My daughter was doing her homework until eleven again last night."
+  },
+  "15.2.3.1": {
+    "text": "王静：睡觉太晚对孩子的身体没有好处。",
+    "en": "Wang Jing: Going to bed so late isn't good for a child's health."
+  },
+  "15.2.3.2": {
+    "text": "最近孩子作业是不是太多了？",
+    "en": "Has she been getting too much homework lately?"
+  },
+  "15.2.4.1": {
+    "text": "孙月：主要是她做事情比较慢，比如早上闹钟响了她不醒，我赶时间送她上学，她又急着上厕所。",
+    "en": "Sun Yue: The main problem is that she does things slowly. In the morning, for example, she doesn't wake when the alarm rings, and when I'm rushing to get her to school, she suddenly needs the toilet."
+  },
+  "15.2.4.2": {
+    "text": "每天因为这些小事批评她，弄得我俩心情都不好。",
+    "en": "I criticize her over these little things every day, leaving both of us in a bad mood."
+  },
+  "15.2.5.1": {
+    "text": "王静：孩子做事慢，往往是因为他们不会安排自己的时间。",
+    "en": "Wang Jing: Children often do things slowly because they don't know how to organize their own time."
+  },
+  "15.2.5.2": {
+    "text": "你应该让孩子学会管理时间。",
+    "en": "You should help her learn to manage it."
+  },
+  "15.2.6.1": {
+    "text": "孙月：看来还是我的教育方法有问题。",
+    "en": "Sun Yue: It seems the problem is with my parenting approach after all."
+  },
+  "15.2.6.2": {
+    "text": "平时看她做事情慢，总想替她做，以后得让她学会安排时间，自己的事情自己做。",
+    "en": "When I see her taking too long, I always want to do things for her. From now on, I need to let her organize her own time and do things for herself."
+  },
+  "15.3.1.1": {
+    "text": "王静：明天又要带我儿子去医院打针，想想我就头疼。",
+    "en": "Wang Jing: I have to take my son to the hospital for another injection tomorrow. Just thinking about it gives me a headache."
+  },
+  "15.3.1.2": {
+    "text": "他就怕打针，每次打针都哭得特别厉害。",
+    "en": "He's terrified of injections and cries terribly every time."
+  },
+  "15.3.2.1": {
+    "text": "孙月：记得我女儿小时候，带她去医院打针，刚开始，她害怕得要哭。",
+    "en": "Sun Yue: I remember taking my daughter for injections when she was little. At first, she was so frightened she was about to cry."
+  },
+  "15.3.2.2": {
+    "text": "我就小声地和护士说我女儿很勇敢，一点儿也不怕打针，女儿听了以后马上就不哭了。",
+    "en": "I quietly told the nurse that my daughter was very brave and not at all afraid of injections. As soon as she heard that, she stopped crying."
+  },
+  "15.3.3.1": {
+    "text": "王静：原来鼓励和表扬对小孩儿挺有用的，下次我也试试。",
+    "en": "Wang Jing: So encouragement and praise really can help young children. I'll try that next time."
+  },
+  "15.3.4.1": {
+    "text": "孙月：不过表扬也是一门艺术，表扬千万不要太多，过多的表扬可能会给孩子带来压力。",
+    "en": "Sun Yue: But praise is an art too. Be sure not to overdo it, because too much praise can put children under pressure."
+  },
+  "15.3.4.2": {
+    "text": "不仅起不到鼓励的作用，还可能让孩子怀疑自己的能力，变得没有信心。",
+    "en": "Instead of encouraging them, it may make them doubt their abilities and lose confidence."
+  },
+  "15.3.5.1": {
+    "text": "王静：那怎么表扬孩子才会更有效果呢？",
+    "en": "Wang Jing: Then how can we praise children more effectively?"
+  },
+  "15.3.6.1": {
+    "text": "孙月：我认为表扬要及时，而且表扬不仅仅要看结果，更要看过程，这样才能鼓励他的积极性，让他变得勇敢，不怕困难。",
+    "en": "Sun Yue: I think praise should be timely and focus not just on results but on the process. That encourages enthusiasm and helps children become brave and willing to face difficulties."
+  },
+  "15.4.1.1": {
+    "text": "有的孩子在得不到自己想要的东西的时候，会通过哭、扔东西或者故意敲打来引起父母的注意。",
+    "en": "When some children cannot get what they want, they attract their parents' attention by crying, throwing things, or deliberately banging on objects."
+  },
+  "15.4.1.2": {
+    "text": "在这种情况下，建议父母先不要生气，应该停下手中的事情，陪孩子整理整理东西，和他们聊聊天儿，弄清楚他们的问题。",
+    "en": "In that situation, parents are advised to stay calm, stop what they are doing, help the child tidy up, and talk with them to understand the problem."
+  },
+  "15.4.1.3": {
+    "text": "父母的关心，可以让孩子心情愉快起来。",
+    "en": "A parent's care can help lift a child's mood."
+  },
+  "15.4.1.4": {
+    "text": "教育孩子应该选择合适的教育方法，最好不要为了解决问题而骗孩子，这是因为儿童缺少判断能力，看到父母骗人，他们也会学着说假话。",
+    "en": "Choose suitable ways of teaching children, and avoid lying to them to solve a problem: children lack mature judgment and will learn to tell lies if they see their parents doing it."
+  },
+  "15.5.1.1": {
+    "text": "七岁左右的儿童普遍好动，坐不住，所以老师在教这个年龄段的孩子时，一定要想办法引起他们的兴趣。",
+    "en": "Children around seven are generally active and find it hard to sit still, so teachers working with this age group must find ways to spark their interest."
+  },
+  "15.5.1.2": {
+    "text": "只有让他们觉得你教的内容有趣，他们才会愿意努力学习。",
+    "en": "Only if children find the material interesting will they be willing to work hard at learning it."
+  },
+  "15.5.1.3": {
+    "text": "当孩子不明白时，应该多鼓励他，不要用“懒”“笨”“粗心”这种词批评他，这样对他们的正常发展不好。",
+    "en": "When a child does not understand, offer encouragement rather than labels such as “lazy,” “stupid,” or “careless,” which can harm their development."
+  },
+  "15.5.1.4": {
+    "text": "而且，对不同性格的孩子要使用不同的教育方法。",
+    "en": "Different personalities also call for different teaching approaches."
+  },
+  "15.5.1.5": {
+    "text": "如果孩子比较骄傲，应该让他明白还有很多知识需要学习；要是孩子性格有些害羞，就要经常鼓励他说出自己的看法，这样才能让每一个孩子都健康地发展。",
+    "en": "If a child is conceited, help them understand how much they still need to learn; if a child is shy, regularly encourage them to express their views. That way, every child can develop well."
+  },
+  "16.1.1.1": {
+    "text": "小雨：你马上就要硕士毕业了吧？",
+    "en": "Xiao Yu: You're about to finish your master's degree, aren't you?"
+  },
+  "16.1.1.2": {
+    "text": "将来有什么打算？",
+    "en": "What are your plans for the future?"
+  },
+  "16.1.2.1": {
+    "text": "小夏：我想出国读博士，一直在准备办签证需要的材料。",
+    "en": "Xiao Xia: I want to study for a doctorate abroad, and I have been preparing the documents needed for my visa."
+  },
+  "16.1.3.1": {
+    "text": "小雨：现在材料准备得怎么样了？",
+    "en": "Xiao Yu: How are the preparations going?"
+  },
+  "16.1.4.1": {
+    "text": "小夏：成绩证明和护照已经准备好了，另外，还跟国外的大学取得了联系，填写了报名表格。",
+    "en": "Xiao Xia: My academic records and passport are ready. I have also contacted universities abroad and filled out an application form."
+  },
+  "16.1.5.1": {
+    "text": "小雨：还应该有国外大学给你的邀请信吧？",
+    "en": "Xiao Yu: You should also have an invitation letter from the overseas university, shouldn't you?"
+  },
+  "16.1.5.2": {
+    "text": "他们把邀请信传真给你了吗？",
+    "en": "Have they faxed it to you?"
+  },
+  "16.1.6.1": {
+    "text": "小夏：没有啊，下个星期我就要去使馆办签证了，这可怎么办？",
+    "en": "Xiao Xia: No, and I'm supposed to go to the embassy for my visa next week. What should I do?"
+  },
+  "16.1.7.1": {
+    "text": "小雨：这可是个大问题，我也不太清楚。",
+    "en": "Xiao Yu: That's a serious problem. I'm not quite sure either."
+  },
+  "16.1.7.2": {
+    "text": "我帮你查一下学校的电话号码，你打电话问一下吧。",
+    "en": "I'll look up the university's phone number for you. Give them a call and ask."
+  },
+  "16.2.1.1": {
+    "text": "李进：谢谢您带我参观您的公司。",
+    "en": "Li Jin: Thank you for showing me around your company."
+  },
+  "16.2.1.2": {
+    "text": "在参观过程中我很激动，有个问题一直想问您。",
+    "en": "I have been very excited during the visit, and there is a question I have been wanting to ask you."
+  },
+  "16.2.2.1": {
+    "text": "王老板：好啊！",
+    "en": "Boss Wang: Of course!"
+  },
+  "16.2.2.2": {
+    "text": "小伙子，咱们一边吃西瓜，一边聊。",
+    "en": "Young man, let's talk while we eat some watermelon."
+  },
+  "16.2.3.1": {
+    "text": "李进：您从大学毕业开始工作，到现在才十年时间，怎么给公司赚了这么多钱？",
+    "en": "Li Jin: It has only been ten years since you graduated and started working. How have you earned so much money for the company?"
+  },
+  "16.2.3.2": {
+    "text": "这让我非常吃惊。",
+    "en": "It really amazes me."
+  },
+  "16.2.3.3": {
+    "text": "我想向您学习一下成功的经验。",
+    "en": "I would like to learn from your experience of success."
+  },
+  "16.2.4.1": {
+    "text": "王老板：这个问题以前一个记者也问过我。",
+    "en": "Boss Wang: A journalist once asked me the same question."
+  },
+  "16.2.4.2": {
+    "text": "做生意时虽然会遇到各种压力和困难，但是大家的机会都是相同的。",
+    "en": "Although business brings all kinds of pressures and difficulties, everyone has the same opportunities."
+  },
+  "16.2.4.3": {
+    "text": "你看，这里有三块大小不同的西瓜，我们用西瓜的大小代表钱的多少，要是我们一起开始吃，你会先选哪块？",
+    "en": "Look at these three different-sized pieces of watermelon. Suppose their sizes represent amounts of money. If we started eating at the same time, which would you choose first?"
+  },
+  "16.2.5.1": {
+    "text": "李进：我肯定先吃最大的一块了，难道您会先吃小的，放弃吃大块的机会吗？",
+    "en": "Li Jin: I would certainly eat the biggest one first. Would you really start with a small one and give up the chance to eat a big piece?"
+  },
+  "16.2.6.1": {
+    "text": "王老板：我会先吃最小的一块，因为在你没吃完最大的那块时，我还有时间再多吃一块，最后一定比你吃的西瓜多。",
+    "en": "Boss Wang: I would eat the smallest first, because before you finished the biggest, I would still have time to eat another piece. In the end, I would definitely eat more watermelon than you."
+  },
+  "16.2.6.2": {
+    "text": "听完我的回答，恐怕你已经知道我的答案了吧。",
+    "en": "After hearing that explanation, I suspect you already know my answer."
+  },
+  "16.3.1.1": {
+    "text": "小林：今年放假我又回不了家了，这次我父母又要失望了。",
+    "en": "Xiao Lin: I won't be able to go home for the holiday again this year. My parents will be disappointed once more."
+  },
+  "16.3.1.2": {
+    "text": "你有什么计划？",
+    "en": "What are your plans?"
+  },
+  "16.3.2.1": {
+    "text": "小李：我计划去郊区住一个月。",
+    "en": "Xiao Li: I plan to stay in the suburbs for a month."
+  },
+  "16.3.2.2": {
+    "text": "你不是已经买好火车票了吗？",
+    "en": "Haven't you already bought your train ticket?"
+  },
+  "16.3.2.3": {
+    "text": "你到底怎么打算的呀？",
+    "en": "What exactly are you planning to do?"
+  },
+  "16.3.3.1": {
+    "text": "小林：昨天一个外地的好朋友打电话说要来旅游，让我当导游，我实在不好意思拒绝。",
+    "en": "Xiao Lin: A good friend from another town called yesterday to say he is coming on vacation and wants me to show him around. I feel too awkward to refuse."
+  },
+  "16.3.4.1": {
+    "text": "小李：其实拒绝并不表示不愿意帮忙。",
+    "en": "Xiao Li: Refusing doesn't actually mean you are unwilling to help."
+  },
+  "16.3.4.2": {
+    "text": "遇到解决不了的问题或者无法完成的任务时，拒绝正好说明你对朋友负责。",
+    "en": "When you face a problem you cannot solve or a task you cannot complete, saying no shows that you take your responsibility to your friend seriously."
+  },
+  "16.3.4.3": {
+    "text": "这也是对你父母负责的态度。",
+    "en": "It also shows responsibility toward your parents."
+  },
+  "16.3.5.1": {
+    "text": "小林：既然别人找我帮忙，说明他真的很需要我的帮助。",
+    "en": "Xiao Lin: If someone asks me for help, it means he really needs it."
+  },
+  "16.3.5.2": {
+    "text": "我担心要是说“不”的话，会让他误会和伤心。",
+    "en": "I'm worried that saying no will lead to a misunderstanding and hurt his feelings."
+  },
+  "16.3.6.1": {
+    "text": "小李：别担心！",
+    "en": "Xiao Li: Don't worry!"
+  },
+  "16.3.6.2": {
+    "text": "如果你用一个既合适又礼貌的方法告诉朋友，他一定会原谅你的。",
+    "en": "If you explain it to your friend in an appropriate and polite way, he will certainly understand and forgive you."
+  },
+  "16.4.1.1": {
+    "text": "有些同学经常把“明天”和“将来”挂在嘴边，常说作业明天再完成，下次考试一定好好儿复习，等等。",
+    "en": "Some students are always talking about “tomorrow” and “the future,” saying that they will finish homework tomorrow or definitely revise properly for the next exam, and so on."
+  },
+  "16.4.1.2": {
+    "text": "这种态度会浪费时间，不但会让你到最后什么事情都做不成，而且还得不到别人的同情。",
+    "en": "This attitude wastes time: you may end up achieving nothing and receive no sympathy from others either."
+  },
+  "16.4.1.3": {
+    "text": "所以不要把什么事情都推到“明天”，一切从现在做起。",
+    "en": "So do not put everything off until “tomorrow.” Start now."
+  },
+  "16.4.1.4": {
+    "text": "就拿学汉语来说吧，首先要注意课前预习，找出第二天要学习的重点；其次，上课时要认真听，不能马虎；最后，课后要记得复习。",
+    "en": "Take learning Chinese as an example. First, prepare before class and identify the key points for the next day's lesson; second, listen attentively in class and don't be careless; finally, remember to review afterward."
+  },
+  "16.4.1.5": {
+    "text": "只要这样，汉语就能越学越好，越说越自信。",
+    "en": "Do this, and your Chinese will keep improving while you become more confident speaking it."
+  },
+  "16.5.1.1": {
+    "text": "当你认为自己在哪方面很优秀时，千万要冷静，不要骄傲。",
+    "en": "When you think you are particularly good at something, stay level-headed and do not become arrogant."
+  },
+  "16.5.1.2": {
+    "text": "因为这个世界很大，“天外有天，人外有人”，很可能有人在这方面比你更厉害。",
+    "en": "The world is vast, and “there is always someone better.” Someone else may well be more capable than you in that area."
+  },
+  "16.5.1.3": {
+    "text": "你现在是第一，并不表示你永远都是第一。",
+    "en": "Being number one now does not mean you will always be number one."
+  },
+  "16.5.1.4": {
+    "text": "就像比赛一样，没有人会永远输，也没有人会一直赢。",
+    "en": "As in a competition, nobody loses forever and nobody wins all the time."
+  },
+  "16.5.1.5": {
+    "text": "我们知道的越多，就会发现自己不懂的也越多。",
+    "en": "The more we know, the more we discover that we do not understand."
+  },
+  "16.5.1.6": {
+    "text": "我们应该重视平时的积累，多向周围的人学习。",
+    "en": "We should value steady learning and learn more from the people around us."
+  },
+  "16.5.1.7": {
+    "text": "如果你敢诚实地说出自己对哪方面不了解，并不说明自己比别人差，相反，这样做更能得到别人的尊重。",
+    "en": "Having the courage to admit honestly that you do not understand something does not make you inferior. On the contrary, it earns other people's respect."
+  },
+  "17.1.1.1": {
+    "text": "小夏：最近天气越来越凉快了，风一刮，草地上就会有一层厚厚的黄叶，看来秋天已经到了。",
+    "en": "Xiao Xia: The weather has been getting cooler. Whenever the wind blows, a thick layer of yellow leaves falls onto the grass. It looks as though autumn has arrived."
+  },
+  "17.1.2.1": {
+    "text": "安娜：这几天香山特别热闹，随着气温的降低，那里许多植物的叶子都由绿变黄或者变红，吸引了很多游客参观，咱们今天也去看看吧。",
+    "en": "Anna: The Fragrant Hills have been especially lively lately. As temperatures fall, many plants' leaves turn from green to yellow or red, attracting lots of visitors. Let's go and have a look today too."
+  },
+  "17.1.3.1": {
+    "text": "小夏：你看天上的云，今天肯定有大雨。",
+    "en": "Xiao Xia: Look at those clouds. It is definitely going to rain heavily today."
+  },
+  "17.1.3.2": {
+    "text": "再说，香山上看红叶的人太多了。",
+    "en": "Besides, there are too many people looking at the autumn leaves in the Fragrant Hills."
+  },
+  "17.1.3.3": {
+    "text": "咱们改天去长城吧，广播里说那里也有不少专门看红叶的好地方。",
+    "en": "Let's go to the Great Wall another day. The radio said there are plenty of good spots for viewing red leaves there too."
+  },
+  "17.1.4.1": {
+    "text": "安娜：真可惜，我还想多照点儿香山的照片呢。",
+    "en": "Anna: What a pity. I wanted to take more photos of the Fragrant Hills."
+  },
+  "17.1.4.2": {
+    "text": "去长城倒是一个好主意，那我们明天去吧。",
+    "en": "Going to the Great Wall is a good idea, though. Let's go tomorrow."
+  },
+  "17.1.5.1": {
+    "text": "小夏：明天恐怕也不行，明天是我爸的生日。",
+    "en": "Xiao Xia: I'm afraid tomorrow won't work either. It is my dad's birthday."
+  },
+  "17.1.6.1": {
+    "text": "安娜：没关系，那我们再约时间。",
+    "en": "Anna: No problem. We can arrange another time."
+  },
+  "17.2.1.1": {
+    "text": "小林：你的这只大黑狗毛真漂亮，而且这么聪明，每次见了都想抱一抱它。",
+    "en": "Xiao Lin: Your big black dog has such beautiful fur and is so clever. Every time I see it, I want to give it a hug."
+  },
+  "17.2.2.1": {
+    "text": "小李：狗是很聪明的动物，只要稍微花点儿时间教教它，它就能学会很多东西。",
+    "en": "Xiao Li: Dogs are very intelligent animals. Spend a little time teaching them, and they can learn lots of things."
+  },
+  "17.2.3.1": {
+    "text": "小林：听你这么一说，我现在也想养一只狗了。",
+    "en": "Xiao Lin: Hearing you say that makes me want to get a dog too."
+  },
+  "17.2.3.2": {
+    "text": "每次你让它干什么，它就像能听懂你的话一样去做。",
+    "en": "Whenever you ask it to do something, it does it as if it understands your words."
+  },
+  "17.2.3.3": {
+    "text": "你教它是不是用了什么特别的方法？",
+    "en": "Did you use some special method to train it?"
+  },
+  "17.2.4.1": {
+    "text": "小李：要让它完成一些任务，只教一次是不够的，应该耐心地一遍一遍地教给它，使它熟悉，然后它就会严格按照你的要求做了。",
+    "en": "Xiao Li: To teach it a task, showing it once isn't enough. You have to teach it patiently over and over until it is familiar with the task; then it will do exactly as you ask."
+  },
+  "17.2.5.1": {
+    "text": "小林：看来没有想的那么容易。",
+    "en": "Xiao Lin: It sounds less easy than I imagined."
+  },
+  "17.2.6.1": {
+    "text": "小李：狗是我们的好朋友，它能听懂人的话，明白人的心情。",
+    "en": "Xiao Li: Dogs are our good friends. They can understand what we say and sense our moods."
+  },
+  "17.2.6.2": {
+    "text": "在你心里难受的时候，它会一直陪着你。",
+    "en": "When you feel upset, they will stay by your side."
+  },
+  "17.3.1.1": {
+    "text": "马克：上个月我去了趟北京动物园，那里约有500种动物，听导游说北京动物园是亚洲最大的动物园之一。",
+    "en": "Mark: Last month I visited Beijing Zoo, which has about five hundred animal species. The guide said it is one of Asia's largest zoos."
+  },
+  "17.3.2.1": {
+    "text": "小夏：去年放暑假的时候，我也去过一次，我在那儿看了马、熊猫、老虎等动物。",
+    "en": "Xiao Xia: I went there once during last year's summer vacation too. I saw horses, pandas, tigers, and other animals."
+  },
+  "17.3.2.2": {
+    "text": "我特别喜欢熊猫，可惜它们当时大多在睡觉。",
+    "en": "I especially like pandas, but unfortunately most of them were sleeping at the time."
+  },
+  "17.3.3.1": {
+    "text": "马克：我去的那天正赶上六一儿童节，许多父母带着孩子去动物园。",
+    "en": "Mark: My visit happened to fall on Children's Day, June 1, and many parents brought their children to the zoo."
+  },
+  "17.3.3.2": {
+    "text": "入口处排队的人很多，动物园里热闹极了。",
+    "en": "There was a long queue at the entrance, and the zoo was bustling."
+  },
+  "17.3.3.3": {
+    "text": "熊猫们也变得特别活泼，我还给它们照了不少照片呢。",
+    "en": "The pandas were particularly lively too, and I took quite a few photos of them."
+  },
+  "17.3.4.1": {
+    "text": "小夏：大熊猫身子胖胖的，样子可爱极了。",
+    "en": "Xiao Xia: Giant pandas have such chubby bodies and look incredibly cute."
+  },
+  "17.3.5.1": {
+    "text": "马克：不过，它们数量不多，现在全世界一共才有一千多只吧。",
+    "en": "Mark: There aren't many of them, though. There are only a little over a thousand in the whole world, aren't there?"
+  },
+  "17.3.6.1": {
+    "text": "小夏：以前只有中国有大熊猫，为了表示友好，从1957年开始，中国把大熊猫作为礼物送给其他一些国家。",
+    "en": "Xiao Xia: Giant pandas used to be found only in China. Starting in 1957, China gave pandas to some other countries as a gesture of friendship."
+  },
+  "17.3.6.2": {
+    "text": "现在，很多国家的人们在本国都能看到大熊猫了。",
+    "en": "Now people in many countries can see giant pandas in their own country."
+  },
+  "17.4.1.1": {
+    "text": "不仅社会上的人与人之间有竞争，森林里的各种植物之间也有竞争，这一点儿也不奇怪。",
+    "en": "Competition exists not only among people in society but also among the various plants in forests, which is not at all surprising."
+  },
+  "17.4.1.2": {
+    "text": "植物会为了阳光、空气和水而竞争。",
+    "en": "Plants compete for sunlight, air, and water."
+  },
+  "17.4.1.3": {
+    "text": "一些高大的植物往往能获得更多的阳光、空气和水，而剩下的一些比较低矮的植物就只能长在这些高大植物的下面。",
+    "en": "Tall plants often obtain more sunlight, air, and water, while the shorter plants left over can only grow beneath them."
+  },
+  "17.4.1.4": {
+    "text": "由于气候条件不同，世界各地植物叶子的样子也很不相同。",
+    "en": "Because climatic conditions vary, plant leaves look very different in different parts of the world."
+  },
+  "17.4.1.5": {
+    "text": "在暖和、水分比较多的地方，叶子往往长得又大又厚；在阳光特别厉害、水分少的地方，叶子就会长得又细又长。",
+    "en": "In warm places with plenty of moisture, leaves often grow large and thick; in places with intense sunshine and little water, they grow thin and long."
+  },
+  "17.5.1.1": {
+    "text": "地球上大约71%的地方是蓝色的海洋，在美丽的海底世界里，生活着各种各样的植物和动物。",
+    "en": "Blue oceans cover about 71% of the Earth, and their beautiful underwater world is home to all kinds of plants and animals."
+  },
+  "17.5.1.2": {
+    "text": "我们小时候都听过美人鱼的故事，其实真正的海底世界比故事里写的更美。",
+    "en": "We all heard mermaid stories as children, but the real underwater world is even more beautiful than the stories describe."
+  },
+  "17.5.1.3": {
+    "text": "科学研究发现，海洋底部看上去非常安静，然而却不是一点儿声音也没有，海底的动物们一直在“说话”，只不过人的耳朵是听不到的。",
+    "en": "Research has found that although the ocean floor appears very quiet, it is not completely silent. Underwater animals are constantly “talking,” but human ears cannot hear them."
+  },
+  "17.5.1.4": {
+    "text": "另外，就算在几公里深的海底也仍然能看到东西，许多鱼会发出各种颜色的亮光，像一个个排列起来的灯，美极了，就像在梦里一样。",
+    "en": "Even several kilometers below the surface, it is still possible to see things: many fish give off lights of different colors, like rows of lamps. It is breathtaking, almost like a dream."
+  },
+  "18.1.1.1": {
+    "text": "孙月：上次女儿问我飞机是怎么起飞和降落的，真不知道该怎么回答她，她现在总是有各种各样的“为什么”。",
+    "en": "Sun Yue: The other day, my daughter asked me how airplanes take off and land, and I really didn't know how to answer. These days she is always asking “why” about everything."
+  },
+  "18.1.2.1": {
+    "text": "王静：孩子眼中的世界是美丽和奇特的。",
+    "en": "Wang Jing: To children, the world is beautiful and full of wonders."
+  },
+  "18.1.2.2": {
+    "text": "有一本书叫《新十万个为什么》，现在卖得非常火。",
+    "en": "There is a book called The New Hundred Thousand Whys that is selling extremely well now."
+  },
+  "18.1.2.3": {
+    "text": "书里的内容都是儿童想知道的科学知识，相信你女儿一定喜欢读。",
+    "en": "It covers scientific facts that children want to know. I'm sure your daughter would enjoy reading it."
+  },
+  "18.1.3.1": {
+    "text": "孙月：难道它和我们小时候看的《十万个为什么》不一样吗？",
+    "en": "Sun Yue: Is it different from the Hundred Thousand Whys we read as children?"
+  },
+  "18.1.3.2": {
+    "text": "作者是谁啊？",
+    "en": "Who is the author?"
+  },
+  "18.1.4.1": {
+    "text": "王静：作者的名字我没记住。",
+    "en": "Wang Jing: I can't remember the author's name."
+  },
+  "18.1.4.2": {
+    "text": "《新十万个为什么》的内容更新，介绍了各种科学知识，包括地球、动物、植物、交通、科学技术、社会和文化等很多方面。",
+    "en": "The new book is more up to date and introduces scientific knowledge in many areas, including the Earth, animals, plants, transport, science and technology, society, and culture."
+  },
+  "18.1.5.1": {
+    "text": "孙月：太好了！",
+    "en": "Sun Yue: That's great!"
+  },
+  "18.1.5.2": {
+    "text": "不过她这么小，我不知道她是否能读懂。",
+    "en": "But she's so young that I'm not sure whether she will understand it."
+  },
+  "18.1.6.1": {
+    "text": "王静：放心吧，这本书的语言简单易懂，一定能增长孩子的科学知识。",
+    "en": "Wang Jing: Don't worry. The language is simple and easy to understand, so it is sure to expand her scientific knowledge."
+  },
+  "18.2.1.1": {
+    "text": "李老师：现在的大学生一遇到不明白的问题，可以马上在网上查找答案，几秒钟就把问题解决了，这比我们上学的时候方便多了。",
+    "en": "Teacher Li: Nowadays, when university students encounter something they don't understand, they can search online and solve the problem in seconds. It is much more convenient than when we were students."
+  },
+  "18.2.2.1": {
+    "text": "高老师：现在的人们，尤其是大学生开始普遍使用电脑，他们的生活已经离不开电脑。",
+    "en": "Teacher Gao: Computers are now widely used, especially among university students, whose lives have become inseparable from them."
+  },
+  "18.2.2.2": {
+    "text": "据调查，70%的人遇到问题时，首先想到的就是上网找答案。",
+    "en": "According to a survey, 70% of people first think of looking online for an answer when they encounter a problem."
+  },
+  "18.2.3.1": {
+    "text": "李老师：电脑和互联网技术的发展使学生们的学习方式发生了很多变化，不过天天对着电脑看，眼睛实在受不了。",
+    "en": "Teacher Li: Developments in computers and the internet have greatly changed how students learn, but looking at a computer every day is really hard on the eyes."
+  },
+  "18.2.4.1": {
+    "text": "高老师：不仅是学习方式，而且连生活方式也发生了很大改变。",
+    "en": "Teacher Gao: Not just the way people study—even the way they live has changed a great deal."
+  },
+  "18.2.4.2": {
+    "text": "现在越来越多的学生喜欢在网上写日记，他们说这样可以让朋友及时了解自己的生活。",
+    "en": "More and more students enjoy keeping online diaries, saying that these let friends keep up with their lives."
+  },
+  "18.2.5.1": {
+    "text": "李老师：这个办法不错，既能方便大家的交流，还能节约用纸，保护环境。",
+    "en": "Teacher Li: That's a good idea. It makes communication easier, saves paper, and protects the environment."
+  },
+  "18.2.5.2": {
+    "text": "但是如果别人都能看到我的日记的话，多不安全啊！",
+    "en": "But if everyone could read my diary, that wouldn't be very secure!"
+  },
+  "18.2.6.1": {
+    "text": "高老师：放心吧，可以给网上的日记加密码，那样只有得到了允许，别人才能看到。",
+    "en": "Teacher Gao: Don't worry. You can password-protect an online diary so that others can only view it with permission."
+  },
+  "18.3.1.1": {
+    "text": "王静：我昨天晚上做了一个特别奇怪的梦，梦到自己正在一座桥上走，走着走着，突然开过来一辆车，非常危险，接着又梦见我跳到车上，跟警察一起抓住了一个坏人。",
+    "en": "Wang Jing: I had a very strange dream last night. I was walking across a bridge when a car suddenly came toward me—it was dangerous. Then I dreamed that I jumped onto the car and helped the police catch a criminal."
+  },
+  "18.3.2.1": {
+    "text": "孙月：奇怪，你怎么总能记住自己做了什么梦？",
+    "en": "Sun Yue: That's strange. How can you always remember what you dreamed?"
+  },
+  "18.3.2.2": {
+    "text": "我好像从来没做过梦。",
+    "en": "I don't think I have ever dreamed at all."
+  },
+  "18.3.3.1": {
+    "text": "王静：每个人都会做梦，区别只是有多有少。",
+    "en": "Wang Jing: Everyone dreams; people just differ in how much they dream."
+  },
+  "18.3.3.2": {
+    "text": "有的人睡醒之后还记得梦里的事情，有的人却记不清楚了。",
+    "en": "Some people remember what happened in their dreams after waking, while others cannot remember clearly."
+  },
+  "18.3.3.3": {
+    "text": "你之所以觉得从来没做过梦，只不过是忘记了。",
+    "en": "You only think you have never dreamed because you have forgotten your dreams."
+  },
+  "18.3.4.1": {
+    "text": "孙月：你说的有道理，我一般都是一觉睡到天亮。",
+    "en": "Sun Yue: That makes sense. I usually sleep straight through until morning."
+  },
+  "18.3.4.2": {
+    "text": "很多人认为做梦是上天要告诉他们将来会发生的一些事情，可能上天不想让我知道吧。",
+    "en": "Many people think dreams are heaven's way of telling them what will happen in the future. Perhaps heaven doesn't want me to know!"
+  },
+  "18.3.5.1": {
+    "text": "王静：一般晚上睡觉时，身体感觉到什么，人就容易梦到什么内容。",
+    "en": "Wang Jing: What your body senses while you sleep often influences what you dream about."
+  },
+  "18.3.5.2": {
+    "text": "记得有一次，我晚饭吃得太咸，那天晚上就梦见自己到处找商店买矿泉水。",
+    "en": "I remember once eating a very salty dinner and then dreaming that I was searching everywhere for a shop selling mineral water."
+  },
+  "18.3.6.1": {
+    "text": "孙月：很多人都试着对梦进行解释，有些人甚至专门写过这方面的书，可惜到现在仍然没有一个科学的说法。",
+    "en": "Sun Yue: Many people have tried interpreting dreams, and some have even written books specifically about them. Unfortunately, there is still no scientific explanation."
+  },
+  "18.4.1.1": {
+    "text": "现在手机不但价格降低了，而且作用也越来越大，打电话、发短信已经成了人们普遍使用的联系方法。",
+    "en": "Mobile phones have not only become cheaper but also increasingly useful, and calling and texting have become common ways to stay in touch."
+  },
+  "18.4.1.2": {
+    "text": "除此以外，你还可以用它来听音乐、看电影、阅读、玩儿游戏、付款购物等，这大大方便了人们的生活。",
+    "en": "Besides that, phones let you listen to music, watch films, read, play games, and pay for shopping, making everyday life much more convenient."
+  },
+  "18.4.1.3": {
+    "text": "举一个例子，迷路时，只要用手机地图查一下地址，马上就能知道怎么去那个地点。",
+    "en": "For example, if you get lost, simply look up the address on your phone's map and you can immediately find out how to get there."
+  },
+  "18.4.1.4": {
+    "text": "现在的手机更像是一部可以拿在手中的电脑，现代人的生活已经越来越离不开手机了。",
+    "en": "Today's mobile phone is more like a handheld computer, and modern life is becoming increasingly inseparable from it."
+  },
+  "18.5.1.1": {
+    "text": "21世纪，我们的生活发生了巨大变化。",
+    "en": "Our lives have changed enormously in the twenty-first century."
+  },
+  "18.5.1.2": {
+    "text": "几千公里以外的国家，以前坐船需要几个月，现在乘坐飞机不过十几个小时。",
+    "en": "Reaching a country thousands of kilometers away once took months by sea; now it takes only a dozen or so hours by plane."
+  },
+  "18.5.1.3": {
+    "text": "原来寄信需要好几天，现在连邮局都不用去，只要在家里上网发个电子邮件，用不了一分钟，远处的朋友就能收到，比写信封用的时间都短。",
+    "en": "A letter used to take days to arrive. Now, without even visiting the post office, you can send an email from home and a distant friend will receive it in less than a minute—less time than addressing an envelope."
+  },
+  "18.5.1.4": {
+    "text": "以前外地的新闻要几天后才能知道，现在只要打开网站，任何信息都可以在第一时间获得。",
+    "en": "News from elsewhere once took days to reach us, but now opening a website gives us immediate access to information."
+  },
+  "18.5.1.5": {
+    "text": "现代科学技术的发展让世界变得越来越小，所以现在人们都把地球叫作“地球村”。",
+    "en": "Modern science and technology have made the world feel smaller and smaller, which is why people now call it a “global village.”"
+  },
+  "19.1.1.1": {
+    "text": "马克：老师，您好！",
+    "en": "Mark: Hello, teacher!"
+  },
+  "19.1.1.2": {
+    "text": "我希望下个学期在这里继续学习，请问还需要重新申请吗？",
+    "en": "I would like to continue studying here next semester. Do I need to apply again?"
+  },
+  "19.1.2.1": {
+    "text": "高老师：是的。",
+    "en": "Teacher Gao: Yes."
+  },
+  "19.1.2.2": {
+    "text": "给你表格，出生年月、性别、护照号码都要填，还有联系地址、联系电话。",
+    "en": "Here is the form. Fill in your date of birth, gender, passport number, contact address, and telephone number."
+  },
+  "19.1.3.1": {
+    "text": "马克：真抱歉，我不小心把护照号码填错了，您能再给我一份新的申请表吗？",
+    "en": "Mark: I'm very sorry, but I accidentally entered my passport number incorrectly. Could you give me another application form?"
+  },
+  "19.1.4.1": {
+    "text": "高老师：没关系，不用道歉，谁都有粗心填错的时候。",
+    "en": "Teacher Gao: That's all right. There is no need to apologize; everyone makes careless mistakes sometimes."
+  },
+  "19.1.4.2": {
+    "text": "申请表都被别人拿走了，我给你重新打印一份，你等一下。",
+    "en": "The other forms have all been taken, so I'll print a new one for you. Please wait a moment."
+  },
+  "19.1.5.1": {
+    "text": "（高老师打印，马克填表。）",
+    "en": "(Teacher Gao prints the form, and Mark fills it in.)"
+  },
+  "19.1.6.1": {
+    "text": "马克：这次我按照要求都填写完了，请问还需要做别的事情吗？",
+    "en": "Mark: This time I have completed everything as required. Is there anything else I need to do?"
+  },
+  "19.1.7.1": {
+    "text": "高老师：请把你的护照给我，我们要把护照复印一下。",
+    "en": "Teacher Gao: Please give me your passport. We need to make a photocopy."
+  },
+  "19.2.1.1": {
+    "text": "李进：呀，你的手怎么流血了？",
+    "en": "Li Jin: Oh! Why is your hand bleeding?"
+  },
+  "19.2.1.2": {
+    "text": "等一下，我给你包起来。",
+    "en": "Wait a moment. I'll bandage it for you."
+  },
+  "19.2.2.1": {
+    "text": "王静：没关系，我想给你做点儿羊肉饺子，刚才用刀切肉的时候把手弄破了。",
+    "en": "Wang Jing: It's all right. I wanted to make you some lamb dumplings and cut my hand while chopping the meat just now."
+  },
+  "19.2.3.1": {
+    "text": "李进：你也太不小心了，不过好像不太严重，过几天就好了。",
+    "en": "Li Jin: You were really careless, but it doesn't look too serious. It should heal in a few days."
+  },
+  "19.2.3.2": {
+    "text": "衣服上也有一点儿血，你把衣服脱下来，我给你洗洗。",
+    "en": "There's a little blood on your clothes too. Take them off and I'll wash them for you."
+  },
+  "19.2.4.1": {
+    "text": "王静：看来今天吃不上羊肉饺子了。",
+    "en": "Wang Jing: It looks as though we won't be having lamb dumplings today."
+  },
+  "19.2.5.1": {
+    "text": "李进：那我们就吃点儿别的。",
+    "en": "Li Jin: Then let's eat something else."
+  },
+  "19.2.5.2": {
+    "text": "我常去的那家理发店附近有个餐厅，那里的包子很好吃，我一会儿去买一点儿。",
+    "en": "There is a restaurant near the barbershop I often visit, and its steamed buns are delicious. I'll go and buy some in a little while."
+  },
+  "19.2.6.1": {
+    "text": "王静：好吧，我衣服口袋里有十几块零钱，买包子应该够。",
+    "en": "Wang Jing: All right. There are ten-odd yuan in change in my pocket, which should be enough for the buns."
+  },
+  "19.3.1.1": {
+    "text": "马克：我早上跟你打招呼，你没看见。",
+    "en": "Mark: I said hello to you this morning, but you didn't see me."
+  },
+  "19.3.1.2": {
+    "text": "想不到又在这儿碰见你了。",
+    "en": "I didn't expect to run into you here again."
+  },
+  "19.3.2.1": {
+    "text": "安娜：真是对不起，我不是故意的，今天早上我忘戴眼镜了，看不清楚。",
+    "en": "Anna: I'm really sorry. It wasn't deliberate. I forgot to wear my glasses this morning and couldn't see clearly."
+  },
+  "19.3.3.1": {
+    "text": "马克：刚才我在旁边看到你跳中国舞了，没看出来你跳得这么好！",
+    "en": "Mark: I saw you doing a Chinese dance over there just now. I had no idea you danced so well!"
+  },
+  "19.3.3.2": {
+    "text": "难道你以前在你们国家就学过中国舞蹈吗？",
+    "en": "Had you already studied Chinese dance in your own country?"
+  },
+  "19.3.4.1": {
+    "text": "安娜：我小时候妈妈教我跳过两年的舞，所以稍微有点儿基础。",
+    "en": "Anna: My mother taught me to dance for two years when I was little, so I have a bit of a foundation."
+  },
+  "19.3.4.2": {
+    "text": "再说，舞蹈不仅是一门艺术，也是一种“语言”，这种语言与国籍无关，无论哪个国家的人都能看懂。",
+    "en": "Besides, dance is not just an art but also a “language.” It has nothing to do with nationality; people from any country can understand it."
+  },
+  "19.3.5.1": {
+    "text": "马克：太好了！",
+    "en": "Mark: That's wonderful!"
+  },
+  "19.3.5.2": {
+    "text": "我刚学习跳这种舞没多久，你帮我看看，我的这个动作对不对。",
+    "en": "I have only recently started learning this dance. Could you check whether I'm doing this movement correctly?"
+  },
+  "19.3.6.1": {
+    "text": "安娜：你这个动作做得还是不太标准，我给你跳一遍。",
+    "en": "Anna: Your movement still isn't quite right. I'll demonstrate it for you."
+  },
+  "19.3.6.2": {
+    "text": "你仔细看着，应该像我这样：先抬胳膊，然后抬腿，最后头再向右转一下。",
+    "en": "Watch carefully. Do it like this: first raise your arms, then lift your leg, and finally turn your head slightly to the right."
+  },
+  "19.4.1.1": {
+    "text": "马克去年租的房子离马路很近，对面有大大小小的商店，周围环境非常吵。",
+    "en": "The flat Mark rented last year was near a main road, with shops of all sizes opposite, so the neighborhood was very noisy."
+  },
+  "19.4.1.2": {
+    "text": "所以，房子还没到期，马克就开始着急换房子了。",
+    "en": "He therefore became eager to move even before the lease expired."
+  },
+  "19.4.1.3": {
+    "text": "有一天，他在小区门口看到一个租房子的广告。",
+    "en": "One day, he saw a rental advertisement at the entrance to the residential complex."
+  },
+  "19.4.1.4": {
+    "text": "广告上说房子交通方便，周围很安静，厨房很大。",
+    "en": "It described a flat with convenient transport, quiet surroundings, and a large kitchen."
+  },
+  "19.4.1.5": {
+    "text": "总的来说，这套房子他很满意，于是他就记下了房东的手机号码。",
+    "en": "Overall, he was very pleased with it, so he wrote down the landlord's mobile number."
+  },
+  "19.4.1.6": {
+    "text": "可回家后打电话，电话总是占线。",
+    "en": "But when he called after getting home, the line was always busy."
+  },
+  "19.4.1.7": {
+    "text": "第二天，他路过小区门口时，又仔细看了一下广告，原来在记号码的时候写错了一个数字。",
+    "en": "The next day, he passed the entrance again and checked the advertisement carefully. He realized he had copied one digit of the number incorrectly."
+  },
+  "19.5.1.1": {
+    "text": "很多外国人认为所有中国人都会功夫和乒乓球，其实只是喜爱这两种运动的中国人比较多。",
+    "en": "Many foreigners think all Chinese people know kung fu and can play table tennis, but in fact these are simply two sports that many Chinese people enjoy."
+  },
+  "19.5.1.2": {
+    "text": "中国人特别喜欢打乒乓球，在中国你会发现到处都有乒乓球桌。",
+    "en": "Chinese people particularly enjoy table tennis, and you can find table tennis tables everywhere in China."
+  },
+  "19.5.1.3": {
+    "text": "像乒乓球、羽毛球、跑步等运动对条件要求不高，所以它们都成为人们运动不错的选择。",
+    "en": "Sports such as table tennis, badminton, and running do not require elaborate facilities or conditions, making them good exercise choices."
+  },
+  "19.5.1.4": {
+    "text": "人们常说“生命在于运动”，所以很多人一到周末就会到体育馆打几场球。",
+    "en": "People often say, “Life lies in movement,” so many go to sports centers on weekends to play a few games."
+  },
+  "19.5.1.5": {
+    "text": "“乒乓球”这个名字也很有意思，“乒”和“乓”就是打球时发出的声音。",
+    "en": "The Chinese name for table tennis, “ping-pong,” is interesting too: “ping” and “pong” imitate the sounds of the ball being hit."
+  },
+  "19.5.1.6": {
+    "text": "在看乒乓球比赛时，尤其是在运动员发球的时候，观众要安静，禁止大声讲话或者离开座位随便走动。",
+    "en": "Spectators at table tennis matches must remain quiet, especially during a serve. Loud conversation and leaving one's seat to wander around are prohibited."
+  },
+  "20.1.1.1": {
+    "text": "朋友：该加油了，去机场的路上有加油站吗？",
+    "en": "Friend: We need petrol. Is there a filling station on the way to the airport?"
+  },
+  "20.1.2.1": {
+    "text": "小张：我记得过了长江大桥往右一拐就有一个，大概有四五公里远。",
+    "en": "Xiao Zhang: I remember one just after you cross the Yangtze River Bridge and turn right. It's about four or five kilometers away."
+  },
+  "20.1.3.1": {
+    "text": "朋友：好，那我就放心了，别开着开着没油了。",
+    "en": "Friend: Good, that's a relief. We don't want to run out of fuel while driving."
+  },
+  "20.1.3.2": {
+    "text": "你去北京的航班是几点的？",
+    "en": "What time is your flight to Beijing?"
+  },
+  "20.1.3.3": {
+    "text": "时间来得及吗？",
+    "en": "Will we make it in time?"
+  },
+  "20.1.4.1": {
+    "text": "小张：航班本来是十点的，后来机场网站上通知推迟了一个小时，所以九点半以前到就应该没问题。",
+    "en": "Xiao Zhang: The flight was originally at ten, but the airport website later announced a one-hour delay, so arriving before half past nine should be fine."
+  },
+  "20.1.5.1": {
+    "text": "朋友：刚才我还有点儿担心来不及呢。",
+    "en": "Friend: I was a little worried just now that we wouldn't make it."
+  },
+  "20.1.5.2": {
+    "text": "一会儿加完油，往西走五百米就能上高速公路。",
+    "en": "After we fill up, we can drive five hundred meters west to join the expressway."
+  },
+  "20.1.5.3": {
+    "text": "走高速公路大约半个小时就到了。",
+    "en": "From there, it is about half an hour to the airport."
+  },
+  "20.1.6.1": {
+    "text": "小张：一会儿我自己进去换登机牌，你就不用送我了，等我到了首都机场再给你发短信。",
+    "en": "Xiao Zhang: I'll go in and collect my boarding pass myself, so you don't need to come with me. I'll text you when I arrive at Beijing Capital Airport."
+  },
+  "20.2.1.1": {
+    "text": "孙月：女儿下个星期就要放寒假了，到时候咱们带她去旅游，放松放松，怎么样？",
+    "en": "Sun Yue: Our daughter's winter vacation starts next week. How about taking her on a trip so we can all relax?"
+  },
+  "20.2.2.1": {
+    "text": "丈夫：平时女儿那么多课，总是说想去旅行，但是没时间，怪可怜的。",
+    "en": "Husband: She usually has so many classes and is always saying she wants to travel but has no time. I feel sorry for her."
+  },
+  "20.2.2.2": {
+    "text": "这次放假咱们带她去哪儿玩儿比较好呢？",
+    "en": "Where would be a good place to take her during this holiday?"
+  },
+  "20.2.3.1": {
+    "text": "孙月：去年我同事带她儿子去广西玩儿了一趟，听说很不错，我们就去广西吧。",
+    "en": "Sun Yue: A colleague took her son to Guangxi last year and said it was very nice. Let's go there."
+  },
+  "20.2.4.1": {
+    "text": "丈夫：好啊，那里的气候和北方很不同，即使是冬天，也非常暖和，还能吃到许多新鲜的水果。",
+    "en": "Husband: Good idea. The climate there is very different from the north: even in winter, it is warm, and we can enjoy lots of fresh fruit."
+  },
+  "20.2.4.2": {
+    "text": "等女儿一回来我就告诉她这个好消息。",
+    "en": "I'll tell our daughter the good news as soon as she gets home."
+  },
+  "20.2.5.1": {
+    "text": "孙月：先别着急说。",
+    "en": "Sun Yue: Don't tell her just yet."
+  },
+  "20.2.5.2": {
+    "text": "中午我们不是要去对面的饭店吃烤鸭，祝贺她考试成绩都合格吗？",
+    "en": "Aren't we going to the restaurant opposite for roast duck at lunchtime to celebrate her passing all her exams?"
+  },
+  "20.2.5.3": {
+    "text": "那时候再告诉她，不是更好？",
+    "en": "Wouldn't it be better to tell her then?"
+  },
+  "20.2.6.1": {
+    "text": "丈夫：好主意，到时她知道了肯定特别开心。",
+    "en": "Husband: Good idea. She will be delighted when she finds out."
+  },
+  "20.3.1.1": {
+    "text": "马克：这么多照片，都是你这次去丽江旅行时照的？",
+    "en": "Mark: There are so many photos. Did you take all of them on your recent trip to Lijiang?"
+  },
+  "20.3.1.2": {
+    "text": "那里的自然风景可真美！",
+    "en": "The natural scenery there is beautiful!"
+  },
+  "20.3.2.1": {
+    "text": "安娜：是啊，小城四季的风景都很美，而且环境保护得也很好，因此每年都吸引着成千上万的游客去那儿旅游。",
+    "en": "Anna: Yes. The little town is beautiful in every season and its environment is well protected, so it attracts tens of thousands of visitors every year."
+  },
+  "20.3.3.1": {
+    "text": "马克：这张照片上和你干杯的那个人是少数民族吗？",
+    "en": "Mark: Is the person raising a toast with you in this photo from an ethnic minority?"
+  },
+  "20.3.3.2": {
+    "text": "她打扮得真漂亮。",
+    "en": "She is dressed beautifully."
+  },
+  "20.3.4.1": {
+    "text": "安娜：她是我们的导游，不是少数民族。",
+    "en": "Anna: She's our tour guide, and she isn't from an ethnic minority."
+  },
+  "20.3.4.2": {
+    "text": "一路上她给我们讲了很多有趣的笑话。",
+    "en": "She told us lots of funny jokes along the way."
+  },
+  "20.3.4.3": {
+    "text": "有一次我把存包的钥匙丢了，最后还是她帮我找到的。",
+    "en": "Once, I lost the key for my stored bag, and she was the one who helped me find it."
+  },
+  "20.3.4.4": {
+    "text": "这张照片就是找到钥匙后，我们一起照的。",
+    "en": "We took this photo together after finding the key."
+  },
+  "20.3.5.1": {
+    "text": "马克：明年我有机会也去那儿看看，到时把你的导游介绍给我吧。",
+    "en": "Mark: If I get the chance, I'll visit next year too. Please introduce me to your guide then."
+  },
+  "20.3.5.2": {
+    "text": "究竟哪个季节去丽江旅游比较好呢？",
+    "en": "Which season is actually best for visiting Lijiang?"
+  },
+  "20.3.6.1": {
+    "text": "安娜：那儿最美的季节是春天和秋天，不过那时候人比较多。",
+    "en": "Anna: Spring and autumn are the most beautiful seasons there, but they are also more crowded."
+  },
+  "20.3.6.2": {
+    "text": "稍微好一点儿的时间是每年12月到第二年3月。",
+    "en": "A somewhat better time to go is from December to March of the following year."
+  },
+  "20.3.6.3": {
+    "text": "这段时间去丽江的话，无论交通还是吃、住都很便宜。",
+    "en": "During that period, transport, food, and accommodation in Lijiang are all very inexpensive."
+  },
+  "20.4.1.1": {
+    "text": "中国南北距离约5500公里，因此南北气候有很大区别。",
+    "en": "China stretches about 5,500 kilometers from north to south, so the climates of the two regions differ greatly."
+  },
+  "20.4.1.2": {
+    "text": "每年三四月份的时候，如果从北方坐火车到南方去旅游，一路上你会发现，不同的地方有不同的风景：窗外的树一棵一棵地变绿，北方也许还下着雪，南方却已经到处都是绿色了。",
+    "en": "If you travel south by train in March or April, you will see the scenery change along the way: the trees outside gradually turn green, and while it may still be snowing in the north, the south is already green everywhere."
+  },
+  "20.4.1.3": {
+    "text": "南方菜很有特点，特别是汤，味道鲜美，很多北方人都喜欢喝。",
+    "en": "Southern cuisine has distinctive qualities, especially its delicious soups, which many northerners enjoy."
+  },
+  "20.4.1.4": {
+    "text": "另外，南方和北方的语言也有很大不同。",
+    "en": "The languages spoken in northern and southern China also differ greatly."
+  },
+  "20.4.1.5": {
+    "text": "比如你跟上海人对话时，会发现上海话听起来就像外语一样。",
+    "en": "For example, when you talk with people from Shanghai, Shanghainese can sound like a foreign language."
+  },
+  "20.4.1.6": {
+    "text": "虽然上海人也会讲普通话，可是仔细听，还是有上海味儿。",
+    "en": "Although people from Shanghai also speak Mandarin, you can still hear a Shanghai accent if you listen closely."
+  },
+  "20.5.1.1": {
+    "text": "一个人有时间一定要去旅行，旅行不仅能丰富一个人的经历，而且是很好的减压方法。",
+    "en": "Whenever you have time, you should travel. Traveling not only enriches your experience but is also an excellent way to reduce stress."
+  },
+  "20.5.1.2": {
+    "text": "但对我来说，最重要的是旅行能让我有机会尝到各地有名的小吃。",
+    "en": "For me, though, the most important thing is the chance to try famous local snacks from different places."
+  },
+  "20.5.1.3": {
+    "text": "放假的时候，我会收拾好行李，带上地图，买张火车票，向目的地出发。",
+    "en": "During holidays, I pack my luggage, take a map, buy a train ticket, and set off for my destination."
+  },
+  "20.5.1.4": {
+    "text": "说起吃的东西，给我印象最深的是湖南菜。",
+    "en": "When it comes to food, Hunan cuisine has left the deepest impression on me."
+  },
+  "20.5.1.5": {
+    "text": "湖南菜的特点就是辣，与其他地方的辣不同，湖南菜的辣主要是咸辣、香辣和酸辣。",
+    "en": "Hunan food is known for its spiciness, but its heat differs from that of other regions: it is mainly salty and spicy, fragrant and spicy, or sour and spicy."
+  },
+  "20.5.1.6": {
+    "text": "虽然全国各地都有湖南饭馆儿，但最好还是直接去那里尝一尝。",
+    "en": "Although Hunan restaurants can be found all over China, it is best to go there and taste the food for yourself."
+  },
+  "20.5.1.7": {
+    "text": "每次旅行结束后，我都会精神百倍地开始我的工作。",
+    "en": "After every trip, I return to work full of renewed energy."
+  }
+}
