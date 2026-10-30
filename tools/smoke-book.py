@@ -49,7 +49,7 @@ with sync_playwright() as pw:
   assert 'to hear' in page.locator('#book-tooltip').inner_text()
   assert compound.evaluate('(e)=>getComputedStyle(e).boxShadow')!='none'
  page.keyboard.press('Escape')
- word=page.locator('#book-reading section').last.locator('.book-character').filter(has_text='律').first
+ word=page.locator('#book-passages-section').locator('.book-character').filter(has_text='律').first
  word.hover();tip=page.locator('#book-tooltip');assert tip.is_visible();assert '法律' in tip.inner_text();assert 'fǎ lǜ' in tip.inner_text();assert 'Noun' in tip.inner_text();assert 'This character: 律 · lǜ' in tip.inner_text()
  page.keyboard.press('Escape');assert tip.is_hidden()
  word.focus();assert tip.is_visible();page.keyboard.press('Escape');assert tip.is_hidden()

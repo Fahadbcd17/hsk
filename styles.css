@@ -63,3 +63,20 @@
 
 .book-word{display:inline-block;white-space:nowrap;border-radius:4px}
 .book-word:hover,.book-word:focus-within,.book-word.is-active{background:var(--wash);box-shadow:0 0 0 2px var(--green)}
+
+/* Textbook picture matching */
+.picture-match-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;align-items:start}
+.picture-match-card{min-width:0}.picture-match-card h3{margin:0 0 12px}
+.book-exercise-image{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:contain;background:#fff;border-radius:6px;margin:0 0 18px}
+.picture-posters .book-exercise-image{aspect-ratio:2/3;max-height:290px}
+.picture-match-answer{margin-top:18px;border-top:1px solid var(--line);padding-top:12px}
+.picture-match-answer[hidden]{display:none}.picture-line{display:block;overflow-wrap:anywhere}
+.picture-zh{display:block;font-size:var(--zh);line-height:1.8}.picture-pinyin{display:block;color:var(--green);font-size:15px;line-height:1.7;margin:5px 0}
+.picture-english{display:block;color:var(--muted);font-size:15px;line-height:1.7}
+.picture-example-list{padding-left:22px;margin-bottom:0}.picture-example-list li{padding:12px 0}
+.picture-matched-word{padding-bottom:8px}.picture-matched-word .picture-zh{font-weight:600}
+.picture-bank-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px 30px;padding-left:25px}
+.picture-bank-grid li{padding-left:5px;min-width:0}.picture-bank-movies{grid-template-columns:repeat(2,minmax(0,1fr))}
+.picture-aids-hidden .picture-reading-aid{display:none}
+@media(max-width:1000px){.picture-match-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:560px){.picture-match-grid{grid-template-columns:1fr}.picture-bank-grid{grid-template-columns:1fr 1fr;gap:18px 25px}.picture-posters .book-exercise-image{max-height:320px}.picture-bank-grid .picture-zh{font-size:21px}}

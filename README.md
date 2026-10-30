@@ -179,3 +179,21 @@ for source attribution, annotation methods, and rebuild instructions.
 Validate content with `node tools/validate-book.cjs`. With a local HTTP server
 and Python Playwright installed, run `python3 tools/smoke-book.py` for browser
 checks. Set `BOOK_CHROME` to your Chromium executable if needed.
+
+
+### Picture matching
+
+After the chapter passages, **Match the pictures with the words** reproduces
+the opening exercise's six A–F pictures and numbered word-bank order. Chapter 1
+uses its original movie titles. Every **Show Answer** button reveals the matching
+word and two image-description sentences, each with Chinese, pinyin and a full
+English translation. **Hide pinyin & English** controls this exercise alone.
+
+All 120 pictures are extracted from the supplied PDFs. The 240 original example
+sentences are checked against HSK 2.0 levels 1–4 plus productive beginner grammar;
+the exact exercise target words are allowed as explicitly requested. Images and
+exercise text are included in offline caching.
+
+Rebuild with `python3 tools/build-book-pictures.py` (PyMuPDF, Pillow, pypinyin,
+and Node required). Validate with `node tools/validate-book-pictures.cjs` and,
+with a local server running, `python3 tools/smoke-book-pictures.py`.

@@ -1,0 +1,142 @@
+// Chapter | word-bank order; pictures remain in A–F order.
+// Letter | target word | English meaning | Chinese sentence 1 | English sentence 1 | Chinese sentence 2 | English sentence 2
+# 1|西雅图未眠夜 诺丁山 当男人爱上女人 罗马假日 罗密欧与朱丽叶 泰坦尼克号
+A|罗马假日|Roman Holiday|《罗马假日》的照片里，一个男人和一个女人在一起。|In the Roman Holiday picture, a man and a woman are together.|《罗马假日》里的女人坐在男人前面。|The woman in Roman Holiday is sitting in front of the man.
+B|当男人爱上女人|When a Man Loves a Woman|《当男人爱上女人》的照片里有两个人。|There are two people in the When a Man Loves a Woman picture.|《当男人爱上女人》里的男人和女人抱在一起。|The man and woman in When a Man Loves a Woman are embracing.
+C|泰坦尼克号|Titanic|《泰坦尼克号》的照片里有一个男人和一个女人。|There is a man and a woman in the Titanic picture.|《泰坦尼克号》里的两个人站在船上。|The two people in Titanic are standing on a ship.
+D|西雅图未眠夜|Sleepless in Seattle|《西雅图未眠夜》的照片里，男人看着女人，女人也看着男人。|In the Sleepless in Seattle picture, two people are looking at each other.|《西雅图未眠夜》里的男人和女人离得很近。|The man and woman in Sleepless in Seattle are very close to each other.
+E|诺丁山|Notting Hill|《诺丁山》的照片里有一个女人和一个男人。|There is a woman and a man in the Notting Hill picture.|《诺丁山》里的男人穿着白色的衣服。|The man in Notting Hill is wearing white clothes.
+F|罗密欧与朱丽叶|Romeo and Juliet|《罗密欧与朱丽叶》的照片里，两个人离得很近。|In the Romeo and Juliet picture, the two people are leaning close together.|《罗密欧与朱丽叶》里的两个人看上去很年轻。|The two people in Romeo and Juliet look very young.
+# 2|聚会 购物 运动 学习 聊天儿 旅行
+A|学习|to study; to learn|这些学生正在教室里学习。|These students are studying in a classroom.|前面的学生正在认真学习。|The student at the front is studying carefully.
+B|聊天儿|to chat|两个女人坐在外面聊天儿。|Two women are sitting outside chatting.|她们一边喝东西一边聊天儿。|They are chatting while having a drink.
+C|购物|to shop; shopping|这个女人正在购物。|This woman is shopping.|购物以后，她拿着很多东西。|After shopping, she is carrying lots of things.
+D|旅行|to travel; a trip|这两个人正在一起旅行。|These two people are traveling together.|旅行的时候，他们看着地图。|They are looking at a map during their trip.
+E|运动|to exercise; exercise|这几个女人正在一起做运动。|These women are exercising together.|她们穿着适合运动的衣服。|They are wearing clothes suitable for exercise.
+F|聚会|a gathering; to get together|这些朋友正在外面聚会。|These friends are having a gathering outside.|聚会的时候，大家一起吃东西。|Everyone is eating together at the gathering.
+# 3|紧张 面试 律师 笔试 应聘 通知
+A|律师|lawyer|这位律师拿着一本书。|This lawyer is holding a book.|这位律师穿着黑色的衣服。|This lawyer is wearing black clothes.
+B|通知|a notice; to notify|这个女人正在看通知。|This woman is reading a notice.|她站在通知前面。|She is standing in front of the notice.
+C|应聘|to apply for a job|很多人来这里应聘。|Many people have come here to apply for jobs.|应聘的人正在排队。|The job applicants are lining up.
+D|面试|a job interview; to interview|这两个人正在进行面试。|These two people are taking part in a job interview.|面试的时候，男人在看材料。|During the interview, the man is looking at some documents.
+E|笔试|written examination|这些学生正在参加笔试。|These students are taking a written examination.|笔试的时候，她们认真地写答案。|They are carefully writing their answers during the examination.
+F|紧张|nervous; tense|这个男人看上去很紧张。|This man looks nervous.|他紧张得不知道应该说什么。|He is so nervous that he does not know what to say.
+# 4|感谢 谈生意 知识 按时 赚钱 手忙脚乱
+A|按时|on time|这个人按时把东西送来了。|This person has delivered the goods on time.|为了按时完成工作，他很努力。|He works hard to finish his work on time.
+B|赚钱|to earn money|这个男人赚钱了，看上去很高兴。|This man has earned some money and looks happy.|赚钱以后，他拿着很多钱。|After earning money, he is holding a lot of it.
+C|手忙脚乱|to be in a fluster; to rush about in confusion|工作太多了，这个男人手忙脚乱。|This man is flustered because he has too much work.|他手忙脚乱，不知道先做什么。|He is rushing about in confusion and does not know what to do first.
+D|感谢|to thank; to be grateful|这个女人送了礼物，表示感谢。|This woman is giving a present to express her thanks.|她感谢坐在旁边的女人。|She is thanking the woman sitting beside her.
+E|知识|knowledge|这张照片用不同的东西表示知识。|This picture uses different objects to represent knowledge.|书能帮助我们学习知识。|Books help us gain knowledge.
+F|谈生意|to discuss business|这些人坐在一起谈生意。|These people are sitting together discussing business.|谈生意的时候，他们认真地听。|They listen attentively during their business discussion.
+# 5|葡萄酒 现金 打折 信用卡 沙发 广告
+A|现金|cash|照片里有很多现金。|There is a lot of cash in the picture.|这些现金的颜色不同。|These banknotes are different colors.
+B|沙发|sofa|这张沙发是白色的。|This sofa is white.|沙发上有黑色的东西。|There are black items on the sofa.
+C|信用卡|credit card|这里有几张信用卡。|There are several credit cards here.|这些信用卡的颜色不同。|These credit cards are different colors.
+D|打折|to offer a discount; on sale|这家商店的衣服正在打折。|The clothes in this shop are on sale.|打折以后，衣服比原来便宜。|After the discount, the clothes cost less than before.
+E|广告|advertisement|这里有几个广告。|There are several advertisements here.|这些广告介绍不同的东西。|These advertisements promote different things.
+F|葡萄酒|wine|这些葡萄酒放在很多瓶子里。|The wine is stored in many bottles here.|这些葡萄酒放在一起。|These bottles of wine are arranged together.
+# 6|裤子 果汁 西红柿 衬衫 袜子 行李箱
+A|果汁|fruit juice|这里的杯子里有果汁。|There is fruit juice in the glasses here.|这些果汁的颜色不同。|These juices are different colors.
+B|裤子|trousers; pants|这条裤子是蓝色的。|These trousers are blue.|这条裤子看上去很适合年轻人。|These trousers look suitable for young people.
+C|袜子|socks|这双袜子有红色和白色。|This pair of socks is red and white.|两只袜子放在一起。|The two socks are placed together.
+D|西红柿|tomato|这些西红柿很红。|These tomatoes are very red.|桌子上的西红柿看上去很新鲜。|The tomatoes on the table look very fresh.
+E|行李箱|suitcase|这个行李箱的颜色很特别。|This suitcase has a distinctive color.|行李箱上有很多不同颜色的东西。|There are many differently colored things on the suitcase.
+F|衬衫|shirt|这件衬衫是蓝色的。|This shirt is blue.|这件衬衫看上去很干净。|This shirt looks very clean.
+# 7|流血 咳嗽 减肥 抽烟 植物 烦恼
+A|抽烟|to smoke|这个男人正在抽烟。|This man is smoking.|照片里抽烟的人穿着黑色的衣服。|The person smoking in the picture is wearing black clothes.
+B|植物|plant|这里有很多绿色的植物。|There are many green plants here.|这些植物长得不一样。|These plants look different from each other.
+C|咳嗽|to cough; a cough|这个男人正在咳嗽。|This man is coughing.|咳嗽让他觉得不舒服。|Coughing is making him uncomfortable.
+D|烦恼|worried; a worry|这个女人有很多烦恼。|This woman has many worries.|旁边的人想帮助她解决烦恼。|The person beside her wants to help her deal with her worries.
+E|流血|to bleed|这个女人的鼻子流血了。|This woman's nose is bleeding.|鼻子流血让她觉得不舒服。|Her bleeding nose is making her uncomfortable.
+F|减肥|to lose weight|照片里的女人正在减肥。|The woman in the picture is trying to lose weight.|减肥以后，她看上去更瘦了。|She looks slimmer after losing weight.
+# 8|大使馆 师傅 景色 生命 巧克力 堵车
+A|巧克力|chocolate|这里有很多巧克力。|There are lots of chocolates here.|这些巧克力的样子不一样。|These chocolates have different shapes.
+B|景色|scenery; view|这里的景色很漂亮。|The scenery here is beautiful.|绿色的树让景色更好看。|The green trees make the scenery even prettier.
+C|堵车|a traffic jam; to be stuck in traffic|这条路正在堵车。|There is a traffic jam on this road.|堵车的时候，公共汽车开得很慢。|The buses move very slowly in the traffic jam.
+D|生命|life|这张照片里的植物表示生命。|The plant in this picture represents life.|这个人正在保护植物的生命。|This person is protecting the life of a plant.
+E|大使馆|embassy|照片里是一个大使馆。|An embassy is shown in the picture.|大使馆外面有树。|There are trees outside the embassy.
+F|师傅|a respectful term for a skilled worker or driver|这位师傅正在开出租车。|This driver is driving a taxi.|师傅坐在绿色的出租车里。|The driver is sitting in the green car.
+# 9|轻松 网球 作家 勇敢 饼干 爱迪生
+A|饼干|biscuit; cookie|这里有很多饼干。|There are lots of cookies here.|这些饼干的颜色和样子不同。|These cookies differ in color and shape.
+B|轻松|relaxed; easy|这个人看上去很轻松。|This person looks very relaxed.|在外面休息让他觉得轻松。|Resting outdoors makes him feel relaxed.
+C|勇敢|brave|这个男人很勇敢。|This man is brave.|勇敢的他正在小心地走。|He is bravely and carefully walking.
+D|网球|tennis; a tennis ball|照片里有一个网球。|There is a tennis ball in the picture.|这个网球的颜色很漂亮。|This tennis ball has a lovely color.
+E|爱迪生|Thomas Edison|照片里的男人是爱迪生。|The man in the picture is Thomas Edison.|爱迪生坐在桌子旁边。|Edison is sitting beside a desk.
+F|作家|writer; author|这位作家正在写字。|This writer is writing.|作家旁边站着几个人。|Several people are standing beside the writer.
+# 10|兴奋 硕士 困 翻译 拉 躺
+A|硕士|master's degree; a holder of a master's degree|这个年轻人是硕士。|This young man holds a master's degree.|这位硕士看上去很高兴。|This master's graduate looks very happy.
+B|翻译|to translate; a translation|照片里有不同语言的翻译。|There are translations into different languages in the picture.|这些翻译的意思相同。|These translations have the same meaning.
+C|躺|to lie down|这个女人躺在沙发上。|This woman is lying on a sofa.|她躺着休息，看上去很舒服。|She is resting while lying down and looks comfortable.
+D|拉|to pull|这个男人正在努力拉东西。|This man is pulling something hard.|他站着拉东西。|He is standing as he pulls.
+E|困|sleepy|这个男人很困。|This man is very sleepy.|工作的时候，他困得想睡觉。|He is so sleepy at work that he wants to sleep.
+F|兴奋|excited|这些年轻人很兴奋。|These young people are excited.|他们在外面兴奋地玩儿。|They are playing outside excitedly.
+# 11|客厅 猜 复杂 阅读 杂志 笔记
+A|杂志|magazine|这里有几本杂志。|There are several magazines here.|这些杂志介绍不同的事情。|These magazines cover different subjects.
+B|阅读|to read; reading|这个男人正在阅读。|This man is reading.|阅读的时候，他坐在沙发上。|He is sitting on a sofa while reading.
+C|猜|to guess|这个男人在猜后面的人是谁。|This man is guessing who is behind him.|猜的时候，他没有看到后面的人。|He has not seen the person behind him as he guesses.
+D|客厅|living room|这个客厅很大。|This living room is spacious.|客厅里有沙发和桌子。|There are sofas and a table in the living room.
+E|复杂|complicated; complex|这些问题看上去很复杂。|These problems look complicated.|复杂的问题需要认真考虑。|Complicated problems need careful thought.
+F|笔记|notes|这个人正在写笔记。|This person is taking notes.|写笔记的时候，这个人很认真。|This person is concentrating while taking notes.
+# 12|盐 友好 相反 叶子 教育 商量
+A|盐|salt|这里有一些白色的盐。|There is some white salt here.|这些盐可以用来做饭。|This salt can be used for cooking.
+B|叶子|leaf; leaves|这些叶子是红色的。|These leaves are red.|树上的叶子颜色很漂亮。|The leaves on the tree have beautiful colors.
+C|友好|friendly|这些人很友好。|These people are friendly.|他们友好地打招呼。|They are greeting each other in a friendly way.
+D|相反|opposite; contrary|照片里的两个方向正好相反。|The two directions in the picture are exactly opposite.|这两个相反的方向，一个向上，一个向下。|Of these two opposite directions, one points up and the other points down.
+E|商量|to discuss; to consult|这两个人正在商量工作。|These two people are discussing work.|商量的时候，他们看着桌子上的材料。|They are looking at documents on the desk during their discussion.
+F|教育|education; to educate|老师正在教育学生。|The teacher is teaching the students.|学校教育帮助学生学习知识。|School education helps students gain knowledge.
+# 13|吃惊 开心 观众 讨论 餐厅 互联网
+A|餐厅|restaurant|这家餐厅里有很多桌子。|There are many tables in this restaurant.|餐厅里看上去很舒服。|The restaurant looks very comfortable.
+B|互联网|the internet|这些电脑和互联网有关。|These computers are connected with the internet.|互联网让人们的联系更方便。|The internet makes it easier for people to stay in touch.
+C|开心|happy; delighted|这一家人很开心。|This family is very happy.|他们开心地坐在一起。|They are sitting together happily.
+D|讨论|to discuss; a discussion|这些人正在讨论。|These people are having a discussion.|讨论的时候，一个男人举着胳膊。|During the discussion, a man has raised his arm.
+E|观众|audience; spectator|这些观众正在看电影。|These audience members are watching a film.|观众们认真地看着前面。|The audience is looking ahead attentively.
+F|吃惊|to be surprised|这个孩子很吃惊。|This child is surprised.|他吃惊得不知道应该说什么。|He is so surprised that he does not know what to say.
+# 14|温度 地球 垃圾桶 速度 污染 塑料袋
+A|垃圾桶|rubbish bin; trash can|这里有两个垃圾桶。|There are two rubbish bins here.|这两个垃圾桶放在一起。|These two rubbish bins are placed together.
+B|污染|pollution; to pollute|照片里有严重的空气污染。|There is serious air pollution in the picture.|这种污染会影响人们的健康。|This kind of pollution can affect people's health.
+C|塑料袋|plastic bag|这里有三个塑料袋。|There are three plastic bags here.|这些塑料袋的颜色不同。|These plastic bags are different colors.
+D|速度|speed|这个东西可以告诉我们速度。|This instrument shows us the speed.|在路上，要注意速度。|Pay attention to your speed on the road.
+E|地球|Earth; the globe|这张照片让我们看到地球的样子。|This picture shows us what the Earth looks like.|地球是我们共同的家。|The Earth is our shared home.
+F|温度|temperature|这个东西可以告诉我们温度。|This instrument can tell us the temperature.|这里的温度看上去很高。|The temperature here appears to be high.
+# 15|赶时间 害羞 打针 闹钟 敲门 弹钢琴
+A|闹钟|alarm clock|这个人想让闹钟停下来。|This person wants the alarm clock to stop.|闹钟就在他的旁边。|The alarm clock is right beside him.
+B|害羞|shy; embarrassed|这个女孩子很害羞。|This girl is shy.|害羞的时候，她不想让别人看见自己的脸。|When she feels shy, she does not want others to see her face.
+C|赶时间|to be in a hurry|这个男人正在赶时间。|This man is in a hurry.|赶时间的时候，他看了一下手表。|He has glanced at his watch while hurrying.
+D|弹钢琴|to play the piano|这个女人正在弹钢琴。|This woman is playing the piano.|弹钢琴的时候，她坐在椅子上。|She is sitting on a chair while playing the piano.
+E|打针|to have or give an injection|这个孩子正在打针。|This child is having an injection.|打针的时候，旁边的人在帮助他。|The person beside him is helping him during the injection.
+F|敲门|to knock on a door|这个男人正在敲门。|This man is knocking on a door.|敲门的时候，他站在门外。|He is standing outside the door while knocking.
+# 16|激动 参观 失望 挂 推 记者
+A|参观|to visit; to tour|人们可以在这里参观。|People can visit this place.|参观的时候，人们可以看到很多东西。|Visitors can see many things during their visit.
+B|推|to push|这几个人正在一起推。|These people are pushing together.|推东西的时候，他们一起努力。|They work together as they push.
+C|激动|excited; emotionally moved|这两个女人很激动。|These two women are very excited.|她们激动得抱在一起。|They are so excited that they are embracing.
+D|失望|disappointed|这个男人很失望。|This man is disappointed.|失望的时候，他坐下来，不想说话。|Feeling disappointed, he sits down and does not want to talk.
+E|挂|to hang|这个男人把画挂了起来。|This man is hanging up a picture.|他在女人旁边挂画。|He is hanging the picture beside the woman.
+F|记者|journalist; reporter|这些记者正在工作。|These journalists are working.|记者们站在一起。|The journalists are standing together.
+# 17|热闹 森林 云 活泼 老虎 海洋
+A|活泼|lively; energetic|这两只狗很活泼。|These two dogs are lively.|活泼的狗正在跑步。|The lively dogs are running.
+B|云|cloud|照片里有白色的云。|There are white clouds in the picture.|这些云看上去很漂亮。|These clouds look beautiful.
+C|森林|forest|森林里有很多树。|There are many trees in the forest.|照片里的森林看上去很安静。|This forest looks very peaceful.
+D|老虎|tiger|这只老虎正在走。|This tiger is walking.|老虎一边走，一边看前面。|The tiger is looking ahead as it walks.
+E|海洋|ocean|海洋里有很多水。|There is a great deal of water in the ocean.|照片里的海洋是蓝色的。|The ocean in the picture is blue.
+F|热闹|lively; bustling|这里非常热闹。|It is very lively here.|热闹的地方有很多人。|There are many people in this bustling place.
+# 18|密码 信息 举 危险 交通 付款
+A|付款|to pay; to make a payment|这个女人正在付款。|This woman is making a payment.|付款的时候，她把钱给了前面的人。|She is handing money to the other person as she pays.
+B|信息|information; message|手机可以收到很多信息。|A mobile phone can receive lots of information.|人们用手机交流信息。|People use mobile phones to exchange information.
+C|交通|traffic; transport|这个城市的交通很方便。|Transport in this city is very convenient.|照片里的交通非常复杂。|The traffic in the picture is very complex.
+D|危险|dangerous; danger|站在很高的地方很危险。|Standing in such a high place is dangerous.|照片里的人做着危险的动作。|The person in the picture is making a dangerous movement.
+E|举|to raise; to lift|这个男人把东西举了起来。|This man is lifting some objects.|举东西的时候，他看上去很努力。|He looks as though he is exerting himself as he lifts them.
+F|密码|password; PIN|这个人在用密码取钱。|This person is using a PIN to withdraw money.|密码能保护他的钱。|The PIN helps protect his money.
+# 19|复印 厨房 禁止 戴眼镜 理发 道歉
+A|复印|to photocopy|这个男人正在复印材料。|This man is photocopying documents.|复印的时候，他认真地看着材料。|He is looking carefully at the documents while photocopying.
+B|道歉|to apologize|这个男人在向女人道歉。|This man is apologizing to the woman.|道歉的时候，他送了花。|He has brought flowers to offer with his apology.
+C|理发|to have or give a haircut|这个男人正在理发。|This man is having his hair cut.|理发以后，他的头发会短一些。|His hair will be a little shorter after the haircut.
+D|厨房|kitchen|这个厨房很干净。|This kitchen is very clean.|人们可以在厨房里做饭。|People can cook in the kitchen.
+E|戴眼镜|to wear glasses|这个女人喜欢戴眼镜。|This woman likes wearing glasses.|照片里的女人戴眼镜，看上去很高兴。|The woman in the picture is wearing glasses and looks happy.
+F|禁止|to prohibit; forbidden|这个地方禁止用火。|Using fire is prohibited here.|这张照片表示禁止用火。|This picture indicates that using fire is forbidden.
+# 20|收拾 小吃 烤鸭 加油站 高速公路 干杯
+A|高速公路|expressway; motorway|这条高速公路很长。|This expressway is very long.|人们可以通过高速公路去别的地方。|People can use the expressway to reach other places.
+B|加油站|petrol station; gas station|这家加油站是红色和白色的。|This filling station is red and white.|加油站看上去很大。|The filling station looks large.
+C|烤鸭|roast duck|这里正在做烤鸭。|Roast duck is being prepared here.|这些烤鸭看上去很好吃。|These roast ducks look delicious.
+D|干杯|to raise a toast; cheers|这些人正在干杯。|These people are making a toast.|干杯的时候，大家把杯子举起来。|Everyone raises their glass as they make a toast.
+E|收拾|to tidy up; to put in order|这个人正在收拾房间。|This person is tidying the room.|收拾以后，房间会更干净。|The room will be cleaner after being tidied.
+F|小吃|snack; local specialty|这些小吃放在一起。|These snacks are arranged together.|这些小吃看上去很好吃。|These snacks look delicious.

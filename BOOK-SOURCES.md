@@ -13,7 +13,9 @@ chapter, the next line is its vocabulary list, and each `@` line records the
 1-based PDF page for the following passage. Dialogue turns and paragraphs are
 separate lines. Five passages are retained per chapter. Punctuation and spaces
 are normalized for browser reading. Starred supplemental vocabulary is included;
-proper-name boxes, warm-ups, exercises and culture sections are outside this reader.
+proper-name boxes, other warm-up activities, later practice exercises and culture
+sections are outside this reader. The opening picture-matching exercise is
+included separately as described below.
 
 The grammar sections retain the existing chapter-mapped grammar guide and two
 of its original teaching examples per topic. Those examples are not presented
@@ -56,3 +58,24 @@ node tools/validate-book.cjs
 `book-content.js` is generated and loaded before `book.js`. The latter adds the
 existing chapter grammar mapping. Review transcription and annotation changes
 against the linked source page, then update the service worker cache version.
+
+
+## Opening picture-matching exercises
+
+`tools/book-picture-exercises.txt` records the original six-picture A–F ordering,
+the numbered word banks, the visually checked matches, and two original example
+sentences per image. `tools/build-book-pictures.py` extracts the 120 picture
+regions into `assets/book-pictures/` and generates `book-pictures.js`. Book A
+uses its picture-frame coordinates; Book B uses visually checked crop rectangles
+from the scanned pages. Every generated image retains its source PDF page and
+rectangle for future checking. Extracted images retain the textbooks' existing
+ownership and copyright.
+
+The examples' English lines are full sentence translations. Pinyin comes from
+pypinyin with explicit readings for movie names and selected phrases. The build
+checks each sentence against the existing HSK 1–4 bank, allowing productive
+beginner forms (plural 们, 儿 forms, basic color combinations, and the listed
+grammatical constructions 外面、以后、不同、做饭、起来). Exact target words,
+including movie titles and supplemental terms, are allowed by the user's
+explicit instruction; this exception does not extend to other advanced words.
+The sentences are teaching examples, not quotations from the textbook.

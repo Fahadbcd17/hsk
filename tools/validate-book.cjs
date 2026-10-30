@@ -1,6 +1,6 @@
 const fs=require('fs'),vm=require('vm'),assert=require('assert'),path=require('path');
 const root=path.resolve(__dirname,'..'),ctx={window:{}};vm.createContext(ctx);
-for(const f of ['grammar-guide.js','book-content.js','book.js'])vm.runInContext(fs.readFileSync(path.join(root,f),'utf8'),ctx);
+for(const f of ['grammar-guide.js','book-content.js','book-pictures.js','book.js'])vm.runInContext(fs.readFileSync(path.join(root,f),'utf8'),ctx);
 const b=ctx.window.HSK_BOOK,a=ctx.window.HSK_BOOK_CONTENT.annotations;
 assert.equal(b.chapters.length,20);let words=0,passages=0,characters=0,translatedSentences=0;
 function check(text){const entry=a[text];assert(entry,`No annotation: ${text}`);assert.equal(entry.tokens.map(t=>t.zh).join(''),text);for(const t of entry.tokens){assert.equal(t.py.length,Array.from(t.zh).length);if(/[\u3400-\u9fff]/.test(t.zh)){assert(t.en&&t.pos,`Missing gloss/POS: ${t.zh}`);assert(!t.en.includes('Character used in'),`Fallback gloss: ${t.zh}`);for(let i=0;i<t.zh.length;i++)if(/[\u3400-\u9fff]/.test(t.zh[i])){characters++;assert(t.py[i]&&!/[\u3400-\u9fff]/.test(t.py[i]),`Missing pinyin: ${t.zh}`);}}}}
