@@ -80,3 +80,5 @@
 .picture-aids-hidden .picture-reading-aid{display:none}
 @media(max-width:1000px){.picture-match-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:560px){.picture-match-grid{grid-template-columns:1fr}.picture-bank-grid{grid-template-columns:1fr 1fr;gap:18px 25px}.picture-posters .book-exercise-image{max-height:320px}.picture-bank-grid .picture-zh{font-size:21px}}
+
+.book-grammar-number{color:var(--green);font-variant-numeric:tabular-nums}

@@ -104,6 +104,7 @@ for chapter in chapters:
   for p in passage['paragraphs']:annotate(p['text'])
 for topic in existing['topics']:
  if topic.get('lesson'):
+  for field in ['title','pattern','explanation']:annotate(topic[field])
   for example in topic['examples'][:2]:annotate(example['text'])
 assert len(chapters)==20
 assert all(len(c['passages'])==5 for c in chapters)

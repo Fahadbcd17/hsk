@@ -9,7 +9,7 @@ for(const [i,c] of b.chapters.entries()){
  assert.equal(c.passages.length,5);passages+=c.passages.length;assert(c.grammar.length>=5);
  for(const w of c.words){assert(w.en&&w.py&&w.pos);check(w.zh);}
  for(const p of c.passages){assert.equal(p.sourceFile,`HSK-4${i<10?'A':'B'}-Textbook.pdf`);assert(Number.isInteger(p.sourcePage)&&p.sourcePage>0);assert(p.paragraphs.length);for(const para of p.paragraphs){assert(para.text.length>5);check(para.text);assert(para.sentences?.length);assert.equal(para.sentences.map(s=>s.text).join(''),para.text);for(const s of para.sentences){assert(s.en.trim()&&/[a-z]/i.test(s.en));assert(!s.en.includes(' · '),'Word glosses used instead of sentence translation');translatedSentences++;}assert.equal(para.en,para.sentences.map(s=>s.en).join(' '));}}
- for(const t of c.grammar){assert(t.examples.length>=2);for(const ex of t.examples.slice(0,2))check(ex.text);}
+ for(const t of c.grammar){for(const key of ['title','pattern','explanation'])check(t[key]);assert(t.examples.length>=2);for(const ex of t.examples.slice(0,2))check(ex.text);}
 }
 assert.equal(passages,100);assert.equal(translatedSentences,796);assert.equal(b.chapters[8].words.find(w=>w.zh==='得').py,'děi');assert.equal(b.chapters[12].words.find(w=>w.zh==='省').en,'province');assert.equal(b.chapters[13].words.find(w=>w.zh==='省').en,'to save; economize');
 console.log(JSON.stringify({chapters:b.chapters.length,vocabularyEntries:words,passages,translatedSentences,annotatedCharacters:characters},null,2));

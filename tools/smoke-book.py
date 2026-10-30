@@ -12,6 +12,9 @@ with sync_playwright() as pw:
  for n in range(1,21):
   page.locator(f'.book-card[data-chapter="{n}"]').click()
   assert page.locator('h1').inner_text().startswith(f'Chapter {n} ·')
+  numbers=page.locator('#book-grammar-section .book-grammar-number').all_text_contents()
+  assert numbers==[f'{i}.' for i in range(1,len(numbers)+1)]
+  assert len(numbers)>=5
   assert page.locator('#book-passages ~ .book-topic').count()==5
   assert page.locator('#book-words ~ .card .book-text').count()>=25
   assert page.locator('.book-pinyin').count()==0
@@ -30,8 +33,22 @@ with sync_playwright() as pw:
  assert grammar.locator('.book-study-pinyin').count()>=10
  assert grammar.locator('.book-study-english').count()>=10
  assert words.locator('.book-character').count()==0
- assert grammar.locator('.book-character').count()==0
+ assert grammar.locator('.book-character').count()>10
  assert page.locator('.book-word-grid').evaluate('(e)=>getComputedStyle(e).gridTemplateColumns.split(" ").length')==3
+ grammar_word=grammar.locator('.book-examples .book-word[data-word="喜欢"]').first
+ assert grammar_word.locator('.book-character').count()==2
+ for char in ['喜','欢']:
+  grammar_word.locator('.book-character').filter(has_text=char).hover()
+  assert page.locator('#book-tooltip strong').inner_text()=='喜欢'
+  assert 'to like' in page.locator('#book-tooltip').inner_text()
+  assert 'xǐ' in page.locator('#book-tooltip').inner_text()
+  assert grammar_word.evaluate('(e)=>e.classList.contains("is-active")')
+ page.keyboard.press('Escape')
+ grammar_word.locator('.book-character').first.focus()
+ assert page.locator('#book-tooltip').is_visible()
+ page.keyboard.press('Escape')
+ assert grammar.locator('.book-pattern .book-character').count()>0
+ assert grammar.locator('h3 .book-character').count()>0
  before_words=words.inner_html();before_grammar=grammar.inner_html()
  assert page.locator('#book-passages-section [data-aid="pinyin"]').count()==1
  assert page.evaluate("Boolean(document.querySelector('[data-section=words]').compareDocumentPosition(document.querySelector('#book-words-section')) & Node.DOCUMENT_POSITION_FOLLOWING)")
@@ -70,4 +87,4 @@ with sync_playwright() as pw:
  page.screenshot(path='/tmp/book-mobile.png');page.keyboard.press('Escape')
  page.locator('[data-action="book-index"]').first.click();page.locator('.book-card[data-chapter="20"]').click();assert page.locator('[data-action="book-open"][data-chapter="21"]').count()==0
  assert not errors,errors
- browser.close();print('PASS: all 20 chapters, words/passages, permanent study annotations, section visibility, all 796 full sentence translations, passage-only hover and toggles, keyboard/tap, next chapter, last chapter, and mobile overflow')
+ browser.close();print('PASS: all 20 chapters, words/passages, permanent study annotations, numbered grammar points and compound-word hover, section visibility, all 796 full sentence translations, passage-only hover and toggles, keyboard/tap, next chapter, last chapter, and mobile overflow')

@@ -160,7 +160,9 @@ terms, and all five dialogues/readings per chapter (100 passages). Chapters show
 new words first, mapped grammar with two original study examples per point, then
 passages in textbook order. Every passage links to its source PDF page.
 
-Vocabulary and grammar examples always show pinyin and English. Buttons at the
+Vocabulary and grammar examples always show pinyin and English. Grammar points
+are numbered within each chapter; Chinese words in grammar headings, patterns,
+explanations and examples support the same compound-word hover as passages. Buttons at the
 top independently hide or show the vocabulary and grammar sections. Directly
 above the passages, pinyin and English toggles control only passage sentences.
 Vocabulary uses responsive columns. Each passage sentence has its own Chinese,
