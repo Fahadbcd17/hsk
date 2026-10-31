@@ -1,0 +1,22 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert'),path=require('path');
+const root=path.resolve(__dirname,'..');
+const ctx={window:{addEventListener(){}},document:{addEventListener(){}},navigator:{},localStorage:{getItem(){return null;}},setInterval(){}};vm.createContext(ctx);
+for(const f of ['grammar-guide.js','vocabulary-exams.js','book-content.js','book-pictures.js','book.js'])vm.runInContext(fs.readFileSync(path.join(root,f),'utf8'),ctx);
+let source=fs.readFileSync(path.join(root,'app.js'),'utf8');
+source=source.replace(/render\(\);\s*\}\)\(\);\s*$/, 'window.reviewTest={validate,defaults,bookReviewToken,bookReviewKey};})();');
+vm.runInContext(source,ctx);
+const {validate,defaults,bookReviewToken,bookReviewKey}=ctx.window.reviewTest;
+const annotations=ctx.window.HSK_BOOK_CONTENT.annotations;
+function entry(text,word){return {text,token:annotations[text].tokens.findIndex(t=>t.zh===word)};}
+const grammar=entry('即使他不同意，我们也要再试一次。','同意');
+const passage=entry(ctx.window.HSK_BOOK.chapters[0].passages[0].paragraphs[0].text,'听说');
+const chapter2=entry('这件衣服大小正好。','衣服');
+const backup=defaults();backup.bookReviews={1:[grammar,passage,grammar,chapter2,{text:'missing',token:0},{text:grammar.text,token:-1},{text:grammar.text,token:'3'},null],2:[chapter2],21:[grammar]};
+const restored=validate(JSON.parse(JSON.stringify(backup)));
+assert.equal(restored.bookReviews[1].length,2);assert.equal(restored.bookReviews[2].length,1);assert(!restored.bookReviews[21]);
+assert.equal(bookReviewToken(restored.bookReviews[1][0]).zh,'同意');assert.equal(bookReviewToken(restored.bookReviews[1][0]).en,'to agree; to consent');
+assert.notEqual(bookReviewKey(bookReviewToken(grammar)),bookReviewKey(bookReviewToken(passage)));
+const shifted=defaults();shifted.bookReviews={1:[{...grammar,token:0,zh:'同意'}]};assert.equal(bookReviewToken(validate(shifted).bookReviews[1][0]).zh,'同意');
+const oldBackup=defaults();delete oldBackup.bookReviews;assert.equal(Object.keys(validate(oldBackup).bookReviews).length,0);
+assert.equal(JSON.stringify(validate(restored).bookReviews),JSON.stringify(restored.bookReviews));
+console.log('PASS: chapter isolation, grammar/passages, duplicate filtering, invalid entries, old backups, and save/restore round-trip.');

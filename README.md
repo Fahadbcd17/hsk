@@ -199,3 +199,10 @@ exercise text are included in offline caching.
 Rebuild with `python3 tools/build-book-pictures.py` (PyMuPDF, Pillow, pypinyin,
 and Node required). Validate with `node tools/validate-book-pictures.cjs` and,
 with a local server running, `python3 tools/smoke-book-pictures.py`.
+
+Each chapter has a **Review words** button at the top. Open a grammar or passage
+word’s details and choose **Save to review** to add its whole-word meaning,
+pinyin, and part of speech to that chapter’s list. Duplicate entries are avoided;
+**Remove** takes a word out of the list. Lists persist locally and are included
+in progress backups. Validate backup compatibility and chapter isolation with
+`node tools/validate-book-reviews.cjs`.

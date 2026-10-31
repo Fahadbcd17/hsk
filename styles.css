@@ -84,3 +84,9 @@
 .book-grammar-number{color:var(--green);font-variant-numeric:tabular-nums}
 
 .book-grammar-introduction .book-study-pinyin{display:block;margin-left:0}
+
+.book-save-word{display:block;margin-top:12px;padding:6px 10px}
+.book-review-section{margin-top:20px}.book-review-section[hidden]{display:none}
+.book-review-entry{min-width:0;border-bottom:1px solid var(--line);padding:12px 0;overflow-wrap:anywhere}
+.book-review-entry .book-study-pinyin{display:block;margin-left:0}
+.book-review-entry p{line-height:1.7}
