@@ -1,7 +1,7 @@
 const fs=require('fs'),vm=require('vm'),assert=require('assert'),path=require('path');
 const root=path.resolve(__dirname,'..');
 const ctx={window:{addEventListener(){}},document:{addEventListener(){}},navigator:{},localStorage:{getItem(){return null;}},setInterval(){}};vm.createContext(ctx);
-for(const f of ['grammar-guide.js','vocabulary-exams.js','book-content.js','book-pictures.js','book.js'])vm.runInContext(fs.readFileSync(path.join(root,f),'utf8'),ctx);
+for(const f of ['grammar-guide.js','vocabulary-exams.js','book-content.js','book-pictures.js','book-word-examples.js','book.js'])vm.runInContext(fs.readFileSync(path.join(root,f),'utf8'),ctx);
 let source=fs.readFileSync(path.join(root,'app.js'),'utf8');
 source=source.replace(/render\(\);\s*\}\)\(\);\s*$/, 'window.reviewTest={validate,defaults,bookReviewToken,bookReviewKey};})();');
 vm.runInContext(source,ctx);

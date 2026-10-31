@@ -28,13 +28,27 @@ with sync_playwright() as pw:
   page.locator('[data-action="book-index"]').first.click()
  page.locator('.book-card[data-chapter="1"]').click()
  words=page.locator('#book-words-section');grammar=page.locator('#book-grammar-section')
- assert words.locator('.book-study-pinyin').count()==32
- assert words.locator('.book-study-english').count()==32
+ assert words.locator('.book-word-summary .book-study-pinyin').count()==32
+ assert words.locator('.book-word-summary .book-study-english').count()==32
  assert grammar.locator('.book-study-pinyin').count()>=10
  assert grammar.locator('.book-study-english').count()>=10
+ assert words.locator('.book-word-example-chinese').count()==32
+ page.locator('[data-action="book-word-aids"][data-aid="pinyin"]').click()
+ assert words.locator('.book-word-example .book-study-pinyin:visible').count()==0
+ assert words.locator('.book-word-example .book-study-english:visible').count()==32
+ page.locator('[data-action="book-word-aids"][data-aid="english"]').click()
+ assert words.locator('.book-word-example-aids:visible').count()==0
+ assert words.locator('.book-word-summary .book-study-pinyin:visible').count()==32
+ assert words.locator('.book-word-summary .book-study-english:visible').count()==32
+ assert words.locator('.book-word-example-chinese:visible').count()==32
+ page.locator('[data-action="book-word-aids"][data-aid="pinyin"]').click()
+ assert words.locator('.book-word-example .book-study-pinyin:visible').count()==32
+ assert words.locator('.book-word-example .book-study-english:visible').count()==0
+ page.locator('[data-action="book-word-aids"][data-aid="english"]').click()
+ assert words.locator('.book-word-example-aids:visible').count()==64
  assert words.locator('.book-character').count()==0
  assert grammar.locator('.book-character').count()>10
- assert page.locator('.book-word-grid').evaluate('(e)=>getComputedStyle(e).gridTemplateColumns.split(" ").length')==3
+ assert page.locator('.book-word-grid').evaluate('(e)=>getComputedStyle(e).gridTemplateColumns.split(" ").length')==2
  grammar_word=grammar.locator('.book-examples .book-word[data-word="喜欢"]').first
  assert grammar_word.locator('.book-character').count()==2
  for char in ['喜','欢']:

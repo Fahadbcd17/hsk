@@ -5,7 +5,7 @@ function setup(options={}){
  const synth={getVoices:()=>options.noVoice?[]:[voice],cancel(){calls.cancel++;},pause(){calls.pause++;},resume(){calls.resume++;},speak(u){calls.spoken.push(u);},addEventListener(){}};
  const ctx={window:{addEventListener(){}},document:{addEventListener(){},querySelector(){return null;},querySelectorAll(){return [];}},navigator:{},localStorage:{getItem(){return null;}},setInterval(){}};
  if(!options.unsupported){ctx.window.speechSynthesis=synth;ctx.speechSynthesis=synth;ctx.SpeechSynthesisUtterance=class{constructor(text){this.text=text;}};}
- vm.createContext(ctx);for(const f of ['grammar-guide.js','vocabulary-exams.js','book-content.js','book-pictures.js','book.js'])vm.runInContext(fs.readFileSync(path.join(root,f),'utf8'),ctx);
+ vm.createContext(ctx);for(const f of ['grammar-guide.js','vocabulary-exams.js','book-content.js','book-pictures.js','book-word-examples.js','book.js'])vm.runInContext(fs.readFileSync(path.join(root,f),'utf8'),ctx);
  const source=fs.readFileSync(path.join(root,'app.js'),'utf8').replace(/render\(\);\s*\}\)\(\);\s*$/,'window.audioTest={listenBookPassage,stopSpeech,book,setChapter:n=>{bookChapter=n;},getPlayer:()=>bookAudio,toggleAids:()=>{bookPinyin=!bookPinyin;bookEnglish=!bookEnglish;}};})();');
  vm.runInContext(source,ctx);return {ctx,calls,api:ctx.window.audioTest};
 }

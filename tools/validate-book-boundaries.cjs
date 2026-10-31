@@ -1,6 +1,6 @@
 const fs=require('fs'),path=require('path'),vm=require('vm'),assert=require('assert');
 const root=path.resolve(__dirname,'..'),ctx={window:{}};vm.createContext(ctx);
-for(const file of ['grammar-guide.js','book-content.js','book-pictures.js','book.js'])vm.runInContext(fs.readFileSync(path.join(root,file),'utf8'),ctx);
+for(const file of ['grammar-guide.js','book-content.js','book-pictures.js','book-word-examples.js','book.js'])vm.runInContext(fs.readFileSync(path.join(root,file),'utf8'),ctx);
 const book=ctx.window.HSK_BOOK,annotations=ctx.window.HSK_BOOK_CONTENT.annotations;
 const review=JSON.parse(fs.readFileSync(path.join(__dirname,'book-word-boundaries.json'),'utf8'));
 let covered=0;

@@ -96,3 +96,17 @@ correction from silently applying to edited text. Run
 `node tools/validate-book-boundaries.cjs` to check coverage, source reconstruction,
 context-sensitive regression cases, and repeatability. Full-sentence translations
 are separate from these hover glosses.
+
+## New-word example sentences
+
+`tools/book-word-examples.txt` contains 619 original Chinese example sentences
+and full English translations, one for each listed new word. Concise meanings
+matching the example contexts are in `tools/book-word-meanings.txt`. These are
+new teaching examples rather than textbook quotations.
+
+`tools/build-book-word-examples.py` generates pinyin using pypinyin and the
+chapter-specific target readings. It checks every Chinese segment against HSK
+1–3 vocabulary, transparent beginner grammar forms, and new words from strictly
+earlier chapters, allowing only the current target word as the new exception.
+No other chapter target is included in the beginner-form list. Word segments
+are retained in the generated data for independent validation.

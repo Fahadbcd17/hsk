@@ -160,7 +160,10 @@ terms, and all five dialogues/readings per chapter (100 passages). Chapters show
 new words first, mapped grammar with two original study examples per point, then
 passages in textbook order. Every passage links to its source PDF page.
 
-Vocabulary and grammar examples always show pinyin and English. Grammar points
+Vocabulary word headings and grammar examples always show pinyin and English.
+Each new word has an original example sentence below its Chinese–pinyin–meaning
+row. Separate buttons independently hide or show those example sentences’ pinyin
+and full English translations. Grammar points
 are numbered within each chapter; Chinese words in grammar headings, patterns,
 explanations and examples support the same compound-word hover as passages. Buttons at the
 top independently hide or show the vocabulary and grammar sections. Directly
@@ -215,3 +218,12 @@ and changing chapters or starting another passage stops the previous reading.
 This uses browser speech synthesis, so a Mandarin voice must be available on the
 device. Run `node tools/validate-book-audio.cjs` for all 100 passage sequences,
 pause/resume, completion, cancellation, and error-state checks.
+
+New-word examples are authored in `tools/book-word-examples.txt`, with concise
+word meanings in `tools/book-word-meanings.txt`. Rebuild with
+`python3 tools/build-book-word-examples.py` (pypinyin and Node required).
+The 619 examples use their own target word, HSK 1–3 vocabulary (including
+transparent beginner grammar forms such as 每天 and 吃饭), and only words from
+strictly earlier chapters. Other new words from the current or later chapters
+are excluded. Generated word segments are retained for validation. Run
+`node tools/validate-book-word-examples.cjs` to check every example.
