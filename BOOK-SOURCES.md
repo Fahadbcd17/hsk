@@ -79,3 +79,20 @@ grammatical constructions 外面、以后、不同、做饭、起来). Exact tar
 including movie titles and supplemental terms, are allowed by the user's
 explicit instruction; this exception does not extend to other advanced words.
 The sentences are teaching examples, not quotations from the textbook.
+
+## Reviewed hover word boundaries
+
+`tools/book-word-boundaries.json` records sentence-specific word boundaries for
+all 20 chapters: 1,004 displayed grammar titles, patterns, explanations, example
+sentences, and passage paragraphs. It also contains corrected word definitions,
+readings, and parts of speech, with per-text overrides for ambiguous contexts.
+For example, 不同意 is 不 / 同意, while 不同 remains one word when it means
+“different”; 听说能力 uses “listening and speaking” rather than “hear that”.
+
+`tools/apply-book-word-boundaries.cjs` applies this review to the generated
+annotations. `tools/build-book.py` runs it after dictionary generation, so a
+rebuild retains the reviewed boundaries. Exact source-text checks prevent a
+correction from silently applying to edited text. Run
+`node tools/validate-book-boundaries.cjs` to check coverage, source reconstruction,
+context-sensitive regression cases, and repeatability. Full-sentence translations
+are separate from these hover glosses.
