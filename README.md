@@ -206,3 +206,12 @@ pinyin, and part of speech to that chapter’s list. Duplicate entries are avoid
 **Remove** takes a word out of the list. Lists persist locally and are included
 in progress backups. Validate backup compatibility and chapter isolation with
 `node tools/validate-book-reviews.cjs`.
+
+Every textbook passage ends with **Listen**, **Pause / Resume**, and **Stop**
+controls. Playback reads the Chinese passage in order using the Mandarin voice
+and speed from Settings & help. Pause retains the current utterance; Resume
+continues it without replaying earlier text. Reading-aid toggles preserve playback,
+and changing chapters or starting another passage stops the previous reading.
+This uses browser speech synthesis, so a Mandarin voice must be available on the
+device. Run `node tools/validate-book-audio.cjs` for all 100 passage sequences,
+pause/resume, completion, cancellation, and error-state checks.

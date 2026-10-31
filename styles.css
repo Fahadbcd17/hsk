@@ -90,3 +90,6 @@
 .book-review-entry{min-width:0;border-bottom:1px solid var(--line);padding:12px 0;overflow-wrap:anywhere}
 .book-review-entry .book-study-pinyin{display:block;margin-left:0}
 .book-review-entry p{line-height:1.7}
+
+.book-passage-audio{display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin-top:20px;padding-top:16px;border-top:1px solid var(--line)}
+.book-audio-status{flex:1 1 180px}
