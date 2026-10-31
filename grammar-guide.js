@@ -60,7 +60,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-001-e2",
           "py": "bù jǐn wǒ huì yóu yǒng， wǒ mèi mei yě huì yóu yǒng。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "不仅……也/还/而且……",
+        "py": "bù jǐn……yě/hái/ér qiě……",
+        "en": "Not only … but also …"
+      }
     },
     {
       "id": "h4-course-002",
@@ -96,7 +101,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-002-e2",
           "py": "wǒ cóng lái méi yǒu qù guo nà ge dì fang。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "从来",
+        "py": "cóng lái",
+        "en": "Always / never up to now"
+      }
     },
     {
       "id": "h4-course-003",
@@ -132,7 +142,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-003-e2",
           "py": "tā gāng kāi shǐ xué hàn yǔ。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "刚",
+        "py": "gāng",
+        "en": "Just happened"
+      }
     },
     {
       "id": "h4-course-004",
@@ -172,7 +187,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-004-e2",
           "py": "jí shǐ tā bù tóng yì， wǒ men yě yào zài shì yī cì。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "即使……也……",
+        "py": "jí shǐ……yě……",
+        "en": "Even if …, still …"
+      }
     },
     {
       "id": "h4-course-005",
@@ -211,7 +231,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-005-e2",
           "py": "tā zài gōng zuò shàng gěi le wǒ hěn duō bāng zhù。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "（在）……上",
+        "py": "（zài）……shàng",
+        "en": "In a particular area"
+      }
     },
     {
       "id": "h4-course-006",
@@ -247,7 +272,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-006-e2",
           "py": "wǒ zhèng hǎo yào qù chāo shì， wǒ men yī qǐ zǒu ba。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "正好",
+        "py": "zhèng hǎo",
+        "en": "Just right / happen to"
+      }
     },
     {
       "id": "h4-course-007",
@@ -280,7 +310,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-007-e2",
           "py": "zuò yè chà bù duō xiě wán le。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "差不多",
+        "py": "chà bu duō",
+        "en": "About the same / almost"
+      }
     },
     {
       "id": "h4-course-008",
@@ -319,7 +354,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-008-e2",
           "py": "jǐn guǎn zhè běn shū hěn hòu， tā liǎng tiān jiù kàn wán le。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "尽管",
+        "py": "jǐn guǎn",
+        "en": "Although …, still / yet / but …"
+      }
     },
     {
       "id": "h4-course-009",
@@ -357,7 +397,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-009-e2",
           "py": "zhè jiàn yī fu hěn pián yi， zhì liàng què hěn hǎo。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "却",
+        "py": "què",
+        "en": "Yet / unexpectedly"
+      }
     },
     {
       "id": "h4-course-010",
@@ -398,7 +443,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-010-e2",
           "py": "jiě jie zài yín háng gōng zuò， ér mèi mei hái shì xué shēng。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "而",
+        "py": "ér",
+        "en": "While / whereas"
+      }
     },
     {
       "id": "h4-course-011",
@@ -435,7 +485,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-011-e2",
           "py": "nǐ hàn yǔ shuō de tǐng hǎo de。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "挺……的",
+        "py": "tǐng……de",
+        "en": "Quite"
+      }
     },
     {
       "id": "h4-course-012",
@@ -471,7 +526,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-012-e2",
           "py": "zhè jiàn shì běn lái jiù bù nán。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "本来",
+        "py": "běn lái",
+        "en": "Originally / in the first place"
+      }
     },
     {
       "id": "h4-course-013",
@@ -509,7 +569,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-013-e2",
           "py": "wǒ huì shuō hàn yǔ。 lìng wài， wǒ yě huì shuō yīng yǔ。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "另外",
+        "py": "lìng wài",
+        "en": "Another / in addition"
+      }
     },
     {
       "id": "h4-course-014",
@@ -548,7 +613,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-014-e2",
           "py": "shǒu xiān， wǒ men xū yào shí jiān； qí cì， wǒ men xū yào bāng zhù。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "首先……其次……",
+        "py": "shǒu xiān……qí cì……",
+        "en": "First …, second …"
+      }
     },
     {
       "id": "h4-course-015",
@@ -588,7 +658,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-015-e2",
           "py": "bù guǎn zuò chē hái shì zǒu lù， wǒ dōu bù huì chí dào。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "不管……都/也……",
+        "py": "bù guǎn……dōu/yě……",
+        "en": "Regardless of / no matter …, always / still …"
+      }
     },
     {
       "id": "h4-course-016",
@@ -624,7 +699,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-016-e2",
           "py": "tā yǐ wéi jīn tiān shì xīng qī liù， qí shí shì xīng qī wǔ。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "以为",
+        "py": "yǐ wéi",
+        "en": "Thought / assumed"
+      }
     },
     {
       "id": "h4-course-017",
@@ -660,7 +740,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-017-e2",
           "py": "yuán lái nǐ yě rèn shi wǒ de lǎo shī！"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "原来",
+        "py": "yuán lái",
+        "en": "Original / it turns out"
+      }
     },
     {
       "id": "h4-course-018",
@@ -696,7 +781,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-018-e2",
           "py": "wǒ bìng méi yǒu wàng jì nǐ de shēng rì。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "并不 / 并没有",
+        "py": "bìng bù/bìng méi yǒu",
+        "en": "Not / have not, contrary to an assumption"
+      }
     },
     {
       "id": "h4-course-019",
@@ -733,7 +823,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-019-e2",
           "py": "wǒ men àn zhào jì huà jiǔ diǎn chū fā。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "按照",
+        "py": "àn zhào",
+        "en": "According to"
+      }
     },
     {
       "id": "h4-course-020",
@@ -772,7 +867,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-020-e2",
           "py": "tā xǐ huan yùn dòng， shèn zhì xià yǔ tiān yě qù pǎo bù。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "甚至",
+        "py": "shèn zhì",
+        "en": "Even"
+      }
     },
     {
       "id": "h4-course-021",
@@ -810,7 +910,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-021-e2",
           "py": "wǒ bù néng kěn dìng tā míng tiān huì lái。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "肯定",
+        "py": "kěn dìng",
+        "en": "Definitely / certain"
+      }
     },
     {
       "id": "h4-course-022",
@@ -846,7 +951,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-022-e2",
           "py": "zhè jiàn shì míng tiān zài shuō ba。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "再说",
+        "py": "zài shuō",
+        "en": "Besides / discuss later"
+      }
     },
     {
       "id": "h4-course-023",
@@ -884,7 +994,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-023-e2",
           "py": "tā kàn qǐ lai hěn nián qīng， shí jì shàng yǐ jīng sì shí suì le。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "实际 / 实际上",
+        "py": "shí jì/shí jì shàng",
+        "en": "Reality / actually"
+      }
     },
     {
       "id": "h4-course-024",
@@ -923,7 +1038,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-024-e2",
           "py": "duì hái zi men lái shuō， zhè ge gù shi hěn yǒu yì si。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "对……来说",
+        "py": "duì……lái shuō",
+        "en": "For … / from …’s perspective"
+      }
     },
     {
       "id": "h4-course-025",
@@ -961,7 +1081,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-025-e2",
           "py": "zhè lǐ dōng tiān hěn lěng， wǎn shàng yóu qí lěng。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "尤其",
+        "py": "yóu qí",
+        "en": "Especially"
+      }
     },
     {
       "id": "h4-course-026",
@@ -998,7 +1123,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-026-e2",
           "py": "wǒ méi xiǎng dào tā jìng rán huì zuò zhōng guó cài。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "竟然",
+        "py": "jìng rán",
+        "en": "To one's surprise"
+      }
     },
     {
       "id": "h4-course-027",
@@ -1036,7 +1166,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-027-e2",
           "py": "jīn nián de xué shēng rén shù bǐ qù nián duō yī bèi。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "倍",
+        "py": "bèi",
+        "en": "Multiples"
+      }
     },
     {
       "id": "h4-course-028",
@@ -1071,7 +1206,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-028-e2",
           "py": "nǐ de jiàn yì hěn zhí dé kǎo lǜ。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "值得",
+        "py": "zhí de",
+        "en": "Worth doing"
+      }
     },
     {
       "id": "h4-course-029",
@@ -1110,7 +1250,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-029-e2",
           "py": "zhè lǐ yǒu liù gè xué shēng， qí zhōng yī gè shì wǒ de péng you。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "其中",
+        "py": "qí zhōng",
+        "en": "Among them"
+      }
     },
     {
       "id": "h4-course-030",
@@ -1149,7 +1294,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-030-e2",
           "py": "zài zhè zhǒng qíng kuàng xià， wǒ men xū yào nài xīn。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "（在）……下",
+        "py": "（zài）……xià",
+        "en": "Under … conditions / with … help or influence"
+      }
     },
     {
       "id": "h4-course-031",
@@ -1186,7 +1336,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-031-e2",
           "py": "tā gū jì fáng jiān lǐ yǒu èr shí gè rén。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "估计",
+        "py": "gū jì",
+        "en": "Estimate / reckon"
+      }
     },
     {
       "id": "h4-course-032",
@@ -1222,7 +1377,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-032-e2",
           "py": "wǒ lái bù jí mǎi zǎo fàn， jiù shàng chē le。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "来不及 / 来得及",
+        "py": "lái bu jí/lái de jí",
+        "en": "Not enough time to … / enough time to …"
+      }
     },
     {
       "id": "h4-course-033",
@@ -1257,7 +1417,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-033-e2",
           "py": "yǒu shí jiān wǒ men jiàn jian miàn， liáo liao tiān。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "离合词重叠",
+        "py": "lí hé cí chóng dié",
+        "en": "Repeating separable verbs"
+      }
     },
     {
       "id": "h4-course-034",
@@ -1295,7 +1460,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-034-e2",
           "py": "yào shì nǐ bù míng bai， jiù wèn lǎo shī。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "要是……就……",
+        "py": "yào shì……jiù……",
+        "en": "If …, then …"
+      }
     },
     {
       "id": "h4-course-035",
@@ -1332,7 +1502,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-035-e2",
           "py": "tā jì huì chàng gē， yě huì tiào wǔ。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "既……又/也/还……",
+        "py": "jì……yòu/yě/hái……",
+        "en": "Both … and … / also …"
+      }
     },
     {
       "id": "h4-course-036",
@@ -1369,7 +1544,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-036-e2",
           "py": "zhè jiàn shì shǐ dà jiā gǎi biàn le jì huà。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "使",
+        "py": "shǐ",
+        "en": "Cause / make"
+      }
     },
     {
       "id": "h4-course-037",
@@ -1408,7 +1588,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-037-e2",
           "py": "zhǐ yào nǐ yǒu shí jiān， jiù kě yǐ lái。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "只要……就……",
+        "py": "zhǐ yào……jiù……",
+        "en": "As long as …, then …"
+      }
     },
     {
       "id": "h4-course-038",
@@ -1443,7 +1628,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-038-e2",
           "py": "kě bù shì！ zuò dì tiě fāng biàn duō le。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "可不是",
+        "py": "kě bú shì",
+        "en": "Strong agreement"
+      }
     },
     {
       "id": "h4-course-039",
@@ -1482,7 +1672,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-039-e2",
           "py": "tā rèn zhēn fù xí le， yīn cǐ duì kǎo shì hěn yǒu xìn xīn。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "因此",
+        "py": "yīn cǐ",
+        "en": "Therefore"
+      }
     },
     {
       "id": "h4-course-040",
@@ -1518,7 +1713,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-040-e2",
           "py": "rèn zhēn tīng kè de xué shēng wǎng wǎng jìn bù bǐ jiào kuài。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "往往",
+        "py": "wǎng wǎng",
+        "en": "Often as a pattern"
+      }
     },
     {
       "id": "h4-course-041",
@@ -1555,7 +1755,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-041-e2",
           "py": "nán dào zhè jiàn shì shì wǒ de cuò ma？"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "难道……吗",
+        "py": "nán dào……ma",
+        "en": "Could it really be that …? / Isn’t it …?"
+      }
     },
     {
       "id": "h4-course-042",
@@ -1591,7 +1796,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-042-e2",
           "py": "tā yǐ jīng tōng guò le kǎo shì。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "通过",
+        "py": "tōng guò",
+        "en": "By means of / pass"
+      }
     },
     {
       "id": "h4-course-043",
@@ -1626,7 +1836,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-043-e2",
           "py": "zhè kě shì zuì hòu yī bān gōng gòng qì chē！"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "可是",
+        "py": "kě shì",
+        "en": "But / emphatic really"
+      }
     },
     {
       "id": "h4-course-044",
@@ -1664,7 +1879,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-044-e2",
           "py": "bǐ sài de jié guǒ míng tiān jiù zhī dao le。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "结果",
+        "py": "jié guǒ",
+        "en": "Result / as a result"
+      }
     },
     {
       "id": "h4-course-045",
@@ -1699,7 +1919,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-045-e2",
           "py": "qǐng zài zhè lǐ xiě shàng nǐ de míng zi。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "动词 + 上",
+        "py": "dòng cí+shàng",
+        "en": "Verb + shàng: close / attach something"
+      }
     },
     {
       "id": "h4-course-046",
@@ -1735,7 +1960,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-046-e2",
           "py": "zhè jiàn shì bù guò huā le shí fēn zhōng。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "不过",
+        "py": "bù guò",
+        "en": "However / only"
+      }
     },
     {
       "id": "h4-course-047",
@@ -1770,7 +2000,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-047-e2",
           "py": "wǒ què shí bù zhī dao tā zhù zài nǎ lǐ。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "确实",
+        "py": "què shí",
+        "en": "Indeed / really true"
+      }
     },
     {
       "id": "h4-course-048",
@@ -1809,7 +2044,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-048-e2",
           "py": "zài fù mǔ kàn lái， hái zi de jiàn kāng zuì zhòng yào。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "在……看来",
+        "py": "zài……kàn lái",
+        "en": "In …’s view / opinion"
+      }
     },
     {
       "id": "h4-course-049",
@@ -1846,7 +2086,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-049-e2",
           "py": "yóu yú tā zhǔn bèi de hěn rèn zhēn， zhè cì yǎn chū hěn chéng gōng。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "由于",
+        "py": "yóu yú",
+        "en": "Due to"
+      }
     },
     {
       "id": "h4-course-050",
@@ -1883,7 +2128,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-050-e2",
           "py": "nǐ kě yǐ dài xiē shuǐ guǒ， bǐ rú xiāng jiāo。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "比如",
+        "py": "bǐ rú",
+        "en": "For example"
+      }
     },
     {
       "id": "h4-course-051",
@@ -1922,7 +2172,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-051-e2",
           "py": "tā máng de lián shuǐ yě méi shí jiān hē。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "连……都/也……",
+        "py": "lián……dōu/yě……",
+        "en": "Even … also / still …"
+      }
     },
     {
       "id": "h4-course-052",
@@ -1961,7 +2216,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-052-e2",
           "py": "qǐng jì xià dì zhǐ， fǒu zé nǐ kě néng zhǎo bù dào。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "否则",
+        "py": "fǒu zé",
+        "en": "Otherwise"
+      }
     },
     {
       "id": "h4-course-053",
@@ -2001,7 +2261,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-053-e2",
           "py": "wú lùn tiān qì hǎo bù hǎo， tā dōu chū mén pǎo bù。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "无论……都/也……",
+        "py": "wú lùn……dōu/yě……",
+        "en": "No matter …, always / still …"
+      }
     },
     {
       "id": "h4-course-054",
@@ -2042,7 +2307,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-054-e2",
           "py": "tā dā yìng lái， rán ér zuì hòu méi yǒu chū xiàn。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "然而",
+        "py": "rán ér",
+        "en": "However"
+      }
     },
     {
       "id": "h4-course-055",
@@ -2081,7 +2351,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-055-e2",
           "py": "yùn dòng néng ràng rén fàng sōng， tóng shí yě yǒu lì yú jiàn kāng。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "同时",
+        "py": "tóng shí",
+        "en": "At the same time / also"
+      }
     },
     {
       "id": "h4-course-056",
@@ -2120,7 +2395,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-056-e2",
           "py": "zhè jiā bīn guǎn hěn gān jìng， bìng qiě jiāo tōng hěn fāng biàn。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "并且",
+        "py": "bìng qiě",
+        "en": "And furthermore"
+      }
     },
     {
       "id": "h4-course-057",
@@ -2160,7 +2440,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-057-e2",
           "py": "zhè jiàn yī fu zài pián yi， wǒ yě bù mǎi。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "再……也……",
+        "py": "zài……yě……",
+        "en": "However …, still …"
+      }
     },
     {
       "id": "h4-course-058",
@@ -2197,7 +2482,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-058-e2",
           "py": "duì yú xīn tóng xué， lǎo shī hěn yǒu nài xīn。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "对于",
+        "py": "duì yú",
+        "en": "Regarding"
+      }
     },
     {
       "id": "h4-course-059",
@@ -2232,7 +2522,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-059-e2",
           "py": "tā bǎ zhào piàn yī zhāng yī zhāng de ná chū lai。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "名量词重叠",
+        "py": "míng liàng cí chóng dié",
+        "en": "Repeating noun measure words: every single one / one after another"
+      }
     },
     {
       "id": "h4-course-060",
@@ -2269,7 +2564,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-060-e2",
           "py": "tā méi yǒu shēng qì， xiāng fǎn， hái xiào le。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "相反",
+        "py": "xiāng fǎn",
+        "en": "Opposite / on the contrary"
+      }
     },
     {
       "id": "h4-course-061",
@@ -2305,7 +2605,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-061-e2",
           "py": "tā dà gài yǐ jīng dào jiā le。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "大概",
+        "py": "dà gài",
+        "en": "Approximately / probably"
+      }
     },
     {
       "id": "h4-course-062",
@@ -2341,7 +2646,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-062-e2",
           "py": "wǒ men zhōu mò ǒu ěr yī qǐ kàn diàn yǐng。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "偶尔",
+        "py": "ǒu ěr",
+        "en": "Occasionally"
+      }
     },
     {
       "id": "h4-course-063",
@@ -2377,7 +2687,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-063-e2",
           "py": "huì yì yóu jīng lǐ fù zé。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "由",
+        "py": "yóu",
+        "en": "Responsibility / starting point"
+      }
     },
     {
       "id": "h4-course-064",
@@ -2411,7 +2726,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-064-e2",
           "py": "diào chá zhèng zài jìn xíng。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "进行",
+        "py": "jìn xíng",
+        "en": "Carry out an activity"
+      }
     },
     {
       "id": "h4-course-065",
@@ -2449,7 +2769,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-065-e2",
           "py": "suí zhe jīng yàn de zēng jiā， tā yuè lái yuè yǒu xìn xīn le。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "随着",
+        "py": "suí zhe",
+        "en": "As / along with change"
+      }
     },
     {
       "id": "h4-course-066",
@@ -2484,7 +2809,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-066-e2",
           "py": "zhè ge fáng jiān bù gòu dà。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "够",
+        "py": "gòu",
+        "en": "Enough"
+      }
     },
     {
       "id": "h4-course-067",
@@ -2521,7 +2851,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-067-e2",
           "py": "qǐng yǐ shí jì qíng kuàng wéi biāo zhǔn。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "以",
+        "py": "yǐ",
+        "en": "Using / with"
+      }
     },
     {
       "id": "h4-course-068",
@@ -2559,7 +2894,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-068-e2",
           "py": "jì rán dà jiā dōu dào le， wǒ men jiù kāi huì ba。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "既然……就……",
+        "py": "jì rán……jiù……",
+        "en": "Since …, then …"
+      }
     },
     {
       "id": "h4-course-069",
@@ -2598,7 +2938,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-069-e2",
           "py": "tā méi zhǎo dào yào shi， yú shì gěi jiā rén dǎ le diàn huà。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "于是",
+        "py": "yú shì",
+        "en": "So, and then"
+      }
     },
     {
       "id": "h4-course-070",
@@ -2634,7 +2979,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-070-e2",
           "py": "zhōu mò wǒ xǐ huan dǎ qiú shén me de。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "什么的",
+        "py": "shén me de",
+        "en": "And things like that"
+      }
     },
     {
       "id": "h4-course-071",
@@ -2670,7 +3020,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-071-e2",
           "py": "tā xiǎng qǐ yǐ qián de shì lái， xiào le。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "想起来",
+        "py": "xiǎng qǐ lái",
+        "en": "Recall"
+      }
     },
     {
       "id": "h4-course-072",
@@ -2707,7 +3062,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-072-e2",
           "py": "xiān bǎ wèn tí nòng qīng chu， zài jué dìng。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "弄",
+        "py": "nòng",
+        "en": "Do / get into a state"
+      }
     },
     {
       "id": "h4-course-073",
@@ -2744,7 +3104,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-073-e2",
           "py": "kǎo shì qián qiān wàn yào jiǎn chá míng zi。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "千万",
+        "py": "qiān wàn",
+        "en": "Be sure / by all means"
+      }
     },
     {
       "id": "h4-course-074",
@@ -2781,7 +3146,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-074-e2",
           "py": "wǒ men yòng zhè ge lì zi lái shuō míng wèn tí。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "来",
+        "py": "lái",
+        "en": "Undertake / introduce a method"
+      }
     },
     {
       "id": "h4-course-075",
@@ -2815,7 +3185,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-075-e2",
           "py": "zhè běn shū yǒu liǎng bǎi yè zuǒ yòu。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "左右",
+        "py": "zuǒ yòu",
+        "en": "Approximately"
+      }
     },
     {
       "id": "h4-course-076",
@@ -2850,7 +3225,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-076-e2",
           "py": "nǐ kě bié chí dào a。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "可",
+        "py": "kě",
+        "en": "Emphasis"
+      }
     },
     {
       "id": "h4-course-077",
@@ -2888,7 +3268,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-077-e2",
           "py": "tā jīn tiān kǒng pà bù néng lái le。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "恐怕",
+        "py": "kǒng pà",
+        "en": "I'm afraid / probably"
+      }
     },
     {
       "id": "h4-course-078",
@@ -2923,7 +3308,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-078-e2",
           "py": "wǒ jué dìng jiān chí dào dǐ。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "到底",
+        "py": "dào dǐ",
+        "en": "Really / in the end"
+      }
     },
     {
       "id": "h4-course-079",
@@ -2963,7 +3353,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-079-e2",
           "py": "ná zhè jiā diàn lái shuō， zhōu mò kè rén tè bié duō。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "拿……来说",
+        "py": "ná……lái shuō",
+        "en": "Take … as an example"
+      }
     },
     {
       "id": "h4-course-080",
@@ -2998,7 +3393,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-080-e2",
           "py": "nǐ gǎn bù gǎn shì yī xià？"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "敢",
+        "py": "gǎn",
+        "en": "Dare"
+      }
     },
     {
       "id": "h4-course-081",
@@ -3036,7 +3436,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-081-e2",
           "py": "fáng jiān dào shì hěn dà， bù guò yǒu diǎn ér chǎo。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "倒",
+        "py": "dào",
+        "en": "Unexpectedly / admittedly"
+      }
     },
     {
       "id": "h4-course-082",
@@ -3070,7 +3475,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-082-e2",
           "py": "tā zài zhè jiā gōng sī gàn le sān nián。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "干",
+        "py": "gàn",
+        "en": "Do / work"
+      }
     },
     {
       "id": "h4-course-083",
@@ -3107,7 +3517,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-083-e2",
           "py": "tā jīn tiān pǎo le liǎng tàng yī yuàn。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "趟",
+        "py": "tàng",
+        "en": "Trips"
+      }
     },
     {
       "id": "h4-course-084",
@@ -3145,7 +3560,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-084-e2",
           "py": "wǒ men wèi le bǎo hù huán jìng ér jiǎn shǎo kāi chē。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "为了……而……",
+        "py": "wèi le……ér……",
+        "en": "In order to …, do …"
+      }
     },
     {
       "id": "h4-course-085",
@@ -3184,7 +3604,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-085-e2",
           "py": "suī rán bì yè le， wǒ men réng rán jīng cháng lián xì。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "仍然",
+        "py": "réng rán",
+        "en": "Still"
+      }
     },
     {
       "id": "h4-course-086",
@@ -3221,7 +3646,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-086-e2",
           "py": "qǐng què rèn dì zhǐ shì fǒu zhèng què。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "是否",
+        "py": "shì fǒu",
+        "en": "Whether"
+      }
     },
     {
       "id": "h4-course-087",
@@ -3256,7 +3686,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-087-e2",
           "py": "wǒ shòu bù liǎo zhè me rè de tiān qì。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "受不了",
+        "py": "shòu bu liǎo",
+        "en": "Cannot stand"
+      }
     },
     {
       "id": "h4-course-088",
@@ -3293,7 +3728,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-088-e2",
           "py": "xiū xi yǐ hòu， wǒ men jiē zhe tǎo lùn。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "接着",
+        "py": "jiē zhe",
+        "en": "Next / continue"
+      }
     },
     {
       "id": "h4-course-089",
@@ -3332,7 +3772,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-089-e2",
           "py": "wǒ zhǐ qù guo běi jīng， chú cǐ yǐ wài， méi qù guo bié de chéng shì。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "除此以外",
+        "py": "chú cǐ yǐ wài",
+        "en": "Besides / apart from that"
+      }
     },
     {
       "id": "h4-course-090",
@@ -3369,7 +3814,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-090-e2",
           "py": "rén men bǎ zhè zhǒng dòng wù jiào zuò xióng māo。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "把……叫作……",
+        "py": "bǎ……jiào zuò……",
+        "en": "Call … / refer to … as …"
+      }
     },
     {
       "id": "h4-course-091",
@@ -3407,7 +3857,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-091-e2",
           "py": "shuí xiǎng cān jiā， shuí jiù lái bào míng。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "疑问代词任指",
+        "py": "yí wèn dài cí rèn zhǐ",
+        "en": "Indefinite question pronouns: anyone / anything / anywhere"
+      }
     },
     {
       "id": "h4-course-092",
@@ -3442,7 +3897,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-092-e2",
           "py": "piào mài wán le， wǒ men mǎi bù shàng le。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "动词 + 上",
+        "py": "dòng cí+shàng",
+        "en": "Verb + shàng: achieve something / get the chance to do something"
+      }
     },
     {
       "id": "h4-course-093",
@@ -3477,7 +3937,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-093-e2",
           "py": "wǒ men xiǎng chū le yī gè hǎo bàn fǎ。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "出来",
+        "py": "chū lái",
+        "en": "Recognise / produce a result"
+      }
     },
     {
       "id": "h4-course-094",
@@ -3513,7 +3978,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-094-e2",
           "py": "zǒng de lái shuō， dà jiā duì jié guǒ hěn mǎn yì。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "总的来说",
+        "py": "zǒng de lái shuō",
+        "en": "Overall"
+      }
     },
     {
       "id": "h4-course-095",
@@ -3548,7 +4018,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-095-e2",
           "py": "wèn tí zài yú wǒ men méi yǒu shí jiān。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "在于",
+        "py": "zài yú",
+        "en": "Lie in / depend on"
+      }
     },
     {
       "id": "h4-course-096",
@@ -3583,7 +4058,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-096-e2",
           "py": "hái zi tīng zhe tīng zhe， jiù shuì zháo le。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "V着V着",
+        "py": "Vzhe Vzhe",
+        "en": "As someone keeps doing …, something happens"
+      }
     },
     {
       "id": "h4-course-097",
@@ -3622,7 +4102,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-097-e2",
           "py": "tā yī jǐn zhāng， jiù shuō de tè bié kuài。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "一……就……",
+        "py": "yī……jiù……",
+        "en": "As soon as …, then … / whenever …, …"
+      }
     },
     {
       "id": "h4-course-098",
@@ -3659,7 +4144,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-098-e2",
           "py": "wǒ xiǎng zhī dao jiū jìng fā shēng le shén me shì。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "究竟",
+        "py": "jiū jìng",
+        "en": "Exactly / after all"
+      }
     },
     {
       "id": "h4-course-099",
@@ -3695,7 +4185,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-099-e2",
           "py": "zhè ge bàn fǎ tīng qǐ lai hěn bù cuò。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "起来",
+        "py": "qǐ lái",
+        "en": "Begin / seem"
+      }
     },
     {
       "id": "h4-course-100",
@@ -3730,7 +4225,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-course-100-e2",
           "py": "zhè jiā fàn guǎn bù guì， wǒ men chī de qǐ。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "V得起 / V不起",
+        "py": "Vde qǐ/Vbù qǐ",
+        "en": "Can afford to … / cannot afford to …"
+      }
     },
     {
       "id": "h4-compare-101",
@@ -3764,7 +4264,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-101-e2",
           "py": "gāng cái wǒ méi tīng qīng chu。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "刚 / 刚才",
+        "py": "gāng/gāng cái",
+        "en": "Recent action or recent time"
+      }
     },
     {
       "id": "h4-compare-102",
@@ -3799,7 +4304,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-102-e2",
           "py": "tā jī hū měi tiān dōu lái zhè lǐ。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "差不多 / 几乎",
+        "py": "chà bu duō/jī hū",
+        "en": "Approximately or nearly"
+      }
     },
     {
       "id": "h4-compare-103",
@@ -3835,7 +4345,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-103-e2",
           "py": "zhè jiā diàn guān mén le， wǒ men lìng zhǎo yī jiā ba。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "另外 / 另",
+        "py": "lìng wài/lìng",
+        "en": "Another"
+      }
     },
     {
       "id": "h4-compare-104",
@@ -3870,7 +4385,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-104-e2",
           "py": "wǒ běn lái xiǎng zǎo diǎn ér huí jiā。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "原来 / 本来",
+        "py": "yuán lái/běn lái",
+        "en": "Earlier state or discovery"
+      }
     },
     {
       "id": "h4-compare-105",
@@ -3906,7 +4426,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-105-e2",
           "py": "jīn tiān tè bié rè。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "尤其 / 特别",
+        "py": "yóu qí/tè bié",
+        "en": "Especially or very"
+      }
     },
     {
       "id": "h4-compare-106",
@@ -3940,7 +4465,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-106-e2",
           "py": "zhè běn jiù shū zhǐ zhí shí yuán。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "值得 / 值",
+        "py": "zhí de/zhí",
+        "en": "Worth doing or worth a price"
+      }
     },
     {
       "id": "h4-compare-107",
@@ -3975,7 +4505,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-107-e2",
           "py": "tā kě néng zài tú shū guǎn。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "估计 / 可能",
+        "py": "gū jì/kě néng",
+        "en": "Estimate or possibility"
+      }
     },
     {
       "id": "h4-compare-108",
@@ -4011,7 +4546,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-108-e2",
           "py": "yǐ hòu wǒ xiǎng jīng cháng lái zhè lǐ xué xí。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "往往 / 经常",
+        "py": "wǎng wǎng/jīng cháng",
+        "en": "A tendency or frequency"
+      }
     },
     {
       "id": "h4-compare-109",
@@ -4048,7 +4588,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-109-e2",
           "py": "qù xué xiào yào jīng guò yī gè gōng yuán。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "通过 / 经过",
+        "py": "tōng guò/jīng guò",
+        "en": "Method or process"
+      }
     },
     {
       "id": "h4-compare-110",
@@ -4085,7 +4630,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-110-e2",
           "py": "suī rán xià yǔ le， dàn shì bǐ sài méi yǒu qǔ xiāo。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "不过 / 但是",
+        "py": "bù guò/dàn shì",
+        "en": "Mild qualification or contrast"
+      }
     },
     {
       "id": "h4-compare-111",
@@ -4124,7 +4674,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-111-e2",
           "py": "zhè jiàn shì wǒ bù guǎn， qǐng wèn jīng lǐ。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "无论 / 不管",
+        "py": "wú lùn/bù guǎn",
+        "en": "Regardless of"
+      }
     },
     {
       "id": "h4-compare-112",
@@ -4162,7 +4717,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-112-e2",
           "py": "wǒ jiè le yī běn guān yú zhōng guó lì shǐ de shū。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "对于 / 关于",
+        "py": "duì yú/guān yú",
+        "en": "Attitude toward or topic about"
+      }
     },
     {
       "id": "h4-compare-113",
@@ -4197,7 +4757,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-113-e2",
           "py": "yě xǔ tā yǐ jīng zhī dao le。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "大概 / 也许",
+        "py": "dà gài/yě xǔ",
+        "en": "Approximation or possibility"
+      }
     },
     {
       "id": "h4-compare-114",
@@ -4237,7 +4802,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-114-e2",
           "py": "zhè lǐ jiāo tōng fāng biàn， yīn cǐ hěn duō rén yuàn yì zhù zài zhè lǐ。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "于是 / 因此",
+        "py": "yú shì/yīn cǐ",
+        "en": "Next event or logical result"
+      }
     },
     {
       "id": "h4-compare-115",
@@ -4274,7 +4844,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-115-e2",
           "py": "tā dā yìng le， yī dìng huì lái de。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "千万 / 一定",
+        "py": "qiān wàn/yí dìng",
+        "en": "Strong reminder or certainty"
+      }
     },
     {
       "id": "h4-compare-116",
@@ -4309,7 +4884,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-116-e2",
           "py": "zhè ge hái zi pà gǒu。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "恐怕 / 怕",
+        "py": "kǒng pà/pà",
+        "en": "Prediction or fear"
+      }
     },
     {
       "id": "h4-compare-117",
@@ -4344,7 +4924,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-117-e2",
           "py": "zhè bù diàn yǐng wǒ kàn guo liǎng cì。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "趟 / 次",
+        "py": "tàng/cì",
+        "en": "Journeys or occurrences"
+      }
     },
     {
       "id": "h4-compare-118",
@@ -4382,7 +4967,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-118-e2",
           "py": "wǒ xiān mǎi cài， rán hòu huí jiā zuò fàn。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "接着 / 然后",
+        "py": "jiē zhe/rán hòu",
+        "en": "Continue or then"
+      }
     },
     {
       "id": "h4-compare-119",
@@ -4418,7 +5008,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-119-e2",
           "py": "tā kàn qǐ lai hěn nián qīng。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "出来 / 起来",
+        "py": "chū lái/qǐ lái",
+        "en": "Identify or form an impression"
+      }
     },
     {
       "id": "h4-compare-120",
@@ -4454,7 +5049,12 @@ window.HSK_GRAMMAR_GUIDE = {
           "id": "h4-compare-120-e2",
           "py": "wǒ men yī dìng yào jiān chí dào dǐ。"
         }
-      ]
+      ],
+      "introduction": {
+        "zh": "究竟 / 到底",
+        "py": "jiū jìng/dào dǐ",
+        "en": "Seeking the real answer"
+      }
     },
     {
       "id": "h4-review-121",
