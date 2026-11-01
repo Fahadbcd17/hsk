@@ -1,0 +1,560 @@
+# 1|周末你有什么打算|17
+W 周末 打算 啊 跟 一直 游戏 作业 着急 复习 南方 北方 面包 带 地图 搬
+@ 18|Talking about weekend plans
+小丽：周末你有什么打算？|Xiaoli: What are your plans for the weekend?
+小刚：我早就想好了，请你吃饭、看电影、喝咖啡。|Xiaogang: I decided long ago: I will take you out for a meal, a film, and coffee.
+小丽：请我？|Xiaoli: You are treating me?
+小刚：是啊，我已经找好饭馆儿了，电影票也买好了。|Xiaogang: Yes. I have already found a restaurant and bought the cinema tickets.
+小丽：我还没想好要不要跟你去呢。|Xiaoli: I have not decided whether I want to go with you yet.
+@ 18|At home
+妈妈：你一直玩儿电脑游戏，作业写完了吗？|Mother: You keep playing computer games. Have you finished your homework?
+儿子：都写完了。|Son: I have finished all of it.
+妈妈：明天不是有考试吗？你怎么一点儿也不着急？|Mother: Don't you have an exam tomorrow? Why aren't you worried at all?
+儿子：我早就复习好了。|Son: I finished reviewing long ago.
+妈妈：那也不能一直玩儿啊。|Mother: Even so, you cannot keep playing all the time.
+@ 18|Talking about travel plans
+小丽：下个月我去旅游，你能跟我一起去吗？|Xiaoli: I am going traveling next month. Can you come with me?
+小刚：我还没想好呢。你觉得哪儿最好玩儿？|Xiaogang: I have not decided yet. Where do you think would be the most fun?
+小丽：南方啊，我们去年就是这个时候去的。|Xiaoli: The south. We went at exactly this time last year.
+小刚：南方太热了，北方好一些，不冷也不热。|Xiaogang: The south is too hot. The north is better: neither cold nor hot.
+@ 19|Preparing for the trip
+小刚：水果、面包、茶都准备好了，我们还带什么？|Xiaogang: The fruit, bread, and tea are all ready. What else should we take?
+小丽：手机、电脑、地图，一个也不能少。|Xiaoli: Our phones, computers, and a map. We cannot leave any of them out.
+小刚：这些我昨天下午就准备好了。|Xiaogang: I got all those ready yesterday afternoon.
+小丽：再多带几件衣服吧。|Xiaoli: Take a few more clothes too.
+小刚：我们是去旅游，不是搬家，还是少带一些吧。|Xiaogang: We are going traveling, not moving house. We had better take less.
+# 2|他什么时候回来|27
+W 腿 疼 脚 树 容易 难 太太 秘书 经理 办公室 辆 楼 拿 把 伞 胖 其实 瘦
+@ 28|On the way down the mountain
+小丽：休息一下吧。|Xiaoli: Let us take a break.
+小刚：怎么了？|Xiaogang: What is wrong?
+小丽：我现在腿也疼，脚也疼。|Xiaoli: My legs and feet both hurt now.
+小刚：好，那边树多，我们过去坐一下吧。|Xiaogang: All right. There are lots of trees over there. Let us go and sit down for a while.
+小丽：上来的时候我怎么没觉得这么累？|Xiaoli: Why didn't I feel this tired on the way up?
+小刚：上山容易下山难，你不知道？|Xiaogang: Going up a mountain is easy, but coming down is hard. Didn't you know?
+@ 28|On the phone
+周太太：喂，你好，请问周明在吗？|Mrs. Zhou: Hello. May I speak to Zhou Ming?
+秘书：周经理出去了，不在办公室。|Secretary: Manager Zhou has gone out. He is not in the office.
+周太太：他去哪儿了？什么时候回来？|Mrs. Zhou: Where has he gone? When will he be back?
+秘书：他出去办事了，下午回来。|Secretary: He went out on business and will be back this afternoon.
+周太太：回来了就让他给我打个电话。|Mrs. Zhou: Please ask him to call me as soon as he gets back.
+秘书：好的，他到了办公室我就告诉他。|Secretary: Certainly. I will tell him as soon as he arrives at the office.
+@ 28|Seeing a friend off at the building entrance
+小刚：雨下得真大。你怎么回去？我送你吧。|Xiaogang: It is raining really hard. How are you getting home? Let me take you.
+小丽：没事，我出去叫辆出租车就行了。|Xiaoli: It is all right. I can just go out and get a taxi.
+小刚：那你等等，我上楼去给你拿把伞。|Xiaogang: Wait a moment, then. I will go upstairs and get you an umbrella.
+小丽：好的。我跟你一起上去吧。|Xiaoli: All right. I will go upstairs with you.
+小刚：你在这儿等吧，我拿了伞就下来。|Xiaogang: Wait here. I will come down as soon as I get the umbrella.
+@ 29|At home
+周太太：你看，我这么胖，怎么办呢？|Mrs. Zhou: Look how fat I am. What should I do?
+周明：你每天晚上吃了饭就睡觉，也不出去走走，能不胖吗？|Zhou Ming: You go to sleep right after dinner every evening and never go out for a walk. How could you not put on weight?
+周太太：其实我每天都运动。|Mrs. Zhou: Actually, I exercise every day.
+周明：但是你一点儿也没瘦！你做什么运动了？|Zhou Ming: But you have not lost any weight at all! What exercise do you do?
+周太太：做饭啊。|Mrs. Zhou: Cooking!
+# 3|桌子上放着很多饮料|36
+W 还是 爬山 小心 条 裤子 记得 衬衫 元 新鲜 甜 只 放 饮料 或者 舒服 花 绿
+@ 37|At Xiaoli's home
+小刚：明天是晴天还是阴天？|Xiaogang: Will it be sunny or cloudy tomorrow?
+小丽：阴天，电视上说多云。怎么了？有事？|Xiaoli: Cloudy. The television forecast said there would be a lot of clouds. Why? Is something happening?
+小刚：没事，我们明天要去爬山。|Xiaogang: Nothing special. We are going hiking tomorrow.
+小丽：爬山的时候要小心点儿。|Xiaoli: Be careful when you go hiking.
+小刚：好，你也去吗？|Xiaogang: All right. Are you coming too?
+小丽：我不去，我有事。|Xiaoli: No, I have something to do.
+@ 37|In a shopping mall
+周太太：你觉得这条裤子怎么样？|Mrs. Zhou: What do you think of these trousers?
+周明：我记得你已经有两条这样的裤子了。|Zhou Ming: I remember that you already have two pairs like these.
+周太太：那我们再看看别的。|Mrs. Zhou: Let us look at something else, then.
+周明：这件衬衫怎么样？|Zhou Ming: How about this shirt?
+周太太：还不错，多少钱？|Mrs. Zhou: It is quite nice. How much is it?
+周明：这上面写着320元。|Zhou Ming: It says 320 yuan here.
+周太太：买一件。|Mrs. Zhou: Let us buy one.
+@ 37|In a fruit shop
+周太太：这些水果真新鲜，我们买西瓜还是苹果？|Mrs. Zhou: This fruit is really fresh. Shall we buy watermelon or apples?
+周明：西瓜吧。你看，这上面写着“西瓜不甜不要钱”。|Zhou Ming: Watermelon. Look, it says, “If the watermelon is not sweet, it is free.”
+周太太：那我们买一个大点儿的吧。|Mrs. Zhou: Let us buy a bigger one, then.
+周明：再买几个苹果。|Zhou Ming: Let us get a few apples too.
+周太太：好啊，今天晚上只吃水果不吃饭！|Mrs. Zhou: Good idea. Tonight we will eat only fruit, without a meal!
+@ 38|In the lounge
+小丽：桌子上放着很多饮料，你喝什么？|Xiaoli: There are lots of drinks on the table. What would you like?
+小刚：茶或者咖啡都可以。你呢？你喝什么？|Xiaogang: Tea or coffee is fine. What about you? What are you having?
+小丽：我喝茶，茶是我的最爱。天冷了或者工作累了的时候，喝杯热茶会很舒服。|Xiaoli: Tea. It is my favorite. When it is cold or I am tired from work, a cup of hot tea feels very comforting.
+小刚：你喜欢喝什么茶？|Xiaogang: What kind of tea do you like?
+小丽：花茶、绿茶、红茶，我都喜欢。|Xiaoli: I like flower tea, green tea, and black tea.
+# 4|她总是笑着跟客人说话|45
+W 比赛 照片 年级 又 聪明 热情 努力 总是 回答 站 饿 超市 蛋糕 年轻 认真 客人
+@ 46|In the classroom
+小明：这是你们比赛的照片吗？|Xiaoming: Is this a photo from your match?
+马可：是，这是我们比赛后照的。|Marco: Yes. We took it after the match.
+小明：照得不错，你们都是一个年级的吗？|Xiaoming: It is a nice photo. Are you all in the same grade?
+马可：不是。那个又高又漂亮的女孩儿是二年级的。|Marco: No. That tall, pretty girl is in the second grade.
+小明：旁边那个拿着书笑的人是谁？|Xiaoming: Who is the smiling person holding a book beside her?
+马可：那是我！|Marco: That is me!
+@ 46|In the classroom
+小丽：你觉得小红怎么样？|Xiaoli: What do you think of Xiaohong?
+同学：她又聪明又热情，也很努力。|Classmate: She is both smart and friendly, and she works hard too.
+小丽：我看她总是笑着回答老师的问题。|Xiaoli: I see that she always smiles when answering the teacher's questions.
+同学：她对每个人都笑，也常常对我笑。|Classmate: She smiles at everyone, and often at me too.
+小丽：你是不是喜欢她啊？|Xiaoli: Do you like her?
+同学：喜欢她的人太多了，你看那些拿着鲜花站在门口的，都是等她的。|Classmate: Lots of people like her. Look at those people standing at the door holding flowers. They are all waiting for her.
+@ 46|At the supermarket entrance
+小刚：我有点儿饿了，我们进超市买点儿东西吧。|Xiaogang: I am a little hungry. Let us go into the supermarket and get something.
+小丽：好啊，这家超市的蛋糕又便宜又好吃，一块只要2.99元。|Xiaoli: Good idea. The cakes here are cheap and delicious. One piece costs only 2.99 yuan.
+小刚：我们买两块，回家吃着蛋糕看电视，怎么样？|Xiaogang: Let us buy two pieces and eat cake while watching television at home. How does that sound?
+小丽：好啊，我再去买一些喝的。|Xiaoli: Great. I will get something to drink too.
+小刚：喝着咖啡吃蛋糕，太好了！|Xiaogang: Coffee and cake together. Wonderful!
+@ 47|In a restaurant
+经理：您好！您找谁？|Manager: Hello! Who are you looking for?
+客人：你们这儿是不是有一个又年轻又漂亮的服务员？|Customer: Do you have a waitress here who is both young and pretty?
+经理：我们这儿年轻、漂亮的服务员有很多。|Manager: We have lots of young, pretty waitresses here.
+客人：她工作又认真又热情。|Customer: She is conscientious and enthusiastic at work.
+经理：您能再说说吗？|Manager: Could you tell me more?
+客人：她总是笑着跟客人说话。|Customer: She always smiles when talking to customers.
+经理：啊，我知道了，你说的是李小美吧？|Manager: Ah, I know. You mean Li Xiaomei, right?
+# 5|我最近越来越胖了|53
+W 发烧 为 照顾 用 感冒 季节 当然 春天 草 夏天 裙子 最近 越
+@ 54|At Xiaoli's home
+朋友：我听说你身体不舒服，怎么了？|Friend: I heard you were not feeling well. What happened?
+小丽：前几天有点儿发烧，现在好多了。|Xiaoli: I had a slight fever a few days ago, but I am much better now.
+朋友：喝杯茶吧，这是我为你买的绿茶，很不错。|Friend: Have some tea. This is the green tea I bought for you. It is very good.
+小丽：谢谢，我要吃药，不喝茶了。|Xiaoli: Thank you, but I need to take medicine, so I will not have tea.
+朋友：那喝杯水吧。|Friend: Have some water, then.
+小丽：好的。|Xiaoli: All right.
+@ 54|On the phone
+周太太：对不起，我明天不能和你们出去玩儿了。|Mrs. Zhou: Sorry, I cannot go out with you tomorrow after all.
+张太太：为什么？怎么了？|Mrs. Zhang: Why? What happened?
+周太太：我儿子生病了，我要在家照顾他。|Mrs. Zhou: My son is ill. I need to stay home and look after him.
+张太太：他吃药了吗？要不要去医院？|Mrs. Zhang: Has he taken any medicine? Does he need to go to hospital?
+周太太：不用去医院，昨天吃了感冒药，现在好一些了。|Mrs. Zhou: He does not need to go to hospital. He took cold medicine yesterday and is a little better now.
+张太太：那我们下次再一起出去玩儿吧。|Mrs. Zhang: Let us go out together another time, then.
+@ 54|At Xiaogang's home
+小丽：你最喜欢哪个季节？|Xiaoli: Which season do you like best?
+小刚：当然是春天，天气不那么冷了，草和树都绿了，花也开了。|Xiaogang: Spring, of course. The weather is not so cold, the grass and trees turn green, and the flowers bloom.
+小丽：我最喜欢夏天，因为我可以穿漂亮的裙子了。|Xiaoli: I like summer best because I can wear pretty skirts.
+小刚：那我也喜欢夏天了。|Xiaogang: Then I like summer now too.
+小丽：怎么？你也有漂亮的裙子？|Xiaoli: Why? Do you have pretty skirts too?
+小刚：不，我喜欢看你穿漂亮的裙子。|Xiaogang: No. I like seeing you in pretty skirts.
+@ 55|At Xiaogang's home
+小丽：我最近越来越胖了。|Xiaoli: I have been getting fatter and fatter lately.
+小刚：谁说的？我觉得你越来越漂亮了。|Xiaogang: Who says so? I think you are getting prettier and prettier.
+小丽：你看，这条裙子是去年买的，今年就不能穿了。|Xiaoli: Look, I bought this skirt last year, and this year I cannot wear it anymore.
+小刚：那是因为你吃得太多了，少吃点儿吧。|Xiaogang: That is because you eat too much. Eat a little less.
+小丽：我做的饭越来越好吃，我能少吃吗？|Xiaoli: My cooking keeps getting better. How can I eat less?
+# 6|怎么突然找不到了|62
+W 眼镜 突然 离开 清楚 刚才 帮忙 特别 讲 明白 锻炼 音乐 公园 聊天儿 睡着 更
+@ 63|In the living room
+周明：我的眼镜呢？怎么突然找不到了？你看见了吗？|Zhou Ming: Where are my glasses? Why can't I find them all of a sudden? Have you seen them?
+周太太：我没看见啊。|Mrs. Zhou: I have not seen them.
+周明：我离不开眼镜，没有眼镜，我一个字也看不清楚。|Zhou Ming: I cannot do without my glasses. Without them, I cannot see a single character clearly.
+周太太：你去房间找找，是不是刚才放在桌子上了？|Mrs. Zhou: Go and look in the bedroom. Didn't you put them on the desk just now?
+周明：我怎么看得到啊？你快过来帮忙啊。|Zhou Ming: How can I see them? Come and help me quickly.
+周太太：好吧，我帮你去找找。|Mrs. Zhou: All right. I will help you look.
+@ 63|On the phone
+同学：今天的作业你做完了吗？|Classmate: Have you finished today's homework?
+儿子：刚做完，你呢？|Son: I have just finished. What about you?
+同学：今天这些题特别难，我看不懂，不会做，你能帮我吗？|Classmate: Today's questions are especially difficult. I cannot understand them and do not know how to answer them. Can you help me?
+儿子：电话里讲不明白，你来我家吧，我给你讲讲。|Son: I cannot explain it clearly over the phone. Come to my home and I will explain it to you.
+同学：好啊，我锻炼完了就过去。|Classmate: Great. I will come over as soon as I finish exercising.
+@ 63|In the lounge
+同事：你怎么有点儿不高兴？|Colleague: Why do you seem a little unhappy?
+小刚：我想请小丽吃饭，但是找不到好饭馆儿。|Xiaogang: I want to take Xiaoli out for a meal, but I cannot find a good restaurant.
+同事：那你请她听音乐会吧，她喜欢听音乐。|Colleague: Take her to a concert, then. She likes listening to music.
+小刚：音乐会人太多，买不到票。|Xiaogang: Too many people want to go to the concert. I cannot get tickets.
+同事：那去公园走走，聊聊天儿吧。|Colleague: Then go for a walk in the park and have a chat.
+小刚：公园太大，多累啊。|Xiaogang: The park is so big. That would be tiring.
+@ 64|In the living room
+周太太：你怎么还喝咖啡？|Mrs. Zhou: Why are you still drinking coffee?
+周明：怎么了？|Zhou Ming: What is wrong?
+周太太：你不是说晚上睡不着觉吗？|Mrs. Zhou: Didn't you say you could not sleep at night?
+周明：没事，我只喝一杯。|Zhou Ming: It is all right. I am only having one cup.
+周太太：你还是喝杯牛奶吧，可以睡得更好些。|Mrs. Zhou: You had better have a glass of milk. It will help you sleep better.
+周明：好吧，牛奶呢？|Zhou Ming: All right. Where is the milk?
+周太太：还没买呢。|Mrs. Zhou: I have not bought any yet.
+# 7|我跟她都认识五年了|71
+W 同事 以前 银行 久 感兴趣 结婚 欢迎 迟到 半 接 刻 差
+@ 72|In the office
+同事：那个漂亮的新同事是谁？|Colleague: Who is that pretty new colleague?
+小刚：那是小丽。|Xiaogang: That is Xiaoli.
+同事：她刚来北京吗？|Colleague: Has she just arrived in Beijing?
+小刚：不，她在北京工作三年了。|Xiaogang: No. She has been working in Beijing for three years.
+同事：以前她在哪儿工作？|Colleague: Where did she work before?
+小刚：她在银行工作了两年以后来的我们公司。|Xiaogang: She came to our company after working at a bank for two years.
+@ 72|In the lounge
+同事：周末你跟小丽去哪儿玩儿了？|Colleague: Where did you go with Xiaoli at the weekend?
+小刚：我们去唱歌了。|Xiaogang: We went singing.
+同事：你们唱了多久？|Colleague: How long did you sing for?
+小刚：我们唱了两个小时歌，晚上还去听音乐会了。|Xiaogang: We sang for two hours and went to a concert in the evening too.
+同事：你们都对音乐感兴趣吗？|Colleague: Are you both interested in music?
+小刚：她对音乐感兴趣，我对她更感兴趣。|Xiaogang: She is interested in music. I am more interested in her.
+@ 72|In the lounge
+小刚：我跟小丽下个月结婚，到时候欢迎你来。|Xiaogang: Xiaoli and I are getting married next month. You are welcome to come.
+同事：什么？结婚？|Colleague: What? Getting married?
+小刚：对啊，突然吗？|Xiaogang: Yes. Is that a surprise?
+同事：你们不是刚认识吗？|Colleague: Didn't you just meet?
+小刚：我跟她都认识五年了。|Xiaogang: I have known her for five years already.
+同事：你跟她结婚，那我怎么办啊？|Colleague: If you marry her, what am I going to do?
+@ 73|At the company entrance
+小丽：你看看手表，怎么迟到了？|Xiaoli: Look at your watch. Why are you late?
+小刚：没迟到啊。|Xiaogang: I am not late.
+小丽：你不是说七点半来接我吗？你迟到了一刻钟。|Xiaoli: Didn't you say you would pick me up at half past seven? You are a quarter of an hour late.
+小刚：现在不是七点半吗？|Xiaogang: Isn't it half past seven now?
+小丽：已经差一刻八点了！我都在这儿坐了半个小时了。|Xiaoli: It is already a quarter to eight! I have been sitting here for half an hour.
+小刚：不是我迟到了，是你的表快了一刻钟。|Xiaogang: I am not late. Your watch is a quarter of an hour fast.
+# 8|你去哪儿我就去哪儿|80
+W 又 满意 电梯 层 害怕 熊猫 见面 安静 可乐 一会儿 马上 洗手间 老 几乎 变化 健康 重要
+@ 81|In the lounge
+同事：听说你最近打算买房子？|Colleague: I hear you are planning to buy a home soon.
+小丽：是，昨天去看了看，今天又去看了看，明天还要再去看看。|Xiaoli: Yes. I looked at some yesterday, looked again today, and will go and look again tomorrow.
+同事：都不满意吗？|Colleague: Are you unhappy with all of them?
+小丽：一个没有电梯，不方便。一个有电梯，但是在二十层。|Xiaoli: One has no lift, which is inconvenient. Another has a lift, but it is on the twentieth floor.
+同事：二十层怎么了？|Colleague: What is wrong with the twentieth floor?
+小丽：太高了，往下看多害怕啊！|Xiaoli: It is too high. Looking down is so frightening!
+@ 81|At school
+小明：听说你下个星期就要回国了？|Xiaoming: I hear you are going back to your country next week.
+马可：是啊，真不想离开北京。|Marco: Yes. I really do not want to leave Beijing.
+小明：我下星期不在北京，不能去机场送你了。|Xiaoming: I will not be in Beijing next week, so I cannot see you off at the airport.
+马可：没关系，你忙吧。|Marco: It is all right. Take care of what you need to do.
+小明：这个小熊猫送给你，欢迎你以后再到中国来。|Xiaoming: This little panda is for you. You are welcome to come back to China.
+马可：谢谢。希望以后能再见面。|Marco: Thank you. I hope we can meet again in the future.
+@ 81|In a café
+小丽：小刚，我们坐哪儿？|Xiaoli: Xiaogang, where shall we sit?
+小刚：你坐哪儿我就坐哪儿。|Xiaogang: I will sit wherever you sit.
+小丽：坐这儿吧，这儿安静。你想喝什么饮料？|Xiaoli: Let us sit here. It is quiet. What would you like to drink?
+小刚：你喝什么我就喝什么。|Xiaogang: I will have whatever you have.
+小丽：喝可乐吧。你等我一会儿，我马上回来。|Xiaoli: Let us have cola. Wait a moment. I will be right back.
+小刚：小丽，你去哪儿？你去哪儿我就去哪儿。|Xiaogang: Xiaoli, where are you going? I will go wherever you go.
+小丽：我去洗手间。|Xiaoli: I am going to the restroom.
+@ 82|At Zhou Ming's home
+老同学：快五年了，你几乎没变化。|Old classmate: It has been almost five years, and you have hardly changed.
+周太太：谁说的？我胖了，以前的衣服都不能穿了。|Mrs. Zhou: Who says so? I have put on weight. My old clothes no longer fit.
+老同学：健康最重要，胖瘦没关系。|Old classmate: Health is what matters most. It does not matter whether you are fat or thin.
+周太太：是啊，想吃什么就吃什么。|Mrs. Zhou: Yes. Eat whatever you want.
+老同学：你做饭还是周明做饭？|Old classmate: Do you cook, or does Zhou Ming?
+周太太：我做，我想吃什么就做什么，想吃多少就做多少。|Mrs. Zhou: I do. I cook whatever I want, and as much as I want.
+# 9|她的汉语说得跟中国人一样好|88
+W 中文 班 一样 最后 放心 一定 担心 比较 了解 先 中间 参加 影响
+@ 89|In the classroom
+大山：马可，你的中文越说越好了！|Dashan: Marco, your Chinese is getting better and better!
+马可：哪里哪里，我们班王静说得更好。|Marco: You are too kind. Wang Jing in our class speaks it even better.
+大山：怎么好？|Dashan: How good is she?
+马可：她的汉语说得跟中国人一样好。|Marco: She speaks Chinese as well as a Chinese person.
+大山：王静？我怎么没听说过这个名字？|Dashan: Wang Jing? Why haven't I heard that name before?
+马可：她是我们的汉语老师。|Marco: She is our Chinese teacher.
+@ 89|In the cake shop
+小丽：别吃了，你已经吃了三块蛋糕了。|Xiaoli: Stop eating. You have already had three pieces of cake.
+小刚：这是最后一块。|Xiaogang: This is the last piece.
+小丽：你总是吃甜的东西，会越吃越胖。|Xiaoli: You are always eating sweet things. The more you eat, the fatter you will get.
+小刚：你放心，我一定不会变胖。|Xiaogang: Don't worry. I definitely will not get fat.
+小丽：为什么？|Xiaoli: Why not?
+小刚：我们家的人都很瘦，吃不胖。|Xiaogang: Everyone in my family is thin. We do not put on weight from eating.
+@ 89|On the mountain
+小丽：我有点儿害怕。|Xiaoli: I am a little scared.
+小刚：怎么了？|Xiaogang: What is wrong?
+小丽：山越高，路越难走。我也越爬越冷。|Xiaoli: The higher the mountain, the harder the path gets. I also feel colder the farther up I climb.
+小刚：不用担心，有我呢，我对这儿比较了解。|Xiaogang: Don't worry. I am here, and I know this place fairly well.
+小丽：那我们先休息一下，一会儿再爬。|Xiaoli: Let us take a break first and climb some more later.
+小刚：好，一会儿我们可以从中间这条路上去。|Xiaogang: All right. Later we can take this middle path up.
+@ 90|At Xiaoming's home
+同学：小明，你的眼睛怎么跟大熊猫一样了？|Classmate: Xiaoming, why do your eyes look like a giant panda's?
+小明：我这几天脚疼，没休息好。|Xiaoming: My foot has been hurting these last few days, and I have not slept well.
+同学：去医院了吗？医生说什么？|Classmate: Have you been to hospital? What did the doctor say?
+小明：他让我多休息。休息得越多，好得越快。|Xiaoming: He told me to rest more. The more I rest, the faster I will get better.
+同学：下个月的篮球比赛，你能参加吗？|Classmate: Can you take part in next month's basketball match?
+小明：一定能参加，一点儿影响也没有。|Xiaoming: Definitely. It will not affect me at all.
+# 10|数学比历史难多了|97
+W 个子 矮 历史 体育 数学 方便 自行车 骑 旧 换 地方 中介 主要 环境 附近
+@ 98|In the classroom
+朋友：大山，你和马可谁个子高？|Friend: Dashan, who is taller, you or Marco?
+大山：马可比我高，我比马可矮一点儿。|Dashan: Marco is taller than me. I am a little shorter than him.
+朋友：那你们谁大？|Friend: Which of you is older?
+大山：我比马可大两岁。|Dashan: I am two years older than Marco.
+朋友：你们谁的汉语说得更好？|Friend: Which of you speaks Chinese better?
+大山：马可比我说得好一些，我的汉语没有他好。|Dashan: Marco speaks it a little better than me. My Chinese is not as good as his.
+@ 98|In the classroom
+小明：我喜欢历史课、体育课，不喜欢数学课。|Xiaoming: I like history and P.E., but I do not like maths.
+同学：为什么？数学也很有意思啊。|Classmate: Why? Maths is interesting too.
+小明：我觉得数学比历史难多了，我听不懂。|Xiaoming: I think maths is much harder than history. I cannot understand it in class.
+同学：别担心，我可以帮你。|Classmate: Don't worry. I can help you.
+小明：好啊，我们每天学多长时间？|Xiaoming: Great. How long should we study each day?
+同学：一两个小时吧。|Classmate: One or two hours.
+@ 98|In the lounge
+同事：你最近比以前来得早多了，搬家了？|Colleague: You have been arriving much earlier lately. Have you moved?
+小丽：是啊，你不知道？我上个月就搬家了，走路二十分钟就到。|Xiaoli: Yes. Didn't you know? I moved last month. It is only a twenty-minute walk here.
+同事：那很方便啊。|Colleague: That is very convenient.
+小丽：我还打算买辆自行车，骑车七八分钟就能到。|Xiaoli: I also plan to buy a bicycle. Then I can get here in seven or eight minutes.
+同事：你不是有一辆吗？|Colleague: Don't you already have one?
+小丽：那辆太旧了，要换一辆，很便宜，两三百块钱。|Xiaoli: That one is too old. I want to replace it. They are quite cheap, two or three hundred yuan.
+@ 99|Looking at apartments
+大山：这两个地方的房子一样吗？|Dashan: Are the apartments in these two places the same?
+中介：不一样。您看，学校外边的房子比学校里边的大一些。|Agent: No. Look, the apartments outside the school are a little larger than those inside.
+大山：大小没关系，主要是环境，哪个更安静？|Dashan: Size does not matter. The main thing is the surroundings. Which is quieter?
+中介：学校里边的没有学校外边的那么安静。|Agent: The ones inside the school are not as quiet as those outside.
+大山：哪个方便一些呢？|Dashan: Which is more convenient?
+中介：学校里边比学校外边方便，附近有三四个车站。|Agent: The ones inside are more convenient. There are three or four bus stops nearby.
+# 11|别忘了把空调关了|106
+W 图书馆 借 词典 还 灯 会议 结束 忘记 空调 关 地铁 双 筷子 啤酒 口 瓶子 笔记本电脑 电子邮件 习惯
+@ 107|In the classroom
+小明：我先走了。|Xiaoming: I am leaving now.
+同学：你去哪儿？|Classmate: Where are you going?
+小明：我去图书馆借本书。|Xiaoming: I am going to the library to borrow a book.
+同学：帮我把这本词典还了吧。|Classmate: Please return this dictionary for me.
+小明：好，等一会儿你离开教室的时候，记得把灯关了。|Xiaoming: All right. Remember to turn off the lights when you leave the classroom later.
+同学：好的，放心吧。|Classmate: All right. Don't worry.
+@ 107|In the meeting room
+周明：会议结束后，别忘记把空调关了。|Zhou Ming: Don't forget to turn off the air conditioner after the meeting.
+小丽：好的。王经理两点左右来了个电话。|Xiaoli: All right. Manager Wang called at about two.
+周明：他已经到北京了？|Zhou Ming: Has he arrived in Beijing already?
+小丽：是的，他正坐地铁来我们公司呢。|Xiaoli: Yes. He is taking the subway to our company now.
+周明：等他到了就告诉我。|Zhou Ming: Let me know when he arrives.
+@ 107|In the living room
+妈妈：还差一双筷子，你去拿一下。|Mother: We still need one pair of chopsticks. Please get them.
+儿子：今天怎么做了这么多菜？|Son: Why have you made so many dishes today?
+妈妈：今天是你爸爸的生日。|Mother: It is your father's birthday today.
+儿子：真的啊？我把爸爸的生日忘了。那我们今天喝点儿啤酒吧。|Son: Really? I forgot Dad's birthday. Let us have some beer today, then.
+妈妈：医生说你爸爸一口酒都不能喝，别让他看见酒瓶子。|Mother: The doctor said your father must not drink even a sip of alcohol. Don't let him see the beer bottles.
+@ 108|Computers in daily life
+这个笔记本电脑我去年买的时候要五千块左右，现在便宜多了。|This laptop cost about five thousand yuan when I bought it last year. It is much cheaper now.
+我想把这个电脑卖了，再买一个更好的。|I want to sell this computer and buy a better one.
+现在我每天起床后的第一件事就是打开电脑，看电子邮件。|Now the first thing I do after getting up each day is turn on my computer and check my email.
+我已经很少写信，也很少用笔写字，已经习惯用电脑来学习和工作了。|I rarely write letters or write by hand anymore. I have become used to studying and working on a computer.
+哪一天突然没有了电脑，我们怎么办呢？|What would we do if one day we suddenly had no computers?
+# 12|把重要的东西放在我这儿吧|114
+W 太阳 西 生气 行李箱 自己 包 发现 护照 起飞 司机 教 画 需要 黑板
+@ 115|At home
+小丽：今天太阳从西边出来了吗？|Xiaoli: Did the sun rise in the west today?
+小刚：怎么了？|Xiaogang: What is wrong?
+小丽：你怎么这么早就要睡觉了？以前都要12点以后才睡觉。|Xiaoli: Why are you going to bed so early? You used to stay up until after midnight.
+小刚：我明天8点就要到公司。|Xiaogang: I have to be at the office by eight tomorrow.
+小丽：有事吗？|Xiaoli: Is something happening?
+小刚：经理生气了，他告诉我，明天8点不到，以后就别来了。|Xiaogang: The manager got angry. He told me that if I am not there by eight tomorrow, I need not come back at all.
+@ 115|At home
+小刚：我要跟周经理去外地办事，明天的飞机。|Xiaogang: I am going out of town on business with Manager Zhou. Our flight is tomorrow.
+小丽：那我帮你把衣服放到行李箱里吧。什么时候回来？|Xiaoli: Let me pack your clothes in the suitcase, then. When will you be back?
+小刚：一个星期就回来。|Xiaogang: I will be back in just a week.
+小丽：啊？一个星期以后才回来？|Xiaoli: What? Not until a week later?
+小刚：你要自己照顾好自己，我已经给你准备好吃的和喝的了。|Xiaogang: You need to look after yourself. I have already prepared food and drinks for you.
+小丽：好吧。我已经把我的照片放在你的包里了。|Xiaoli: All right. I have already put my photo in your bag.
+@ 115|At the airport
+周明：你怎么才来？|Zhou Ming: Why have you only just arrived?
+小刚：对不起，周经理，来机场的路上我才发现忘带护照了。|Xiaogang: Sorry, Manager Zhou. On the way to the airport, I realized that I had forgotten my passport.
+周明：快点吧，飞机就要起飞了。|Zhou Ming: Hurry up. The plane is about to take off.
+小刚：您有钱吗？司机把我送到机场的时候，我才发现忘记带钱包了。|Xiaogang: Do you have any money? When the driver dropped me off at the airport, I realized I had forgotten my wallet.
+周明：我看你还是把重要的东西放在我这儿吧。|Zhou Ming: I think you had better leave the important things with me.
+@ 116|An art teacher's classroom
+我是一个中学老师，教学生画画儿。|I am a secondary-school teacher, and I teach students to draw.
+每次下课前，我都会把下次学生需要带的东西写在黑板上，但是每次上课时，总会有学生忘了拿铅笔，所以我有点儿生气，不是因为他们没带铅笔，是因为他们没有好的学习习惯。|Before every class ends, I write on the blackboard what students need to bring next time. Yet in every lesson, someone forgets a pencil. I feel a little angry, not because they have no pencils, but because they have not developed good study habits.
+# 13|我是走回来的|123
+W 终于 爷爷 礼物 奶奶 遇到 一边 过去 一般 愿意 起来 应该 生活 校长 坏 经常
+@ 124|At home
+小丽：你终于回来了！从哪儿买回来这么多东西啊？|Xiaoli: You are finally back! Where did you buy all these things?
+小刚：都是从那边的商店买回来的。|Xiaogang: I bought them all at that shop over there.
+小丽：怎么还买红酒回来了？谁喝啊？|Xiaoli: Why did you buy red wine too? Who is it for?
+小刚：这是给爷爷的礼物，明天我们一起送过去，看看爷爷奶奶。|Xiaogang: It is a gift for Grandpa. Let us take it over tomorrow and visit my grandparents.
+小丽：那我的礼物呢？快拿出来让我看看。|Xiaoli: What about my gift? Take it out and show me.
+小刚：我不是已经回来了吗？|Xiaogang: Haven't I already come back?
+@ 124|At home
+小丽：我今天看见你和一个女的进了咖啡店，她是谁啊？|Xiaoli: I saw you going into a café with a woman today. Who was she?
+小刚：她是我今天在路上遇到的一个老同学。|Xiaogang: An old classmate I ran into on the street today.
+小丽：你们就一起去喝咖啡了？|Xiaoli: So you went for coffee together?
+小刚：是啊，一边喝咖啡一边说了些过去的事。|Xiaogang: Yes. We talked about old times over coffee.
+小丽：你回来的这么晚，是说了很多过去的事吗？|Xiaoli: You came back so late. Did you talk about a lot of old times?
+小刚：不是。没有公共汽车了，我是走回来的。|Xiaogang: No. There were no more buses, so I walked home.
+@ 124|On the phone
+同事：小丽，周末你一般跟小刚出去看电影吗？|Colleague: Xiaoli, do you usually go out to the cinema with Xiaogang at weekends?
+小丽：我很少去电影院看电影，我更愿意在家看电视。|Xiaoli: I rarely go to the cinema. I prefer watching television at home.
+同事：看电视有什么意思啊？|Colleague: What is so interesting about watching television?
+小丽：可以一边吃一边看，坐久了还可以站起来休息一会儿。|Xiaoli: You can eat while watching, and if you sit too long, you can get up and take a break.
+同事：你应该多出去走走，这样你们的生活会更有意思。|Colleague: You should go out more. Your life together would be more interesting.
+小丽：有他在，我的生活已经很有意思了。|Xiaoli: With him around, my life is already very interesting.
+@ 125|Life with a busy headmaster
+刚结婚的时候，我丈夫是中学老师，他喜欢每天早上起床后，一边吃早饭一边看报纸。|When we first married, my husband was a secondary-school teacher. He liked reading the newspaper over breakfast every morning.
+十年过去了，现在他已经是校长了，因为太忙，每天早上我起床后都看不到他，晚上很晚他才回到家。|Ten years have passed, and he is a headmaster now. He is so busy that he has already left when I get up each morning, and he does not get home until late at night.
+我真怕他累坏了。|I am really afraid that he will wear himself out.
+希望他能少一些会议，多一些休息，可以经常和我还有孩子在一起。|I hope he can have fewer meetings, get more rest, and spend more time with me and our child.
+# 14|你把水果拿过来|132
+W 打扫 干净 然后 冰箱 洗澡 节目 月亮 像 盘子 刮风 叔叔 阿姨 故事 声音 菜单 简单 香蕉
+@ 133|At home
+周太太：客人就要来了，你怎么还不打扫房间啊？|Mrs. Zhou: Our guests will be here soon. Why haven't you cleaned the room?
+周明：别着急，我让孩子们打扫呢，客人来的时候，他们会把房间打扫干净。|Zhou Ming: Don't worry. I have asked the children to clean it. They will have it clean by the time the guests arrive.
+周太太：那你也不能看电视啊。|Mrs. Zhou: Even so, you cannot just watch television.
+周明：你让我做什么？|Zhou Ming: What would you like me to do?
+周太太：先把茶和杯子放好，然后把冰箱里的西瓜拿出来。|Mrs. Zhou: Put out the tea and cups first, then take the watermelon out of the fridge.
+周明：太热了，我还是先把空调打开吧。|Zhou Ming: It is so hot. I had better turn on the air conditioner first.
+@ 133|On the phone
+同事：你在忙什么呢？刚才打你的手机你也不接。|Colleague: What are you busy with? You did not answer when I called your mobile just now.
+小刚：对不起，我刚洗了个澡，没听见。有什么事吗？|Xiaogang: Sorry. I was having a shower and did not hear it. What is it?
+同事：我想问问你公司里的一些事情。|Colleague: I want to ask you about some things at the company.
+小刚：你先等一下，我去把电视关了。|Xiaogang: Wait a moment while I turn off the television.
+同事：没关系，你先把电视节目看完吧，然后再给我回电话。|Colleague: It is all right. Finish your programme first, then call me back.
+@ 133|At Xiaoming's home
+同学：今晚的月亮真漂亮，像白色的盘子一样。|Classmate: The moon is beautiful tonight, like a white plate.
+小明：是啊，外边也不刮风，我们坐在外边一边看月亮一边吃东西，怎么样？|Xiaoming: Yes, and it is not windy outside. How about sitting outside to look at the moon and have something to eat?
+同学：好啊，我先把桌椅搬出去，然后你把水果拿过来，我们听叔叔阿姨讲讲他们年轻时候的故事。|Classmate: Great. I will move the table and chairs outside first, then you bring the fruit over. We can listen to your parents tell stories from when they were young.
+小明：太好了！记得给大山打个电话，让他马上过来。|Xiaoming: Wonderful! Remember to call Dashan and ask him to come over right away.
+同学：不用打了，你听外边的声音，一定是大山。|Classmate: No need to call. Listen to that voice outside. It must be Dashan.
+@ 134|Making fruit rice
+你吃过水果饭吗？你在饭馆的菜单上见过水果饭吗？你想学着做水果饭吗？|Have you eaten fruit rice? Have you seen it on a restaurant menu? Would you like to learn to make it?
+其实做水果饭很简单，先把米饭做好，然后再把一块块新鲜的水果放进去，水果饭就做好了。|Fruit rice is actually easy to make. First cook the rice, then add pieces of fresh fruit, and it is ready.
+你可以做苹果饭、香蕉饭，要是你愿意，还可以做西瓜饭。|You can make apple rice or banana rice. If you like, you can even make watermelon rice.
+多吃新鲜水果对身体好。|Eating plenty of fresh fruit is good for your health.
+# 15|其他都没什么问题|141
+W 留学 水平 提高 练习 完成 句子 其他 发 要求 注意 上网 除了 新闻 花 极了 节日 举行 世界 街道 各 文化
+@ 142|In the office
+大山：老师，我来中国留学两年了，但是我的汉语水平提高得一点儿也不快啊。|Dashan: Teacher, I have been studying in China for two years, but my Chinese is not improving quickly at all.
+老师：你每天认真学习，做练习、完成作业，一直不错啊。|Teacher: You study hard, do the exercises, and finish your homework every day. You have always been doing well.
+大山：这是我昨天的作业，您帮我看看对不对。|Dashan: This is yesterday's homework. Could you check whether it is correct?
+老师：写得不错，除了这个句子意思有些不清楚外，其他都没什么问题。|Teacher: It is well written. Apart from this sentence, whose meaning is a little unclear, everything else is fine.
+大山：谢谢老师！|Dashan: Thank you, teacher!
+老师：以后有什么不明白的地方，可以给我打电话或者发电子邮件。|Teacher: If there is anything you do not understand in future, you can call or email me.
+@ 142|In the classroom
+学生：老师，除了小云，其他人都来了。|Student: Teacher, everyone is here except Xiaoyun.
+老师：比赛马上就要开始了，小云怎么还没来？|Teacher: The competition is about to start. Why isn't Xiaoyun here yet?
+学生：刚才给她打电话了，她在路上呢。|Student: We called her just now. She is on her way.
+老师：不等她了，我先给大家讲讲这次比赛的要求和一些需要注意的地方。|Teacher: We will not wait for her. I will explain the competition requirements and some things to watch out for first.
+学生：老师，您放心，今天的比赛我们一定能拿第一。|Student: Don't worry, teacher. We will definitely take first place today.
+@ 142|In the lounge
+同事：现在用电脑上网真方便啊！|Colleague: Using a computer to go online is so convenient now!
+小刚：是啊，除了看新闻，人们还可以在网上听歌、看电影、买东西。|Xiaogang: Yes. Besides reading the news, people can listen to music, watch films, and shop online.
+同事：对了，你从网上买的那件衣服呢？怎么没见你穿？|Colleague: By the way, what about those clothes you bought online? Why haven't I seen you wear them?
+小刚：那件衣服我穿着有点儿小，给我弟弟了。|Xiaogang: They were a little too small for me, so I gave them to my younger brother.
+同事：他满意吗？|Colleague: Is he happy with them?
+小刚：不用花钱，还有新衣服穿，他满意极了。|Xiaogang: New clothes to wear without spending any money. He is delighted.
+@ 143|A beer festival
+除了春节、中秋节以外，啤酒节也是这里很重要的一个节日。|Besides the Spring Festival and Mid-Autumn Festival, the beer festival is also an important festival here.
+这个地方每年夏天都要举行一次啤酒节。|This place holds a beer festival every summer.
+在啤酒节上，你可以喝到世界上不同地方的啤酒。|At the beer festival, you can drink beers from different places around the world.
+除了喝啤酒，你还可以在街道两边看到世界上不同地方的歌舞。|As well as drinking beer, you can watch songs and dances from different parts of the world on both sides of the streets.
+你想不想了解世界各个地方的啤酒文化？来这里的啤酒节看看吧。|Would you like to learn about beer culture around the world? Come and visit the beer festival here.
+# 16|我现在累得下了班就想睡觉|151
+W 城市 如果 认为 皮鞋 帽子 长 可爱 米 公斤 鼻子 头发 检查 刷牙 关系 别人 词语
+@ 152|At the company
+小丽：我不喜欢一直住在同一个城市，想去其他城市看一看。|Xiaoli: I do not like always living in the same city. I want to see other cities.
+周明：我年轻的时候也这么想，但是那时候没有钱，如果有钱，就去了。|Zhou Ming: I thought the same when I was young, but I had no money then. If I had had money, I would have gone.
+小丽：那您现在为什么不去？|Xiaoli: Why don't you go now, then?
+周明：现在钱不是问题了，主要是没有时间。|Zhou Ming: Money is not the problem now. Mainly, I have no time.
+小丽：我认为现在您有时间也不会出去玩儿。|Xiaoli: I think that even if you had time now, you would not go out and travel.
+周明：你说得对，我现在累得下了班就想睡觉。|Zhou Ming: You are right. I am so tired now that all I want to do after work is sleep.
+@ 152|At a colleague's home
+同事：谢谢你们来看我女儿。你送的小皮鞋和小帽子真漂亮！|Colleague: Thank you for visiting my daughter. The little leather shoes and hat you gave her are lovely!
+小丽：别客气，你女儿长得白白的，胖胖的，真可爱！现在多高了？|Xiaoli: You are welcome. Your daughter is fair-skinned and chubby. She is adorable! How tall is she now?
+同事：快一米了，二十五公斤。|Colleague: Almost a metre, and twenty-five kilograms.
+小丽：你看她鼻子小小的，头发黑黑的，长得像谁？|Xiaoli: Look at her little nose and black hair. Who does she look like?
+同事：像她爸爸，刚出生时她爸爸高兴得一个晚上都没睡着。|Colleague: Her father. When she was born, he was so happy that he could not sleep all night.
+@ 152|At the company
+小刚：我的牙还是很疼。|Xiaogang: My tooth still hurts a lot.
+同事：如果不舒服，就去医院检查一下吧。|Colleague: If you are not feeling well, go to hospital and get it checked.
+小刚：检查好几次了，但是没什么用。|Xiaogang: I have had it checked several times, but it has not helped.
+同事：大夫怎么说的？|Colleague: What did the doctor say?
+小刚：每次医生都告诉我，回家好好儿刷牙。|Xiaogang: Every time, the doctor tells me to go home and brush my teeth properly.
+@ 153|Getting along with others
+很多人都觉得现在人和人的关系冷冷的，这可能是因为工作太忙，忙得没时间跟别人见面，累得不愿意和别人多说话。|Many people feel that relationships are cold nowadays. Perhaps work keeps people so busy that they have no time to meet others, and so tired that they do not want to talk much.
+其实，我们应该多对别人笑笑，说话时如果能多用一些“您好”“谢谢”这样的词语，和别人的关系就会变得更好。|In fact, we should smile at others more. If we use expressions such as “hello” and “thank you” more often, our relationships with others will improve.
+# 17|谁都有办法看好你的“病”|159
+W 请假 一共 邻居 后来 爱好 办法 饱 为了 决定 选择 冬天 必须 根据 情况 口 渴
+@ 160|At the company
+小丽：周经理，下个星期我可以请几天假吗？|Xiaoli: Manager Zhou, may I take a few days off next week?
+周明：你有什么事？|Zhou Ming: What do you need to do?
+小丽：我的一个老朋友结婚，我跟她两年没见了。|Xiaoli: An old friend is getting married. I have not seen her for two years.
+周明：你一共想请几天假？|Zhou Ming: How many days off do you want altogether?
+小丽：三天。|Xiaoli: Three days.
+@ 160|At the company
+同事：小丽，那个高高的男人是你们公司的吗？你对他了解吗？|Colleague: Xiaoli, does that tall man work at your company? Do you know him well?
+小丽：我们过去是邻居，后来是大学同学，关系一直很不错。|Xiaoli: We used to be neighbours and later became university classmates. We have always been close.
+同事：他一般喜欢做什么？|Colleague: What does he usually like doing?
+小丽：他有很多爱好，唱歌、画画儿、踢足球，什么都会。|Xiaoli: He has lots of hobbies. Singing, drawing, football. He can do everything.
+同事：真的？那你介绍我们认识认识吧。|Colleague: Really? Introduce us, then.
+小丽：不行，现在他是我丈夫。|Xiaoli: No. He is my husband now.
+@ 160|At home
+周太太：最近我觉得哪儿都不舒服，你带我去医院检查检查吧。|Mrs. Zhou: I have been feeling unwell all over lately. Take me to hospital for a check-up.
+周明：不用去医院，谁都有办法看好你的“病”。我问你，你多久没运动了？|Zhou Ming: No need to go to hospital. Anyone could work out how to cure your “illness.” Tell me, how long has it been since you exercised?
+周太太：我三年没运动了。|Mrs. Zhou: I have not exercised for three years.
+周明：谁都知道运动对身体好。但是你吃饱了就睡。|Zhou Ming: Everyone knows exercise is good for you. But you go to sleep as soon as you have eaten your fill.
+周太太：为了健康，我真应该多锻炼锻炼了。从明天起，我决定每天去长跑。|Mrs. Zhou: For my health, I really should exercise more. Starting tomorrow, I have decided to go running every day.
+@ 161|Choosing how to exercise
+“运动很重要”这句话谁都懂。|Everyone understands the saying, “Exercise is important.”
+但是你知道怎么运动吗？|But do you know how to exercise?
+第一，要选择“对”的时间。一般来说，早上9点是最好的时间，冬天要再晚一些。|First, choose the right time. Generally speaking, nine in the morning is the best time, and a little later in winter.
+第二，要选择“对”的地点，公园、山上、游泳馆，这些地方都可以运动。|Second, choose the right place. Parks, mountains, and swimming pools are all places to exercise.
+第三，必须要根据自己的健康情况运动。|Third, you must exercise according to your health.
+如果你很久没爬山或者游泳了，运动一会儿就一定要休息休息。|If you have not hiked or swum for a long time, be sure to rest after exercising for a while.
+还要记得刚运动完口渴的时候，不要马上喝水。|Also remember that when you feel thirsty just after exercising, you should not drink water immediately.
+# 18|我相信他们会同意的|167
+W 向 万 只 嘴 动物 段 不但 而且 有名 同意 相信 关于 机会 国家 种 特点 奇怪 地
+@ 168|On the phone
+朋友：老周，我打算买房子了，想向你借点儿钱。|Friend: Zhou, I am planning to buy a home and would like to borrow some money from you.
+周明：没问题，只要我有，就一定会借给你的。还差多少？|Zhou Ming: No problem. As long as I have it, I will certainly lend it to you. How much more do you need?
+朋友：还差5万块钱。|Friend: Fifty thousand yuan.
+周明：好，钱下午打给你。你打算在哪儿买房？|Zhou Ming: All right. I will transfer the money this afternoon. Where are you planning to buy?
+朋友：就在我们医院前面。|Friend: Right in front of our hospital.
+周明：那你以后去医院就方便了。|Zhou Ming: Getting to the hospital will be convenient for you, then.
+@ 168|In a shop
+小明：妈妈，你看那只狗多可爱，眼睛大大的，嘴小小的，我们买回去吧。|Xiaoming: Mum, look how cute that dog is, with its big eyes and little mouth. Let us buy it and take it home.
+妈妈：动物和小孩儿一样，都需要人照顾。买回家去，谁照顾它啊？|Mother: Animals are like children. They need someone to look after them. If we buy it, who will take care of it?
+小明：我照顾啊。|Xiaoming: I will.
+妈妈：这段时间你自己的衣服都没洗，你能照顾好它吗？|Mother: You have not even washed your own clothes lately. Can you take good care of it?
+小明：只要你给我买，我就能照顾好它。|Xiaoming: As long as you buy it for me, I will take good care of it.
+@ 168|At the company
+经理：说说你为什么选择来我们公司工作。|Manager: Tell me why you chose to work at our company.
+学生：贵公司不但很有名，而且工作环境好。|Student: Your company is not only well known but also has a good working environment.
+经理：做这个工作有点儿累，需要经常去外地。你家人同意吗？|Manager: This job is a little tiring and requires frequent travel. Does your family agree?
+学生：只要我愿意，我相信他们就会同意的。|Student: As long as it is what I want, I believe they will agree.
+经理：好，那你明天来上班吧。关于这个工作，还有什么问题吗？|Manager: All right. Come to work tomorrow, then. Do you have any other questions about this job?
+学生：没有了，谢谢您给我这个机会，我会努力的。|Student: No. Thank you for giving me this opportunity. I will work hard.
+@ 169|Getting used to a new culture
+不同的国家有不同的文化，每种文化都有自己的特点。|Different countries have different cultures, and every culture has its own characteristics.
+到了一个新环境，你会觉得什么都很新鲜，而且还会觉得有点奇怪：有些国家的人名写在姓前面，有些国家的人名写在姓后面，但是只要经过一段时间，就会慢慢地习惯。|In a new environment, everything feels fresh and a little strange. In some countries, given names come before family names; in others, they come after. But after some time, you gradually get used to it.
+# 19|你没看出来吗|175
+W 耳朵 脸 短 马 张 位 蓝 秋天 过 鸟 哭 黄河 船 经过
+@ 176|At home
+爸爸：女儿最近喜欢把头发放在耳朵后面，你知道为什么吗？|Father: Our daughter likes tucking her hair behind her ears lately. Do you know why?
+妈妈：这样可以使她的脸看上去漂亮一些。|Mother: It makes her face look prettier.
+爸爸：我最近觉得她和以前不太一样了。|Father: I have felt lately that she is a little different from before.
+妈妈：女儿变化不小，她小时候喜欢短头发，像男孩子一样。|Mother: She has changed a lot. When she was little, she liked short hair, like a boy.
+爸爸：我也想起来了。她现在慢慢地开始像个女孩子了。|Father: I remember now too. She is gradually starting to look like a young woman.
+@ 176|Looking at photos
+小丽：上次我们参加骑马比赛的照片，我选了几张洗出来了。|Xiaoli: I chose a few photos from the horse-riding competition we entered and had them printed.
+同事：快给我看看。骑得最快的这位是谁？|Colleague: Show me. Who is this person riding the fastest?
+小丽：你没看出来吗？他是小刚啊。|Xiaoli: Can't you tell? It is Xiaogang.
+同事：怎么看上去跟现在不太一样？|Colleague: Why does he look so different from now?
+小丽：他上班穿西服、衬衫，比赛的时候穿的是运动服。|Xiaoli: He wears a suit and shirt at work, but he wore sports clothes for the competition.
+同事：他今天穿蓝西服，看上去像40多岁，还是穿运动服让他更年轻。|Colleague: He is wearing a blue suit today and looks over forty. Sports clothes make him look younger.
+@ 176|At Xiaoli's home
+朋友：我们一年没见面了吧？|Friend: It has been a year since we last met, hasn't it?
+小丽：听说你都有女儿了？她多大了？|Xiaoli: I hear you have a daughter now. How old is she?
+朋友：她去年秋天出生的，刚过完一岁生日。|Friend: She was born last autumn and has just had her first birthday.
+小丽：她喜欢什么？我送给她。|Xiaoli: What does she like? I will give it to her.
+朋友：她就喜欢听她爸爸学鸟叫。哭的时候，只要她爸爸学小鸟叫，她马上就安静下来了。|Friend: She loves hearing her father imitate birds. When she cries, she quietens down as soon as he makes bird sounds.
+小丽：啊？这个礼物我没办法送。|Xiaoli: Oh! I cannot give her that gift.
+@ 177|A memorable trip
+这次旅游，我去了不少地方，每个地方都让我非常难忘。|I visited quite a few places on this trip, and every place was unforgettable.
+我先去看了黄河，黄河是中国有名的大河，我坐在船上，一边看一边照相。|I went to see the Yellow River first. It is a famous large river in China. I sat on a boat, admiring the view and taking photos.
+一路上经过了很多地方，每个地方都不一样。|We passed many places along the way, each different from the others.
+我想快点儿把照片发给大家，叫朋友们也高兴高兴。|I want to send everyone the photos soon so my friends can share the enjoyment.
+# 20|我被他影响了|184
+W 照相机 被 难过 东 信用卡 关心 只有 才 成绩 碗 分 解决 试 真正 多么
+@ 185|In the lounge
+小丽：我的照相机被谁拿走了？怎么找不到了？|Xiaoli: Who took my camera? Why can't I find it?
+同事：你再找找。是不是没带来？|Colleague: Look again. Maybe you did not bring it.
+小丽：我找了，没找到啊。|Xiaoli: I have looked, but I cannot find it.
+同事：别难过，再买一个吧，公司东门外不就有一个大商场吗？|Colleague: Don't be upset. Buy another one. Isn't there a big shopping centre outside the company's east gate?
+小丽：但是我这个月信用卡里的钱已经花得差不多了。|Xiaoli: But I have already spent almost all the money on my credit card this month.
+@ 185|In the classroom
+小明：你怎么突然关心起体育来了？|Xiaoming: Why have you suddenly become interested in sport?
+朋友：我的男朋友喜欢看足球比赛，我被他影响的。|Friend: My boyfriend likes watching football matches. He influenced me.
+小明：看来只有爱，才能让人有变化。|Xiaoming: It seems that only love can make people change.
+朋友：是啊，为了和他的爱好一样，我天天看球赛。|Friend: Yes. I watch matches every day so that we share the same hobby.
+小明：除了足球，他还影响你什么了？|Xiaoming: Apart from football, what else has he influenced you to do?
+朋友：我最近天天上网玩儿游戏，我的成绩差极了。|Friend: Lately I have been playing online games every day, and my grades are terrible.
+@ 185|In the restaurant
+朋友：那个拿着碗吃饭的人是你哥哥吗？他和你长得真像。|Friend: Is that person eating from a bowl your older brother? He looks just like you.
+大卫：我们经常被别人认错。|David: People often mistake us for each other.
+朋友：只有你们的爸爸妈妈才能分出来哪个是哥哥，哪个是弟弟吧。|Friend: Only your parents can tell which of you is the older brother and which is the younger, right?
+大卫：除了父母以外，还有我们自己也能啊。|David: Besides our parents, we ourselves can tell too.
+朋友：你们两个除了长得像，还有什么相同的地方？|Friend: Apart from looking alike, what else do you two have in common?
+大卫：我们住在同一个楼、同一个房间。|David: We live in the same building and the same room.
+@ 186|Learning by trying
+年轻人遇到难题，常常很着急，不知道怎么办。|When young people face difficult problems, they often get anxious and do not know what to do.
+其实，不同的问题有不同的解决办法。|In fact, different problems have different solutions.
+有些问题看上去很难，但是做起来非常简单，所以得试着做做。|Some problems look difficult but are easy to deal with, so you need to try doing them.
+有些问题看上去虽然简单，但是解决起来难极了。|Other problems look simple but are extremely hard to solve.
+所以只有真正做事情的时候，才能了解有多难。|Only when you actually do something can you understand how difficult it is.
+不过，我们一定要相信：多么难的问题，都会被解决的。|However, we must believe that problems can be solved, no matter how difficult they are.

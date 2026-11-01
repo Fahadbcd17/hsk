@@ -1,0 +1,336 @@
+# 1
+周末|周末我想去看电影。|I want to see a film at the weekend.
+打算|你有什么打算？|What are your plans?
+啊|是啊，我也想去。|Yes, I want to go too.
+跟|我想跟你一起去。|I want to go with you.
+一直|他一直在这里工作。|He has been working here all along.
+游戏|我喜欢这个游戏。|I like this game.
+作业|我的作业写完了。|I have finished my homework.
+着急|别着急，我们还有时间。|Do not worry. We still have time.
+复习|我想复习今天学的东西。|I want to review what I learned today.
+南方|我想去南方看看。|I want to visit the south.
+北方|北方的天气很冷。|The weather in the north is cold.
+面包|我早上吃了面包。|I ate bread this morning.
+带|去学校要带书。|We need to take books to school.
+地图|这是我的地图。|This is my map.
+搬|你能帮我搬一下桌子吗？|Could you help me move the table?
+# 2
+腿|我的腿有点儿冷。|My legs feel a little cold.
+疼|我今天头很疼。|My head hurts a lot today.
+脚|我的脚很冷。|My feet are cold.
+树|学校里有很多树。|There are many trees in the school.
+容易|这个字很容易写。|This character is easy to write.
+难|这个问题有点儿难。|This question is a little difficult.
+太太|我太太是老师。|My wife is a teacher.
+秘书|她是我们公司的秘书。|She is our company's secretary.
+经理|我们的经理很忙。|Our manager is very busy.
+办公室|老师在办公室里。|The teacher is in the office.
+辆|我家有两辆车。|My family has two cars.
+楼|他住在这个楼里。|He lives in this building.
+拿|请帮我拿一下这个东西。|Please help me carry this thing.
+把|这里有两把椅子。|There are two chairs here.
+伞|这是谁的伞？|Whose umbrella is this?
+胖|我弟弟有点儿胖。|My younger brother is a little fat.
+其实|其实我也不知道。|Actually, I do not know either.
+瘦|他比我瘦。|He is thinner than me.
+# 3
+还是|你喝茶还是咖啡？|Would you like tea or coffee?
+爬山|周末我们去爬山吧。|Let us go hiking at the weekend.
+小心|下楼的时候要小心。|Be careful when going downstairs.
+条|我买了两条鱼。|I bought two fish.
+裤子|我的裤子有点儿大。|My trousers are a little big.
+记得|我记得他的名字。|I remember his name.
+衬衫|这件衬衫是爸爸的。|This shirt is my father's.
+元|这本书二十元。|This book costs twenty yuan.
+新鲜|这些水果很新鲜。|This fruit is very fresh.
+甜|这个苹果很甜。|This apple is sweet.
+只|我只想喝水。|I only want some water.
+放|请放在桌子上。|Please put it on the desk.
+饮料|你想喝什么饮料？|What would you like to drink?
+或者|我想买茶或者咖啡。|I want to buy tea or coffee.
+舒服|我今天身体不舒服。|I do not feel well today.
+花|妈妈很喜欢花。|My mother likes flowers very much.
+绿|这件衣服是绿的。|This piece of clothing is green.
+# 4
+比赛|今天的比赛很好看。|Today's match was very enjoyable.
+照片|这是我妈妈的照片。|This is a photo of my mother.
+年级|你是几年级的学生？|What grade are you in?
+又|这个苹果又大又好吃。|This apple is both big and tasty.
+聪明|这个孩子很聪明。|This child is clever.
+热情|这里的人都很热情。|The people here are all very friendly.
+努力|我会努力学习汉语。|I will work hard at learning Chinese.
+总是|他总是很忙。|He is always busy.
+回答|请回答这个问题。|Please answer this question.
+站|请站在这里等我。|Please stand here and wait for me.
+饿|我有点儿饿了。|I am a little hungry.
+超市|我们一起去超市吧。|Let us go to the supermarket together.
+蛋糕|今天我想吃蛋糕。|I want to eat cake today.
+年轻|我们的老师很年轻。|Our teacher is very young.
+认真|他学习很认真。|He is very serious about studying.
+客人|家里来了很多客人。|Many guests have come to our home.
+# 5
+发烧|孩子今天发烧了。|The child has a fever today.
+为|这是我为你买的。|I bought this for you.
+照顾|我在家照顾妈妈。|I am looking after my mother at home.
+用|你会用这个电脑吗？|Do you know how to use this computer?
+感冒|他感冒了，今天不来上班。|He has a cold and is not coming to work today.
+季节|你喜欢哪个季节？|Which season do you like?
+当然|当然可以，你坐吧。|Of course you can. Please sit down.
+春天|春天我们去爬山吧。|Let us go hiking in spring.
+草|这里的草很绿。|The grass here is very green.
+夏天|我喜欢在夏天游泳。|I like swimming in summer.
+裙子|她穿了一条新裙子。|She is wearing a new skirt.
+最近|你最近怎么样？|How have you been lately?
+越|雨越下越大。|The rain is getting heavier and heavier.
+# 6
+眼镜|我的眼镜在桌子上。|My glasses are on the desk.
+突然|他突然不想去了。|He suddenly did not want to go.
+离开|你什么时候离开北京？|When are you leaving Beijing?
+清楚|你说什么？我没听清楚。|What did you say? I did not hear clearly.
+刚才|刚才有人找你。|Someone was looking for you just now.
+帮忙|你能来帮忙吗？|Can you come and help?
+特别|今天特别冷。|It is especially cold today.
+讲|请你再讲一次。|Please explain it once more.
+明白|我明白你的意思了。|I understand what you mean now.
+锻炼|我每天都想锻炼。|I want to exercise every day.
+音乐|我喜欢听音乐。|I like listening to music.
+公园|公园里有很多树。|There are many trees in the park.
+聊天儿|我喜欢和朋友聊天儿。|I like chatting with friends.
+睡着|孩子已经睡着了。|The child has already fallen asleep.
+更|这件衣服更好看。|This piece of clothing looks even nicer.
+# 7
+同事|他是我的新同事。|He is my new colleague.
+以前|我以前住在北京。|I used to live in Beijing.
+银行|银行在学校旁边。|The bank is beside the school.
+久|我们很久没一起吃饭了。|We have not eaten together for a long time.
+感兴趣|我对音乐很感兴趣。|I am very interested in music.
+结婚|我姐姐下个月结婚。|My older sister is getting married next month.
+欢迎|欢迎你来我家。|You are welcome at my home.
+迟到|明天不要迟到。|Do not be late tomorrow.
+半|我等了半个小时。|I waited for half an hour.
+接|爸爸来学校接我。|My father is coming to school to pick me up.
+刻|现在是三点一刻。|It is a quarter past three.
+差|还差五分钟就到十点了。|It is five minutes to ten.
+# 8
+又|他今天又去了那个商店。|He went to that shop again today.
+满意|我对这个房间很满意。|I am very happy with this room.
+电梯|我们坐电梯上楼吧。|Let us take the lift upstairs.
+层|我家住在三层。|My home is on the third floor.
+害怕|我很害怕那只大狗。|I am very afraid of that big dog.
+熊猫|我很喜欢熊猫。|I really like pandas.
+见面|我们明天在哪儿见面？|Where shall we meet tomorrow?
+安静|这里很安静，可以看书。|It is quiet here, so we can read.
+可乐|我想喝一杯可乐。|I would like a glass of cola.
+一会儿|你等我一会儿。|Wait for me a moment.
+马上|我马上就来。|I will be there right away.
+洗手间|请问，洗手间在哪儿？|Excuse me, where is the restroom?
+老|他是我的老朋友。|He is an old friend of mine.
+几乎|他几乎每天都来这里。|He comes here almost every day.
+变化|这里的变化很大。|This place has changed a lot.
+健康|我希望家人都健康。|I hope my whole family stays healthy.
+重要|学习汉语对我很重要。|Learning Chinese is very important to me.
+# 9
+中文|你会说中文吗？|Can you speak Chinese?
+班|我们班有二十个学生。|There are twenty students in our class.
+一样|这两个房间一样大。|These two rooms are the same size.
+最后|这是最后一个苹果。|This is the last apple.
+放心|你放心，我会照顾好孩子。|Do not worry. I will take good care of the child.
+一定|我明天一定来。|I will definitely come tomorrow.
+担心|我很担心他的身体。|I am worried about his health.
+比较|这件衣服比较便宜。|This piece of clothing is relatively inexpensive.
+了解|我想了解这个学校。|I want to learn about this school.
+先|你先吃吧，我不饿。|You eat first. I am not hungry.
+中间|我坐在他们中间。|I am sitting between them.
+参加|你想参加明天的比赛吗？|Do you want to take part in tomorrow's match?
+影响|不要影响别人休息。|Do not disturb other people's rest.
+# 10
+个子|我和爸爸的个子一样高。|My father and I are the same height.
+矮|他比我矮一点儿。|He is a little shorter than me.
+历史|我喜欢学习历史。|I like studying history.
+体育|我很喜欢体育课。|I really like P.E. classes.
+数学|这个数学问题很难。|This maths problem is difficult.
+方便|住在这里很方便。|Living here is convenient.
+自行车|这辆自行车是我的。|This bicycle is mine.
+骑|我想骑车去学校。|I want to ride a bicycle to school.
+旧|这件衣服有点儿旧。|This piece of clothing is a little old.
+换|我想换一个杯子。|I want to use a different cup.
+地方|这个地方很漂亮。|This place is beautiful.
+中介|我想请中介帮我找房子。|I want an agent to help me find a home.
+主要|我主要想学习汉语。|I mainly want to study Chinese.
+环境|这里的环境很好。|The surroundings here are very nice.
+附近|学校附近有银行。|There is a bank near the school.
+# 11
+图书馆|我想去图书馆看书。|I want to read at the library.
+借|我想借你的书看看。|I would like to borrow your book to read.
+词典|这是我的汉语词典。|This is my Chinese dictionary.
+还|我明天把书还给你。|I will return your book tomorrow.
+灯|房间里有灯。|There is a light in the room.
+会议|会议三点开始。|The meeting starts at three.
+结束|今天的课已经结束了。|Today's class has finished.
+忘记|我忘记带钱了。|I forgot to bring money.
+空调|房间里有空调。|There is an air conditioner in the room.
+关|请把门关一下。|Please close the door.
+地铁|我坐地铁去上班。|I take the subway to work.
+双|这双鞋很好看。|These shoes look very nice.
+筷子|我会用筷子吃饭。|I can eat with chopsticks.
+啤酒|爸爸喜欢喝啤酒。|My father likes drinking beer.
+口|我只想喝一口水。|I just want a sip of water.
+瓶子|这个瓶子里没有水。|There is no water in this bottle.
+笔记本电脑|我买了笔记本电脑。|I bought a laptop.
+电子邮件|我喜欢看电子邮件。|I like checking my email.
+习惯|我习惯早上喝水。|I am used to drinking water in the morning.
+# 12
+太阳|今天太阳很大。|The sun is very strong today.
+西|学校在我家西边。|The school is west of my home.
+生气|别生气，我下次不这样了。|Do not be angry. I will not do that next time.
+行李箱|我的衣服都在行李箱里。|My clothes are all in the suitcase.
+自己|我想自己去商店。|I want to go to the shop by myself.
+包|这个包是谁的？|Whose bag is this?
+发现|我发现他没有来。|I noticed that he had not come.
+护照|护照在我这儿。|I have the passport here.
+起飞|飞机十点起飞。|The plane takes off at ten.
+司机|这个司机很好。|This driver is very nice.
+教|她教我们汉语。|She teaches us Chinese.
+画|我想画一只猫。|I want to draw a cat.
+需要|你需要我帮忙吗？|Do you need my help?
+黑板|请看黑板上的字。|Please look at the characters on the blackboard.
+# 13
+终于|你终于回来了。|You are finally back.
+爷爷|我爷爷很喜欢喝茶。|My grandfather really likes drinking tea.
+礼物|这是我给你的礼物。|This is my gift to you.
+奶奶|奶奶每天都出去走走。|My grandmother goes out for a walk every day.
+遇到|我今天遇到了一个老朋友。|I ran into an old friend today.
+一边|他一边吃饭一边看电视。|He eats while watching television.
+过去|我想听听过去的事情。|I would like to hear about the past.
+一般|我一般八点去学校。|I usually go to school at eight.
+愿意|你愿意跟我一起去吗？|Would you like to go with me?
+起来|请站起来。|Please stand up.
+应该|我应该多学习。|I should study more.
+生活|我喜欢这里的生活。|I like life here.
+校长|我们校长很年轻。|Our headmaster is very young.
+坏|我的电脑坏了。|My computer is broken.
+经常|我经常给妈妈打电话。|I often call my mother.
+# 14
+打扫|我想打扫一下房间。|I want to clean the room.
+干净|这个房间很干净。|This room is clean.
+然后|我先去银行，然后回家。|I will go to the bank first, then go home.
+冰箱|冰箱里有水果。|There is fruit in the fridge.
+洗澡|我想先洗澡。|I want to take a shower first.
+节目|我喜欢这个电视节目。|I like this television programme.
+月亮|今天晚上的月亮很漂亮。|The moon is beautiful tonight.
+像|你和你爸爸很像。|You look very much like your father.
+盘子|这个盘子是白的。|This plate is white.
+刮风|今天又刮风了。|It is windy again today.
+叔叔|我叔叔住在北京。|My uncle lives in Beijing.
+阿姨|阿姨，您好！|Hello, auntie!
+故事|我想听你讲故事。|I want to hear you tell a story.
+声音|我听到了妈妈的声音。|I heard my mother's voice.
+菜单|请给我看看菜单。|Please show me the menu.
+简单|这个问题很简单。|This question is simple.
+香蕉|我早上吃了香蕉。|I ate a banana this morning.
+# 15
+留学|我想去中国留学。|I want to study abroad in China.
+水平|他的汉语水平很好。|His Chinese is very good.
+提高|我的汉语提高了。|My Chinese has improved.
+练习|我每天都练习说汉语。|I practice speaking Chinese every day.
+完成|我已经完成今天的作业了。|I have finished today's homework.
+句子|这个句子是什么意思？|What does this sentence mean?
+其他|其他人都在教室里。|Everyone else is in the classroom.
+发|我想给你发照片。|I want to send you photos.
+要求|老师的要求我都明白。|I understand all the teacher's requirements.
+注意|请注意看前面。|Please pay attention to what is ahead.
+上网|我喜欢在家上网。|I like going online at home.
+除了|除了他，大家都来了。|Everyone came except him.
+新闻|我爸爸每天看新闻。|My father watches the news every day.
+花|这本书花了我二十元。|This book cost me twenty yuan.
+极了|今天热极了。|It is extremely hot today.
+节日|这个节日很重要。|This festival is very important.
+举行|学校明天举行比赛。|The school is holding a competition tomorrow.
+世界|我想看看这个世界。|I want to see the world.
+街道|这条街道很安静。|This street is very quiet.
+各|各个学校都很好。|All the schools are very good.
+文化|我对中国文化感兴趣。|I am interested in Chinese culture.
+# 16
+城市|我很喜欢这个城市。|I really like this city.
+如果|如果下雨，我就不去了。|If it rains, I will not go.
+认为|我认为他会来的。|I think he will come.
+皮鞋|这双皮鞋是爸爸的。|These leather shoes are my father's.
+帽子|这帽子很好看。|This hat looks very nice.
+长|孩子又长高了。|The child has grown taller again.
+可爱|这只小猫真可爱。|This little cat is adorable.
+米|这条鱼有一米长。|This fish is a metre long.
+公斤|这些苹果有五公斤。|These apples weigh five kilograms.
+鼻子|这个孩子的鼻子小小的。|This child has a tiny nose.
+头发|她的头发很长。|Her hair is long.
+检查|请检查一下你的作业。|Please check your homework.
+刷牙|我每天早上都刷牙。|I brush my teeth every morning.
+关系|我跟同事的关系很好。|I have a good relationship with my colleagues.
+别人|我不想影响别人休息。|I do not want to disturb other people's rest.
+词语|今天我们学习了五个词语。|We learned five words today.
+# 17
+请假|我想请假一天。|I would like to take a day off.
+一共|我们一共三个人。|There are three of us altogether.
+邻居|我的邻居很热情。|My neighbour is very friendly.
+后来|我先去商店，后来回家了。|I went to the shop first and went home later.
+爱好|你的爱好是什么？|What are your hobbies?
+办法|你有什么好办法？|Do you have any good ideas?
+饱|我已经吃饱了。|I have eaten enough.
+为了|为了学好汉语，我每天都练习。|I practice every day to learn Chinese well.
+决定|我决定明天去北京。|I have decided to go to Beijing tomorrow.
+选择|你想选择哪个？|Which one would you like to choose?
+冬天|冬天的北京很冷。|Beijing is very cold in winter.
+必须|我明天必须去上班。|I must go to work tomorrow.
+根据|请根据地图走。|Please follow the map.
+情况|你知道他的情况吗？|Do you know about his situation?
+口|我口里有水。|I have water in my mouth.
+渴|我有点儿渴，想喝水。|I am a little thirsty and want some water.
+# 18
+向|请向前走。|Please walk forward.
+万|这辆车三万元。|This car costs thirty thousand yuan.
+只|这里有一只小猫。|There is a little cat here.
+嘴|这个孩子的嘴小小的。|This child has a tiny mouth.
+动物|我喜欢小动物。|I like small animals.
+段|这段时间我很忙。|I have been very busy lately.
+不但|他不但会说汉语，也会写字。|He can not only speak Chinese but also write Chinese characters.
+而且|她很聪明，而且很认真。|She is clever and also conscientious.
+有名|这家饭店很有名。|This restaurant is very well known.
+同意|我同意你说的。|I agree with what you said.
+相信|我相信你会做得很好。|I believe you will do very well.
+关于|我想看一本关于中国的书。|I want to read a book about China.
+机会|我想给他一个机会。|I want to give him a chance.
+国家|你想去哪个国家？|Which country do you want to visit?
+种|我喜欢这两种水果。|I like these two kinds of fruit.
+特点|这个学校有什么特点？|What are the characteristics of this school?
+奇怪|这件事很奇怪。|This is very strange.
+地|他高兴地笑了。|He laughed happily.
+# 19
+耳朵|我的耳朵很冷。|My ears are cold.
+脸|她的脸红红的。|Her face is rosy red.
+短|这条裤子有点儿短。|These trousers are a little short.
+马|我想学骑马。|I want to learn horse riding.
+张|我想买两张票。|I want to buy two tickets.
+位|这位是我们的老师。|This is our teacher.
+蓝|这件衣服是蓝的。|This piece of clothing is blue.
+秋天|我喜欢秋天的天气。|I like the weather in autumn.
+过|我想和家人一起过生日。|I want to celebrate my birthday with my family.
+鸟|这只鸟很漂亮。|This bird is beautiful.
+哭|孩子怎么又哭了？|Why is the child crying again?
+黄河|我想去看看黄河。|I want to see the Yellow River.
+船|我们坐船去那里。|We are going there by boat.
+经过|去学校要经过一个公园。|We pass a park on the way to school.
+# 20
+照相机|这个照相机是我的。|This camera is mine.
+被|我的书被他拿走了。|He took my book away.
+难过|他没有来，我很难过。|I am very sad that he did not come.
+东|学校在我家东边。|The school is east of my home.
+信用卡|我想用信用卡买东西。|I want to pay for my shopping by credit card.
+关心|老师很关心我们。|Our teacher cares about us.
+只有|我只有一本书。|I only have one book.
+才|他现在才来。|He has only just arrived.
+成绩|我这次考试的成绩很好。|I got good results in this exam.
+碗|请给我一个碗。|Please give me a bowl.
+分|我分不清楚这两个字。|I cannot tell these two characters apart.
+解决|我们一起解决这个问题吧。|Let us solve this problem together.
+试|请试一试这件衣服。|Please try this piece of clothing on.
+真正|他是我真正的朋友。|He is a true friend of mine.
+多么|这里的天气多么好啊！|What lovely weather it is here!

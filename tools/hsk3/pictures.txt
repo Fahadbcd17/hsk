@@ -1,0 +1,140 @@
+# 1|北方 作业 电脑游戏 面包 地图 周末
+A|地图|这是一张地图。|This is a map.|我们可以看地图找地方。|We can use a map to find places.
+B|面包|这里有很多面包。|There is a lot of bread here.|早上可以吃面包。|We can eat bread in the morning.
+C|周末|周末可以到这里玩儿。|We can come here for fun at the weekend.|周末可以在这里休息。|We can rest here at the weekend.
+D|电脑游戏|这是玩儿电脑游戏用的。|This is used for playing computer games.|玩儿电脑游戏要用手。|We use our hands to play computer games.
+E|作业|孩子正在写作业。|The child is doing homework.|他写作业很认真。|He is doing his homework carefully.
+F|北方|上面是北方。|North is at the top.|这里写着北方。|It says north here.
+# 2|伞 经理 办公室 脚 楼 树
+A|脚|这里可以看到脚。|We can see feet here.|大家的脚放在床上。|Their feet are on the bed.
+B|树|这里有树。|There is a tree here.|树是绿的。|The tree is green.
+C|经理|经理正在打电话。|The manager is making a phone call.|这位经理坐在办公室里。|This manager is sitting in an office.
+D|办公室|这是办公室。|This is an office.|办公室里有桌子和椅子。|There are desks and chairs in the office.
+E|楼|这里的楼很高。|The buildings here are tall.|图上有很多楼。|There are many buildings in the picture.
+F|伞|这是一把伞。|This is an umbrella.|下雨时可以用伞。|We can use an umbrella when it rains.
+# 3|饮料 花茶 绿茶 裤子 水果 衬衫
+A|水果|这些水果很新鲜。|This fruit is fresh.|水果有很多颜色。|The fruit comes in many colors.
+B|衬衫|这是一件衬衫。|This is a shirt.|衬衫是白色的。|The shirt is white.
+C|花茶|这杯花茶里有花。|There are flowers in this flower tea.|花茶放在桌子上。|The flower tea is on the table.
+D|饮料|这些饮料颜色不一样。|These drinks have different colors.|饮料放在杯子里。|The drinks are in glasses.
+E|裤子|这条裤子是黑的。|These trousers are black.|这是可以穿的裤子。|These are trousers to wear.
+F|绿茶|这是一杯绿茶。|This is a cup of green tea.|绿茶的颜色是绿的。|The green tea is green.
+# 4|服务员 客人 超市 比赛 照片 蛋糕
+A|比赛|他们在参加比赛。|They are taking part in a race.|比赛时大家都在跑步。|Everyone is running in the race.
+B|超市|这是超市。|This is a supermarket.|超市里可以买东西。|We can buy things in a supermarket.
+C|蛋糕|这里有两块蛋糕。|There are two pieces of cake here.|蛋糕上放着水果。|There is fruit on the cakes.
+D|服务员|这位服务员在工作。|This waiter is working.|服务员穿着黑色和白色的衣服。|The waiter is wearing black and white clothes.
+E|客人|客人在看衣服。|The customer is looking at clothes.|客人想买新衣服。|The customer wants to buy new clothes.
+F|照片|这里有几张照片。|There are several photos here.|照片放在一起。|The photos are together.
+# 5|感冒 发烧 裙子 草 开花 夏天
+A|开花|春天到了，树开花了。|Spring has arrived, and the tree is flowering.|树开花的时候很漂亮。|The tree is beautiful when it flowers.
+B|发烧|她可能发烧了。|She may have a fever.|发烧的时候要休息。|We should rest when we have a fever.
+C|夏天|夏天可以去这里休息。|We can come here to relax in summer.|夏天的天气很热。|The weather is hot in summer.
+D|裙子|这是一条红裙子。|This is a red skirt.|这条裙子很好看。|This skirt is attractive.
+E|草|这里的草很绿。|The grass here is very green.|草长在地上。|Grass grows on the ground.
+F|感冒|她感冒了。|She has a cold.|感冒的时候可以在家休息。|We can rest at home when we have a cold.
+# 6|锻炼 去公园 听音乐会 讲题 帮忙 离开
+A|讲题|老师正在给孩子讲题。|The teacher is explaining an exercise to the child.|讲题可以帮助孩子学习。|Explaining exercises can help children learn.
+B|离开|这个人要离开了。|This person is about to leave.|离开的时候，他带着包。|He is taking his bag as he leaves.
+C|听音乐会|大家坐着听音乐会。|Everyone is seated at a concert.|听音乐会可以听到好音乐。|We can hear good music at a concert.
+D|锻炼|大家正在锻炼。|Everyone is exercising.|锻炼的时候，他们站在一起。|They are standing together as they exercise.
+E|帮忙|她在帮忙搬东西。|She is helping to move things.|有人帮忙，搬东西就容易一些。|Moving things is easier with help.
+F|去公园|周末可以去公园。|We can go to the park at the weekend.|去公园可以走走看看。|We can walk around and look at things in the park.
+# 7|十点半 迟到 欢迎 结婚 银行 同事
+A|结婚|这两个人结婚了。|These two people are getting married.|结婚的时候，他们都很高兴。|They are both happy on their wedding day.
+B|银行|这是银行。|This is a bank.|我们可以去银行换钱。|We can exchange money at a bank.
+C|欢迎|她在欢迎客人。|She is welcoming a guest.|她笑着说欢迎。|She says welcome with a smile.
+D|同事|他们是同事。|They are colleagues.|同事一起在公司工作。|Colleagues work together at a company.
+E|迟到|他在看手表，可能迟到了。|He is checking his watch and may be late.|他不想上班迟到。|He does not want to be late for work.
+F|十点半|现在是十点半。|It is half past ten.|现在的时间是十点半。|The time is half past ten.
+# 8|熊猫 安静 见面 电梯 害怕 洗手间
+A|害怕|他们看电视的时候很害怕。|They feel scared while watching television.|孩子也有点儿害怕。|The child is a little scared too.
+B|电梯|这里有电梯。|There are lifts here.|坐电梯可以上楼。|We can take a lift upstairs.
+C|洗手间|这是洗手间。|This is a restroom.|洗手间里可以洗手。|We can wash our hands in the restroom.
+D|见面|这两个人见面了。|These two people are meeting.|见面的时候，他们很高兴。|They are happy to meet.
+E|安静|她希望大家安静。|She wants everyone to be quiet.|她请大家安静一点儿。|She asks everyone to be a little quieter.
+F|熊猫|这里有两只熊猫。|There are two pandas here.|熊猫是黑色和白色的。|Pandas are black and white.
+# 9|衣服 颜色 房子 天气 杯子 胖瘦
+1|衣服|两个孩子的衣服一样。|The two children have the same clothes.|她们的衣服都是白色的。|Their clothes are both white.
+2|颜色|这两辆车的颜色不一样。|These two cars are different colors.|上面的车是黑色的，下面的车是红色的。|The top car is black, and the bottom one is red.
+3|房子|这些房子很像。|These houses look very similar.|房子的颜色也很像。|The houses have similar colors too.
+4|天气|两边的天气不一样。|The weather is different on the two sides.|一边下雨，一边有太阳。|It is raining on one side, and the sun is shining on the other.
+5|杯子|这两个杯子一样高。|These two glasses are the same height.|杯子放在一起。|The glasses are together.
+6|胖瘦|这两个人的胖瘦不一样。|These two people differ in how fat or thin they are.|一个人胖，一个人瘦。|One person is fat, and the other is thin.
+# 10|历史 体育 个子 车站 数学 自行车
+A|自行车|这是一辆自行车。|This is a bicycle.|自行车可以骑。|We can ride a bicycle.
+B|数学|黑板上有数学题。|There are maths problems on the blackboard.|学生可以学习数学。|Students can study maths.
+C|历史|这本书是关于历史的。|This book is about history.|学习历史可以了解过去。|Studying history helps us understand the past.
+D|个子|这个孩子在看自己的个子。|This child is checking his height.|孩子的个子会长高。|Children grow taller.
+E|车站|这是一个车站。|This is a bus stop.|人们可以在车站等车。|People can wait for a bus at the stop.
+F|体育|图上有很多体育用的东西。|There are many pieces of sports equipment in the picture.|体育课上可以打篮球。|We can play basketball in P.E. class.
+# 11|词典 筷子 空调 地铁 灯 瓶子
+A|空调|房间里有空调。|There is an air conditioner in the room.|热的时候可以用空调。|We can use the air conditioner when it is hot.
+B|词典|这是一本词典。|This is a dictionary.|学习汉语可以用词典。|We can use a dictionary when learning Chinese.
+C|灯|这是一个灯。|This is a light.|我们可以用灯看书。|We can use the light to read.
+D|筷子|这里有三双筷子。|There are three pairs of chopsticks here.|我们可以用筷子吃饭。|We can eat with chopsticks.
+E|瓶子|这是一个瓶子。|This is a bottle.|瓶子可以放在桌子上。|The bottle can stand on a table.
+F|地铁|地铁在车站。|The subway train is at the station.|人们可以坐地铁。|People can take the subway.
+# 12|护照 黑板 行李箱 太阳 画儿 包
+A|太阳|天上有太阳。|The sun is in the sky.|太阳出来了。|The sun has come out.
+B|行李箱|这是一个行李箱。|This is a suitcase.|行李箱里可以放衣服。|We can put clothes in a suitcase.
+C|护照|这是护照。|This is a passport.|出国的时候要带护照。|We need to take a passport when going abroad.
+D|画儿|这是一张画儿。|This is a picture.|画儿里有一个房间。|There is a room in the picture.
+E|包|这是一个包。|This is a bag.|包可以用手拿。|We can carry the bag by hand.
+F|黑板|这是黑板。|This is a blackboard.|黑板上可以写字。|We can write on a blackboard.
+# 13|上去 下来 进去 出来 起来 过来
+A|出来|他从房间出来。|He is coming out of the room.|出来以后，他可以站在门口。|After coming out, he can stand at the door.
+B|过来|他向这边走过来。|He is walking over this way.|他可以走过来跟我们说话。|He can come over and talk with us.
+C|起来|他从椅子上站起来。|He is standing up from the chair.|站起来以后，他可以走路。|After standing up, he can walk.
+D|进去|他走进去了。|He has walked inside.|他可以进去找人。|He can go inside to look for someone.
+E|下来|他从上面走下来。|He is walking down from above.|下来以后，他可以走到这里。|After coming down, he can walk here.
+F|上去|他想走上去。|He wants to walk up.|他从这里走上去。|He is walking up from here.
+# 14|菜单 盘子 电视节目 月亮 冰箱 香蕉
+A|月亮|天上有月亮。|There is a moon in the sky.|晚上的月亮很漂亮。|The moon is beautiful at night.
+B|冰箱|这是一个冰箱。|This is a fridge.|冰箱里可以放水果。|We can put fruit in a fridge.
+C|香蕉|这里有很多香蕉。|There are many bananas here.|这些香蕉可以吃。|These bananas are edible.
+D|电视节目|电视里正在放电视节目。|A television programme is showing on the TV.|我们可以坐着看电视节目。|We can sit and watch a television programme.
+E|菜单|这是菜单。|This is a menu.|菜单可以帮助我们点菜。|A menu can help us order food.
+F|盘子|这是一个盘子。|This is a plate.|盘子上有花。|There are flowers on the plate.
+# 15|节日 留学生 街道 世界 上网 新闻
+A|上网|他们正在用电脑上网。|They are using computers to go online.|上网可以学习很多东西。|We can learn many things online.
+B|新闻|报纸上有新闻。|There is news in the newspaper.|看新闻可以了解世界。|Reading the news helps us learn about the world.
+C|街道|这里的街道很大。|The street here is large.|街道两边有很多楼。|There are many buildings on both sides of the street.
+D|留学生|这些人是留学生。|These people are international students.|留学生可以一起学习。|International students can study together.
+E|世界|这是世界地图。|This is a world map.|世界上有很多国家。|There are many countries in the world.
+F|节日|他们正在过节日。|They are celebrating a festival.|节日的时候，大家很高兴。|Everyone is happy during the festival.
+# 16|皮鞋 城市 帽子 鼻子 刷牙 头发
+A|城市|这是一个城市。|This is a city.|城市里有很多楼。|There are many buildings in the city.
+B|鼻子|她的鼻子小小的。|She has a small nose.|鼻子在脸上。|The nose is on the face.
+C|皮鞋|这是一双皮鞋。|These are leather shoes.|皮鞋是黑色的。|The leather shoes are black.
+D|头发|她的头发很长。|Her hair is long.|她的头发很好看。|Her hair looks nice.
+E|刷牙|妈妈和孩子正在刷牙。|The mother and child are brushing their teeth.|他们在洗手间刷牙。|They are brushing their teeth in the bathroom.
+F|帽子|这是帽子。|This is a hat.|帽子可以放在头上。|We can put the hat on our head.
+# 17|邻居 爱好 选择 饱 渴 冬天
+A|冬天|冬天这里下雪了。|It has snowed here in winter.|冬天可以看到白色的雪。|We can see white snow in winter.
+B|邻居|他们是邻居。|They are neighbours.|邻居正在一起聊天儿。|The neighbours are chatting together.
+C|饱|她正在吃东西，可能快饱了。|She is eating and may soon be full.|吃饱以后可以休息一下。|We can rest for a while after eating enough.
+D|选择|他在想怎么选择。|He is thinking about what to choose.|这里有很多门可以选择。|There are many doors to choose from here.
+E|爱好|这里写着一个关于爱好的问题。|There is a question about hobbies here.|每个人都可以有自己的爱好。|Everyone can have their own hobbies.
+F|渴|她运动以后可能渴了。|She may be thirsty after exercising.|口渴了，她就喝水。|When she is thirsty, she drinks water.
+# 18|动物 国家 同意 相信 奇怪 万
+A|国家|图上有很多国家。|There are many countries represented in the picture.|每个国家都有自己的文化。|Every country has its own culture.
+B|同意|这是同意的意思。|This means agreement.|他可能想说同意。|He may be indicating that he agrees.
+C|动物|这里有很多动物。|There are many animals here.|这些动物在一起。|These animals are together.
+D|万|这里写着两万。|It says twenty thousand here.|两万比一万多。|Twenty thousand is more than ten thousand.
+E|奇怪|这些东西很奇怪。|These things are strange.|看起来很奇怪。|It looks very strange.
+F|相信|这里的意思是相信。|The meaning here is believe.|相信自己很重要。|It is important to believe in yourself.
+# 19|眼睛 头发 鼻子 耳朵 嘴 脸
+A|耳朵|她的耳朵在头的旁边。|Her ears are at the sides of her head.|我们用耳朵听声音。|We hear sounds with our ears.
+B|嘴|她的嘴小小的。|Her mouth is small.|我们用嘴说话。|We use our mouths to speak.
+C|脸|她的脸很漂亮。|Her face is pretty.|脸上有眼睛和鼻子。|The eyes and nose are on the face.
+D|头发|她的头发是黑色的。|Her hair is black.|头发在头上。|Hair is on the head.
+E|眼睛|她的眼睛没有打开。|Her eyes are closed.|我们用眼睛看东西。|We use our eyes to see things.
+F|鼻子|她的鼻子在脸的中间。|Her nose is in the middle of her face.|鼻子在嘴的上面。|The nose is above the mouth.
+# 20|难过 成绩 照相机 信用卡 碗 东
+A|信用卡|这是一张信用卡。|This is a credit card.|买东西可以用信用卡。|We can use a credit card to buy things.
+B|东|上面写着东。|It says east on the sign.|图上写的是东。|The picture says east.
+C|成绩|她的成绩很好。|Her results are very good.|她拿着成绩给大家看。|She is showing everyone her results.
+D|照相机|这是一个照相机。|This is a camera.|照相机可以照相。|A camera can take photos.
+E|难过|他看起来很难过。|He looks upset.|难过的时候可以找朋友说说话。|When we are upset, we can talk to a friend.
+F|碗|这里有三个碗。|There are three bowls here.|碗的颜色不一样。|The bowls are different colors.

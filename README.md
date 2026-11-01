@@ -228,3 +228,9 @@ transparent beginner grammar forms such as 每天 and 吃饭), and only words fr
 strictly earlier chapters. Other new words from the current or later chapters
 are excluded. Generated word segments are retained for validation. Run
 `node tools/validate-book-word-examples.cjs` to check every example.
+
+## HSK 3 textbook reader
+
+Open **Book** in the sidebar and choose **HSK 3** at the top for the 20 chapters of the supplied HSK Standard Course 3 (HSK 2.0). It includes new words with examples, numbered grammar, four readings per chapter, word details with chapter review lists, passage listening, and the original opening picture exercises with answers and two descriptions each. Pinyin and English controls are independent. HSK 3 review words are stored separately from HSK 4 and are included in progress backups. Choose **HSK 4** in the same selector for the existing HSK 4 reader.
+
+Source and rebuild details: [tools/hsk3/README.md](tools/hsk3/README.md).
