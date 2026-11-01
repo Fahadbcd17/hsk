@@ -1,5 +1,5 @@
 /* Relative paths work at both username.github.io and /repository-name/. */
-const CACHE='hsk-studio-static-v1.9.3-separate-word-aids';
+const CACHE='hsk-studio-static-v1.9.4-chapter-navigation';
 const FILES=['./','./index.html','./styles.css','./content.js','./grammar-guide.js','./grammar-exams.js','./vocabulary-exams.js','./engine.js','./app.js','./book.js','./book-content.js','./book-word-examples.js','./book-pictures.js',...Array.from({length:20},(_,i)=>Array.from('ABCDEF',letter=>'./assets/book-pictures/chapter-'+String(i+1).padStart(2,'0')+'-'+letter+'.webp')).flat(),'./icon.svg','./manifest.webmanifest'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES.map(url=>new Request(url,{cache:'reload'})))).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('hsk-studio-static-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));

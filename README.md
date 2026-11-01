@@ -175,7 +175,8 @@ meanings are available in the hover popups.
 Hover, focus, or tap any Chinese character in a passage to see the whole word’s pinyin, dictionary meaning, and part of speech,
 plus the selected character’s pinyin. Compound words such as 听说 highlight
 as one unit when either character is hovered or tapped. Escape or tapping outside closes the popup.
-Chapters 1–19 have a next-chapter button; chapter 20 returns to all chapters.
+Each chapter has Previous and Next buttons at the bottom, disabled at the first
+and last chapter respectively. The All chapters button remains at the top.
 
 The reader and annotations work offline after the app is cached. Source PDFs
 are opened separately and are not pre-cached. See [BOOK-SOURCES.md](BOOK-SOURCES.md)
