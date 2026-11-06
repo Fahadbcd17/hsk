@@ -107,3 +107,6 @@ body.dark .btn.secondary.book-back{color:#13231a}
 #book-word-entries{grid-template-columns:repeat(2,minmax(0,1fr))}
 .book-word-summary{white-space:nowrap;overflow-x:auto;scrollbar-width:thin}
 @media(max-width:700px){#book-word-entries{grid-template-columns:minmax(0,1fr)}}
+
+/* All chapter review words */
+.saved-words-toolbar{justify-content:space-between;margin:24px 0}.saved-word{min-width:0;overflow-wrap:anywhere}.saved-word h2{font-size:32px;margin:0 0 8px}.saved-word p{margin:8px 0}.saved-word-sources{display:flex;flex-wrap:wrap;gap:6px;margin-top:16px}.saved-word-sources .tag{white-space:normal}

@@ -234,3 +234,11 @@ are excluded. Generated word segments are retained for validation. Run
 Open **Book** in the sidebar and choose **HSK 3** at the top for the 20 chapters of the supplied HSK Standard Course 3 (HSK 2.0). It includes new words with examples, numbered grammar, four readings per chapter, word details with chapter review lists, passage listening, and the original opening picture exercises with answers and two descriptions each. Pinyin and English controls are independent. HSK 3 review words are stored separately from HSK 4 and are included in progress backups. Choose **HSK 4** in the same selector for the existing HSK 4 reader.
 
 Source and rebuild details: [tools/hsk3/README.md](tools/hsk3/README.md).
+
+## All saved review words and PDF download
+
+Open **Saved words** in the sidebar to see the words saved from every HSK 3 and HSK 4 chapter. Entries with the same Chinese, pinyin, meaning, and part of speech appear once, with all their source chapter labels. Different meanings stay separate. The original per-chapter review lists remain intact.
+
+**Download PDF** creates an A4 document on the device, with Chinese, pinyin, full word meaning, part of speech, and source chapters. It automatically adds pages as the list grows. Rendered text is embedded as high-resolution page images to preserve Chinese and tone marks without PDF font dependencies; the PDF text is not selectable. Export works locally and requires no account, network service, or additional library. The button is disabled until at least one word is saved.
+
+Validation: `node tools/validate-saved-words.cjs` checks aggregation across levels and chapters, deduplication, unchanged storage, invalid-entry handling, escaped content, and the empty state. Browser validation covers an actual multi-page download and visual review of all exported pages.
